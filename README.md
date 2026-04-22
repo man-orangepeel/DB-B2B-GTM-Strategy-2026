@@ -4,41 +4,41 @@
 
 ---
 
-## 0 · The Claim
+## Executive Summary
 
-<div class="claim-highlight">
+> *« 5 out of 17,000 notaires are fully autonomous on a Bitcoin case. »*
+> — Gwendal Texier, notary at Liffré · INAN founder · field interview, 07/04/2026
 
-Across France's 130,000+ registered training providers, **none teaches Bitcoin to notaires (civil-law notaries) and chartered accountants in their professional practice**. Découvre Bitcoin can own this whitespace in 12 months.
+### The question
 
-</div>
+Does a viable B2B opportunity exist for Découvre Bitcoin in France, and how to enter it?
 
-*Terminology — **Notaires** designates France's ~17,000 civil-law notaries, state-appointed officers with exclusive jurisdiction over real-estate transactions, estate planning and authenticated deeds (not the Anglo-Saxon « notary public »). See [Glossary](Appendix_3_Glossary.md).*
+### The answer — what field interviews changed
 
-**Three anchor figures.** **130,000+ training providers in France · 0 dedicated to Bitcoin for notaires and chartered accountants** (Mon Compte Formation / DGEFP 2025 — 133,764 providers registered) · **2 priority segments backed by 8 in-person expert interviews** (07/04 – 14/04/2026) · **150 – 350 professionals trained over 12 months** (100–200 notaires + 50–150 chartered accountants, nominal scenario).
+| Desk rank (pre-field) | Field verdict | Anchor citation | Retained status |
+|:-:|---|---|:-:|
+| **#1 · CGP** (33/40) | Commission model blocks Bitcoin interest | *« the hardest target there is »* — LAF | ❌ niche |
+| **#2 · Notaires** (30/40) | Responsive, gap measurable, institutional channel open | *« 5 of 17,000 autonomous »* — GT | ✅ **Priority 1** |
+| **#3 · PSAN / CASP** (29/40) | No external training market ; Art. 81 self-drafted | *« real barrier = 20–30 % cyber audit »* — AG | ❌ out of Top 5 |
+| **#4 · Banks** (28/40) | Bitcoin in Phase 3 of digital-assets roadmap | *« Phase 3 »* — MD (BNP) | ⏸ 2–3 yr horizon |
+| **#5 · Chartered accountants** (27/40) | Strongest Bitcoin-only validation in corpus | *« the natural entry point »* — JO | ✅ **Priority 2** |
 
-### Diagnosis — what fieldwork revealed
+Across France's **130,000+ registered training providers**, none teaches Bitcoin in notarial or accounting practice (Mon Compte Formation / DGEFP 2025 — 133,764 providers). Découvre Bitcoin can own this whitespace by Q2 2027 via a **Qualiopi-partner umbrella** (4NK Academy — sole RNCP level-6 blockchain in Europe), a **notary-practitioner co-construction** (Gwendal Texier / INAN) and a **Bitcoin-native product coupling** (Le Coffre, commercialised and cross-segment). Nominal scenario : **150–350 professionals trained in 12 months** (100–200 notaires + 50–150 chartered accountants).
 
-Field interviews reshuffled the segment ranking derived from desk research :
+### Recommendation — 4 operational moves
 
-- **Notaires** — field-confirmed priority. 5 of 17,000 are autonomous on Bitcoin cases ; institutional channel INFN / INAFON proven responsive.
-- **Chartered accountants** — field-confirmed priority. Autonomous decision, Bitcoin-only endorsed as « the natural entry point to crypto-assets » (Julien Oréal).
-- **CGP / wealth advisors** — field-downgraded. Commission-based revenue model blocks Bitcoin interest : « the hardest target there is » (Louis-Alexandre de Froissard).
-- **PSAN / crypto-asset service providers** — field-invalidated. No external training market ; firms self-drafted Art. 81 procedures with lawyers.
-- **Banks** — not short-term ready. Bitcoin in Phase 3 of their digital-assets roadmap, horizon 2 – 3 years.
+- **Seal 3 P0 partnerships by Q3 2026** — 4NK Academy (Qualiopi) · Le Coffre (product) · Gwendal Texier (notary practitioner).
+- **Pilot 1 notary chamber by Q4 2026** outside Toulouse / Lyon (Bretagne, Nouvelle-Aquitaine, Pays de la Loire, Grand Est, Hauts-de-France).
+- **File campusAtlas 2027 catalog application by Q3 2026** — only institutional door to 138,400 IDCC 787 salaried accountants before 2028.
+- **Secure Rogzy B2B bandwidth ≥ 40 % for 12 months** — internal execution constraint, no partner substitute.
 
-Detail, scores and rebuttal in [What Fieldwork Revealed](B_Fieldwork_Reversals.md).
+### What would kill the plan
 
-### Recommendation — the 12-month path
+Five kill criteria tracked quarterly (full list and mitigation in [§E](#e--failure-modes--constraints)). Top three :
 
-Five blocks compose the recommendation :
-
-- **Bitcoin-only depth** — the reference module, not a generalist crypto catalog.
-- **2 priority segments** — notaires + chartered accountants.
-- **3 P0 partners** — 4NK Academy (Qualiopi + RNCP) · Le Coffre (native Bitcoin product anchoring) · Gwendal Texier / INAN (notarial practitioner network).
-- **4 acquisition channels** — national institutional · regional chambers · professional press · direct firm outreach.
-- **150 – 350 professionals trained** — under nominal scenario, with OPCO ATLAS financing via the Qualiopi partner.
-
-Detailed plan, gates, partners and pricing in [The 12-Month Path](D_12m_Path.md).
+- **Conversion < 10 % at T+6** — gap is factual but not felt as urgency by the selected segments.
+- **Zero Qualiopi partnership signed at T+6** — no institutional scale path.
+- **Pilot NPS < 7 with explicit Bitcoin-only pushback** — positioning itself rejected by target segments.
 
 <div class="schema-grid">
 <div class="schema-item" markdown="1">
