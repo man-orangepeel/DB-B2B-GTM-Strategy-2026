@@ -73,7 +73,7 @@ Detailed plan, gates, partners and pricing in [The 12-Month Path](D_12m_Path.md)
 
 Family offices (25/40) and lawyers (not scored initially) sat below the Top 5 desk ; both lacked any Phase-A interview and are flagged as medium-term undocumented-field.
 
-**Bitcoin literacy — universally low, heterogeneous by autonomy.** Triangulating eight field interviews with public statistical baselines (no corps professionnel publishes granular data on profession × Bitcoin competence), the study retains qualitative codes rather than fabricated scores. Population anchor : 12 % of French adults hold crypto-assets (ADAN × KPMG × IPSOS 2024), 49 % of holders are CSP+. Segment-level signal — notaires « very low » (GT estimate : 5 of 17,000 autonomous on a Bitcoin case), chartered accountants « low with emerging pockets », CGP « very low » (structural), bank retail « near zero » (Elodie, AS convergent), PSAN practitioners « high by occupation ». Lawyers and family offices : undocumented. Full table and limitations in [Bitcoin Literacy](A_Market_Analysis/A4_Market_Sizing.md) and [Market State](A_Market_State.md).
+**Bitcoin literacy — universally low, heterogeneous by autonomy.** Triangulating eight field interviews with public statistical baselines (no corps professionnel publishes granular data on profession × Bitcoin competence), the study retains qualitative codes rather than fabricated scores. Population anchor : 12 % of French adults hold crypto-assets (ADAN × KPMG × IPSOS 2024), 49 % of holders are CSP+. Segment-level signal — notaires « very low » (GT estimate : 5 of 17,000 autonomous on a Bitcoin case), chartered accountants « low with emerging pockets », CGP « very low » (structural), bank retail « near zero » (Elodie, AS convergent), PSAN practitioners « high by occupation ». Lawyers and family offices : undocumented. Full table and limitations in [Bitcoin Literacy](A_Market_Sizing.md) and [Market State](A_Market_State.md).
 
 **Five kill criteria — posed before interviews, tested against field signal in Part B.** **(KC-1)** Professionals lack Bitcoin training and feel the gap as a problem. **(KC-2)** Employers are prepared to fund. **(KC-3)** MiCA creates 2025-2026 training urgency. **(KC-4)** The Bitcoin-only positioning is credible in B2B. **(KC-5)** A B2B buyer will pay without Qualiopi. Field verdict in Part B.
 
@@ -274,14 +274,15 @@ The following companion files detail and extend each section of this report. Sou
 | # | Annex | Content | Link |
 |:-:|---|---|---|
 | I | **Sources & Interview Index** | Primary data (8 interviews) · regulatory texts · official statistics · confidence hierarchy | [Sources_Index.md](Sources_Index.md) |
-| II | **Methodology** | Segment-first protocol · 8-criterion scoring grid · field confidence levels · interview guide structure | [METHODOLOGY.md](METHODOLOGY.md) |
-| III | **Glossary** | Technical terms · regulatory acronyms · named actors (practitioners, organisations, competitors) | [GLOSSARY.md](GLOSSARY.md) |
-| IV | **Market Sizing & Scoring** | TAM/SAM/SOM · full pre-field and post-field scoring matrix (6 segments × 8 criteria) · Bitcoin literacy by segment | [A_Market_Analysis/A4_Market_Sizing.md](A_Market_Analysis/A4_Market_Sizing.md) |
+| II | **Methodology** | Segment-first protocol · 8-criterion scoring grid · field confidence levels · interview guide structure | [Methodology.md](Methodology.md) |
+| III | **Glossary** | Technical terms · regulatory acronyms · named actors (practitioners, organisations, competitors) | [Glossary.md](Glossary.md) |
+| IV | **Market Sizing & Scoring** | TAM/SAM/SOM · full pre-field and post-field scoring matrix (6 segments × 8 criteria) · Bitcoin literacy by segment | [A_Market_Sizing.md](A_Market_Sizing.md) |
 | V | **Market State** | Regulatory context (MiCA · DAC8 · ANC 2026-01) · training financing · segment-first methodology detail | [A_Market_State.md](A_Market_State.md) |
 | VI | **What Fieldwork Revealed** | 8-interview casting · three reversals · kill criteria verdict · full post-field segment rationale | [B_Terrain_Flip.md](B_Terrain_Flip.md) |
 | VII | **Competitive White Space** | Full 13-criteria competitor matrix · gap analysis per segment · entry window detail | [C_White_Space.md](C_White_Space.md) |
 | VIII | **The 12-Month Path** | Positioning detail · partner fiches · weekly sequencing · pricing discussion · KPI cadence | [D_12m_Path.md](D_12m_Path.md) |
 | IX | **Failure Modes** | Risk register with plan B per risk · kill criteria activation conditions · cash caveats | [E_Failure_Modes.md](E_Failure_Modes.md) |
+| X | **Distribution Partners** | Detailed partner fiches — P0 / P1 / Plans B · contact info · agreement status | [D_Distribution_Partners.md](D_Distribution_Partners.md) |
 
 ---
 
