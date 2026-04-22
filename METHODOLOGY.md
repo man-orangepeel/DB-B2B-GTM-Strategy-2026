@@ -88,11 +88,11 @@ Cinq hypothèses sur le marché ont été posées avant les entretiens terrain. 
 
 | LOF | Hypothèse |
 |---|---|
-| **LOF 1** | Les professionnels manquent de formation Bitcoin et le ressentent comme un problème |
-| **LOF 2** | Les employeurs sont disposés à financer la formation |
-| **LOF 3** | MiCA crée une urgence structurelle de formation 2025–2026 |
-| **LOF 4** | Le positionnement Bitcoin-only de DB est crédible en B2B |
-| **LOF 5** | Un acheteur B2B paiera sans certification Qualiopi |
+| **KC-1** | Les professionnels manquent de formation Bitcoin et le ressentent comme un problème |
+| **KC-2** | Les employeurs sont disposés à financer la formation |
+| **KC-3** | MiCA crée une urgence structurelle de formation 2025–2026 |
+| **KC-4** | Le positionnement Bitcoin-only de DB est crédible en B2B |
+| **KC-5** | Un acheteur B2B paiera sans certification Qualiopi |
 
 **Interprétation :** Le statut terrain de chaque LOF modèle la confiance dans l'attractivité du segment correspondant. Un segment avec 2–3 LOF confirmés note plus haut qu'un avec signaux contradictoires. Les statuts consolidés post-terrain sont documentés dans le fichier de synthèse stratégique et le glossaire.
 
@@ -286,7 +286,7 @@ Quand les données terrain contredisent le desk initial, l'observation terrain e
 | MD (anonymisé) | BNP Digital Assets | Banques | 10/04/2026 | Appétit Bitcoin banques, contraintes compliance, appétit formation |
 | Elodie (anonymisée) | AFS/Arkea | Assurance / Institutionnel | 11/04/2026 | Signal hors-segment : contraintes institutionnelles spend formation |
 | Louis-Alexandre de Froissard | Conseiller en gestion de patrimoine, praticien Bitcoin | Conseillers / Cross | 12/04/2026 | Positionnement conseiller, réception Bitcoin-only, canal AUREP, cross-sell notaires |
-| Julien Oréal | Expert-comptable libéral | Experts-comptables | 13/04/2026 | Autonomie expert-comptable, base clients crypto, sensibilité prix, validation LOF 4 |
+| Julien Oréal | Expert-comptable libéral | Experts-comptables | 13/04/2026 | Autonomie expert-comptable, base clients crypto, sensibilité prix, validation KC-4 |
 | Aurore Galves | Fondatrice Gallion, ex-OF | PSAN / Marché formation | 14/04/2026 | Structure marché formation, contraction PSAN, gatekeeping Qualiopi, réception Bitcoin-only |
 
 ---

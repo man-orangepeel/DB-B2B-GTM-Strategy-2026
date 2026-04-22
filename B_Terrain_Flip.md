@@ -26,7 +26,7 @@ Huit praticiens interviewés en présentiel ou visioconférence du 07/04/2026 au
 
 **Citation signature** : *« Je le crois plus. Je crois que l'éducation ça passe par le besoin. »*
 
-**Contribution** : a invalidé l'hypothèse LOF 3 (« MiCA crée une urgence »). A orienté l'approche « la formation suit la demande, ne la crée pas » · timing estimé 5 à 10 ans pour structurer un marché. A confirmé la déclinaison du service du Coffre sur les cabinets experts-comptables, CGP, acteurs logistiques et TPE/PME (20/04/2026). A validé l'économie du modèle Qualiopi. A fourni la caution cross-segment comme partenaire P0.
+**Contribution** : a invalidé l'hypothèse KC-3 (« MiCA crée une urgence »). A orienté l'approche « la formation suit la demande, ne la crée pas » · timing estimé 5 à 10 ans pour structurer un marché. A confirmé la déclinaison du service du Coffre sur les cabinets experts-comptables, CGP, acteurs logistiques et TPE/PME (20/04/2026). A validé l'économie du modèle Qualiopi. A fourni la caution cross-segment comme partenaire P0.
 
 ### 1.3 Alexandre Stachtchenko (AS) · 09/04/2026
 
@@ -76,7 +76,7 @@ Huit praticiens interviewés en présentiel ou visioconférence du 07/04/2026 au
 
 **Citation signature** : *« Bitcoin c'est vraiment le point d'entrée pour moi dans les crypto-actifs. Ce qui s'applique au Bitcoin peut s'appliquer à un autre type de crypto-actif. »*
 
-**Contribution** : a fourni la validation la plus forte de la LOF 4 (Bitcoin-only crédible) dans tout le corpus. A documenté l'autonomie décisionnelle totale du petit cabinet libéral. A identifié le déclencheur formation OEC : obligation déontologique une fois un client crypto accepté. A confirmé le traitement comptable identique pour tous les crypto-actifs sous le PCG français.
+**Contribution** : a fourni la validation la plus forte de la KC-4 (Bitcoin-only crédible) dans tout le corpus. A documenté l'autonomie décisionnelle totale du petit cabinet libéral. A identifié le déclencheur formation OEC : obligation déontologique une fois un client crypto accepté. A confirmé le traitement comptable identique pour tous les crypto-actifs sous le PCG français.
 
 ### 1.8 Aurore Galves (AG) · 14/04/2026
 
@@ -186,21 +186,21 @@ Cinq hypothèses avaient été posées avant les entretiens. Leur statut post-te
 
 | # | Hypothèse | Statut global | Lecture décisionnelle |
 |:-:|---|:-:|---|
-| LOF 1 | Les professionnels manquent de formation Bitcoin et le ressentent comme un problème | ✅ Confirmé factuellement / ⚠️ Urgence ressentie uniquement par les notaires | Le manque est réel et massif sur tous les segments. Mais il ne crée une demande active que là où les clients finaux ont du Bitcoin à gérer (notaires en bull market). **La formation ne crée pas la demande.** (NC, AS, MD, AG convergents) |
-| LOF 2 | Les employeurs sont prêts à financer | ❌ Invalide comme demande structurelle / ⚠️ One-shot possible via réseau | 5 signaux négatifs convergents (NC, AS, MD, Elodie, AG). One-shot confirmé (Valfance, AUREP) mais non scalable. Dans les grandes organisations : circuit catalogue DRH bloque tout achat non référencé. |
-| LOF 3 | MiCA crée une urgence de formation 2025-2026 | ⚠️ Partiel · sous-segment CGP actifs conseil (~5 CGP) / ❌ Invalide pour tous autres | Signal LAF réel (date limite juin 2026) mais segment extrêmement étroit. Pour PSAN : vraie barrière = cybersécurité, pas la formation. Pour banques et EC : invalide. 5e signal convergent de non-déclenchement (GT, NC, AS, JO, AG). |
-| LOF 4 | Brand DB crédible en B2B Bitcoin-only | ⚠️ Partiel — segmenter explicitement : ✅ Notaires, PSAN Bitcoin-only, EC / ❌ Banques, PSAN crypto, CGP | Valeur standalone du module Bitcoin confirmée pour Notaires (GT, LAF), EC (JO — le plus fort signal du corpus), PSAN Bitcoin-only (AG). Banques en Phase 1 = trop tôt. CGP = modèle commission bloque. |
-| LOF 5 | Un acheteur B2B paiera sans Qualiopi | ✅ One-shot possible / ❌ Non scalable / ❌ Bloqué grandes organisations | Triple confirmation NC / MD / AG : Qualiopi = condition de scalabilité absolue. One-shot via réseau reste possible (Valfance, AUREP, INFN) mais non réplicable à grande échelle. Décision stratégique clé : obtenir Qualiopi via partenaire vs rester sous-traitant de contenu. |
+| KC-1 | Les professionnels manquent de formation Bitcoin et le ressentent comme un problème | ✅ Confirmé factuellement / ⚠️ Urgence ressentie uniquement par les notaires | Le manque est réel et massif sur tous les segments. Mais il ne crée une demande active que là où les clients finaux ont du Bitcoin à gérer (notaires en bull market). **La formation ne crée pas la demande.** (NC, AS, MD, AG convergents) |
+| KC-2 | Les employeurs sont prêts à financer | ❌ Invalide comme demande structurelle / ⚠️ One-shot possible via réseau | 5 signaux négatifs convergents (NC, AS, MD, Elodie, AG). One-shot confirmé (Valfance, AUREP) mais non scalable. Dans les grandes organisations : circuit catalogue DRH bloque tout achat non référencé. |
+| KC-3 | MiCA crée une urgence de formation 2025-2026 | ⚠️ Partiel · sous-segment CGP actifs conseil (~5 CGP) / ❌ Invalide pour tous autres | Signal LAF réel (date limite juin 2026) mais segment extrêmement étroit. Pour PSAN : vraie barrière = cybersécurité, pas la formation. Pour banques et EC : invalide. 5e signal convergent de non-déclenchement (GT, NC, AS, JO, AG). |
+| KC-4 | Brand DB crédible en B2B Bitcoin-only | ⚠️ Partiel — segmenter explicitement : ✅ Notaires, PSAN Bitcoin-only, EC / ❌ Banques, PSAN crypto, CGP | Valeur standalone du module Bitcoin confirmée pour Notaires (GT, LAF), EC (JO — le plus fort signal du corpus), PSAN Bitcoin-only (AG). Banques en Phase 1 = trop tôt. CGP = modèle commission bloque. |
+| KC-5 | Un acheteur B2B paiera sans Qualiopi | ✅ One-shot possible / ❌ Non scalable / ❌ Bloqué grandes organisations | Triple confirmation NC / MD / AG : Qualiopi = condition de scalabilité absolue. One-shot via réseau reste possible (Valfance, AUREP, INFN) mais non réplicable à grande échelle. Décision stratégique clé : obtenir Qualiopi via partenaire vs rester sous-traitant de contenu. |
 
 ### Citations d'ancrage transversales
 
-Trois citations transversales structurent la lecture des cinq LOFs.
+Trois citations transversales structurent la lecture des cinq kill criteria.
 
-> *« Je le crois plus. Je crois que l'éducation ça passe par le besoin. »* — Nicolas Cantu, sur LOF 1 et LOF 3. Timing estimé pour un marché structurel : 5 à 10 ans.
+> *« Je le crois plus. Je crois que l'éducation ça passe par le besoin. »* — Nicolas Cantu, sur KC-1 et KC-3. Timing estimé pour un marché structurel : 5 à 10 ans.
 
-> *« Bitcoiner, c'est pas une compétence. Intégrer des solutions de paiement, c'est une compétence. Bitcoin ça vient juste être une brique. »* — Aurore Galves, sur LOF 4. Positionnement DB = module intégré dans un cursus métier partenaire.
+> *« Bitcoiner, c'est pas une compétence. Intégrer des solutions de paiement, c'est une compétence. Bitcoin ça vient juste être une brique. »* — Aurore Galves, sur KC-4. Positionnement DB = module intégré dans un cursus métier partenaire.
 
-> *« La formation a le même défaut que le courtage de cryptomonnaie. Quand tu fais de la formation, faut être conforme Qualiopi. »* — Aurore Galves, sur LOF 5. Analogie PSAN / Qualiopi : deux marchés « très verrouillés » après des années d'abus. Décision GTM structurante.
+> *« La formation a le même défaut que le courtage de cryptomonnaie. Quand tu fais de la formation, faut être conforme Qualiopi. »* — Aurore Galves, sur KC-5. Analogie PSAN / Qualiopi : deux marchés « très verrouillés » après des années d'abus. Décision GTM structurante.
 
 ---
 
@@ -213,7 +213,7 @@ La révision post-terrain produit le classement suivant. Les scores intègrent l
 | Rang post-terrain | Segment | Score /40 | Signal terrain consolidé |
 |:-:|---|:-:|---|
 | 1 | **Notaires** | 28 | ✅ Réceptifs, besoins techniques réels (succession, donation, ancrage documentaire), peu d'a priori. Canal INFN / INAFON identifié. (GT + LAF convergents) |
-| 2 | **Experts-comptables** | 27 | ✅ LOF 4 confirmée fort (JO). Bitcoin = point d'entrée naturel pour les EC. Décision autonome petits cabinets. Canal OEC identifié. |
+| 2 | **Experts-comptables** | 27 | ✅ KC-4 confirmée fort (JO). Bitcoin = point d'entrée naturel pour les EC. Décision autonome petits cabinets. Canal OEC identifié. |
 | 3 | Avocats | 26 | 🟡 Desk seul · zéro interview Phase A · signal indirect LAF |
 | 4 | CGP / CGPI | 25 | 🔴 Frein structurel confirmé (LAF). Sous-segment MiCA étroit (~5 CGP) |
 | 5 | Family offices | 25 | 🟡 Desk seul · zéro interview Phase A · signal indirect MD / LAF |
@@ -229,7 +229,7 @@ Ce sont les deux segments du Top 5 post-terrain à signaux terrain convergents e
 - **Signaux terrain forts et convergents.** Notaires : Gwendal Texier + Louis-Alexandre de Froissard convergents sur la réceptivité et le gap de compétence. Experts-comptables : Julien Oréal convergent avec recommandation LAF et OEC.
 - **Autonomie décisionnelle.** Les deux segments permettent une vente courte (praticien libéral ou petit cabinet = décideur autonome, cycle 1-3 mois) sans dépendance au catalogue DRH.
 - **Pression réglementaire documentée.** DAC8 (01/01/2026) et ANC 2026-01 (publiée 09/01/2026) créent un déclencheur naturel sur les deux segments.
-- **Alignement Bitcoin-only confirmé.** Validation de la LOF 4 avec la valeur standalone du module Bitcoin explicitement acceptée sur les deux segments.
+- **Alignement Bitcoin-only confirmé.** Validation de la KC-4 avec la valeur standalone du module Bitcoin explicitement acceptée sur les deux segments.
 - **Mécanismes de financement accessibles.** OPCO ATLAS (via Qualiopi partenaire), FIFPL pour les libéraux, budget propre cabinet disponible court terme.
 
 ### 5.3 Segments écartés — justification

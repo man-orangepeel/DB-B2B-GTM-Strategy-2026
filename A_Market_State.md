@@ -196,7 +196,7 @@ Ces trois questions structurent les entretiens de Phase B. Leur réponse terrain
 
 *Section destinée à l'auteur de l'étude pour traçabilité interne. Les auditeurs n'ont pas besoin d'y accéder.*
 
-Ce fichier consolide : `briefing_rapport_final.md` §1.1, §3 (segment-first), §4.0 à §4.6 (scoring desk par segment), §5 (cinq LOFs), §8 (mécanismes de financement) · `A_Market_Mapping/A1_MiCA.md` (paysage MiCA) · `A_Market_Mapping/A2_Formation_Pro_FR.md` §59 (130k+ OF · Qualiopi · OPCO · FIFPL · AGEFICE · CPF) · `A_Market_Mapping/A3_Paysage_Financier.md` (six segments) · `A_Market_Mapping/A7_Bitcoin_Literacy_Segments.md` §1 à §3 (niveau de maîtrise par segment, limitations) · `A_Market_Mapping/methodologie.md` (protocole Phase A) · `00_Strategie/leap of faith.md` (formulation initiale des cinq LOFs) · `A_Market_Mapping/Briefing_Superviseur_Bastien_14042026.md` (synthèse interne Top 5 desk).
+Ce fichier consolide : `briefing_rapport_final.md` §1.1, §3 (segment-first), §4.0 à §4.6 (scoring desk par segment), §5 (cinq kill criteria), §8 (mécanismes de financement) · `A_Market_Mapping/A1_MiCA.md` (paysage MiCA) · `A_Market_Mapping/A2_Formation_Pro_FR.md` §59 (130k+ OF · Qualiopi · OPCO · FIFPL · AGEFICE · CPF) · `A_Market_Mapping/A3_Paysage_Financier.md` (six segments) · `A_Market_Mapping/A7_Bitcoin_Literacy_Segments.md` §1 à §3 (niveau de maîtrise par segment, limitations) · `A_Market_Mapping/methodologie.md` (protocole Phase A) · `00_Strategie/leap of faith.md` (formulation initiale des cinq kill criteria) · `A_Market_Mapping/Briefing_Superviseur_Bastien_14042026.md` (synthèse interne Top 5 desk).
 
 ---
 

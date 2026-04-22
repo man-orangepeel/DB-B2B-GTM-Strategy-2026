@@ -8,7 +8,11 @@
 
 ## 0 · The Claim
 
+<div class="claim-highlight">
+
 Across France's 130,000+ registered training providers, **none teaches Bitcoin to notaires and chartered accountants in their professional practice**. Découvre Bitcoin can own this whitespace in 12 months.
+
+</div>
 
 ### Three anchor figures
 
@@ -18,21 +22,34 @@ Across France's 130,000+ registered training providers, **none teaches Bitcoin t
 | 2 | **2 priority segments · 8 in-person expert interviews** | Field interviews conducted 07/04 – 14/04/2026 |
 | 3 | **150 – 350 professionals trained over 12 months** | 100 – 200 notaires + 50 – 150 chartered accountants · nominal scenario |
 
-### Diagnosis — what the terrain flipped
-
-![Desk vs field matrix](assets/schema_A_matrix.svg)
+### Diagnosis — what fieldwork revealed
 
 Field interviews reshuffled the segment ranking derived from desk research. **Notaires** moved from middle-right to top-right (accessibility confirmed stronger than anticipated — 5 out of 17,000 are autonomous on Bitcoin cases, yet the institutional channel INFN / INAFON is proven responsive). **Chartered accountants** consolidated top-right (autonomous decision, Bitcoin-only endorsed as « the natural entry point to crypto-assets », Julien Oréal). **CGP / wealth advisors** collapsed to middle-left (commission-based revenue model blocks Bitcoin interest — « the hardest target there is », Louis-Alexandre de Froissard). **Crypto-asset service providers (PSAN)** invalidated to bottom-left (no external training market — firms self-drafted Art. 81 procedures with lawyers). **Banks** not short-term ready (Bitcoin in Phase 3 of their digital-assets roadmap, horizon 2 – 3 years).
 
-Detail, scores and rebuttal in [What the Terrain Flipped](B_Terrain_Flip.md).
+Detail, scores and rebuttal in [What Fieldwork Revealed](B_Terrain_Flip.md).
 
 ### Recommendation — the 12-month path
-
-![GTM 12-month flow](assets/schema_B_gtm_flow.svg)
 
 Five blocks : **Bitcoin-only depth** (the reference module, not a generalist crypto catalog) · **2 priority segments** (notaires + chartered accountants) · **3 P0 partners** (4NK Academy for Qualiopi + RNCP · Le Coffre for native Bitcoin product anchoring · Gwendal Texier / INAN for the notarial practitioner network) · **4 acquisition channels** (national institutional · regional chambers · professional press · direct firm outreach) · **150 – 350 professionals trained** under nominal scenario with OPCO ATLAS financing via the Qualiopi partner.
 
 Detailed plan, gates, partners and pricing in [The 12-Month Path](D_12m_Path.md).
+
+<div class="schema-grid">
+<div class="schema-item">
+
+**Diagnosis — segment ranking reshaped by fieldwork**
+
+![Desk vs field matrix](assets/schema_A_matrix.svg)
+
+</div>
+<div class="schema-item">
+
+**Recommendation — 12-month GTM sequencing**
+
+![GTM 12-month flow](assets/schema_B_gtm_flow.svg)
+
+</div>
+</div>
 
 ---
 
@@ -44,9 +61,9 @@ Detailed plan, gates, partners and pricing in [The 12-Month Path](D_12m_Path.md)
 
 **Training financing.** France registered **133,764 training providers** in 2025 (Mon Compte Formation / DGEFP) — none dedicated to Bitcoin for notaires and chartered accountants. Qualiopi certification is the access key : without it, no OPCO, FIFPL, AGEFICE or CPF funding is accessible. The relevant finance channels for our target segments are : **OPCO ATLAS PDC TPE** (up to €20,000 per trainee, requires a Qualiopi partner), own cabinet budget (direct sale, no condition), **FIFPL** (liberal professionals, cap €900/yr, requires Qualiopi), **AGEFICE** (TNS managers, €900–2,100/training, requires Qualiopi). **CPF is out of scope** for B2B professional finance training : 5–10 % of sales at best (Murielle Macadam confirmed), administrative burden disproportionate (Nicolas Cantu).
 
-**Six segments scored desk (8 criteria / 40 points).** Four mission criteria : M1 size, M2 training-need intensity, M3 accessibility, M4 funding mechanisms. Four complementary : C1 MiCA urgency, C2 end-client demand, C3 contract value, C4 DB Bitcoin-only alignment. Desk Top 5 :
+**Six segments scored desk — pre-field (8 criteria / 40 points).** Four mission criteria : M1 size, M2 training-need intensity, M3 accessibility, M4 funding mechanisms. Four complementary : C1 MiCA urgency, C2 end-client demand, C3 contract value, C4 DB Bitcoin-only alignment. Desk Top 5 *before field research* — subsequently revised in Part B :
 
-| Desk rank | Segment | Score | Rationale |
+| Pre-field rank | Segment | Score | Rationale |
 |:-:|---|:-:|---|
 | 1 | CGP / CGPI | 33/40 | 7 h/yr AMF obligation + MiCA urgency sub-segment + growing Bitcoin-client portfolio |
 | 2 | Notaires | 30/40 | Inheritance obligation · 12 % of French adults hold crypto · documented professional risk |
@@ -58,11 +75,11 @@ Family offices (25/40) and lawyers (not scored initially) sat below the Top 5 de
 
 **Bitcoin literacy — universally low, heterogeneous by autonomy.** Triangulating eight field interviews with public statistical baselines (no corps professionnel publishes granular data on profession × Bitcoin competence), the study retains qualitative codes rather than fabricated scores. Population anchor : 12 % of French adults hold crypto-assets (ADAN × KPMG × IPSOS 2024), 49 % of holders are CSP+. Segment-level signal — notaires « very low » (GT estimate : 5 of 17,000 autonomous on a Bitcoin case), chartered accountants « low with emerging pockets », CGP « very low » (structural), bank retail « near zero » (Elodie, AS convergent), PSAN practitioners « high by occupation ». Lawyers and family offices : undocumented. Full table and limitations in [Bitcoin Literacy](A_Market_Analysis/A4_Market_Sizing.md) and [Market State](A_Market_State.md).
 
-**Five field-testable hypotheses — kill-criteria for the plan.** Posed before interviews ; tested against field signal in Part B. (1) Professionals lack Bitcoin training and feel the gap as a problem. (2) Employers are prepared to fund. (3) MiCA creates 2025-2026 training urgency. (4) The Bitcoin-only positioning is credible in B2B. (5) A B2B buyer will pay without Qualiopi. Field verdict in Part B.
+**Five kill criteria — posed before interviews, tested against field signal in Part B.** **(KC-1)** Professionals lack Bitcoin training and feel the gap as a problem. **(KC-2)** Employers are prepared to fund. **(KC-3)** MiCA creates 2025-2026 training urgency. **(KC-4)** The Bitcoin-only positioning is credible in B2B. **(KC-5)** A B2B buyer will pay without Qualiopi. Field verdict in Part B.
 
 ---
 
-## B · What the terrain flipped
+## B · What fieldwork revealed
 
 ### The casting — eight field interviews
 
@@ -91,21 +108,31 @@ Eight practitioners interviewed in person or videoconference between 07/04 and 1
 
 The Bitcoin-only positioning defines **the offer, not the target**. Rogzy reframed the question — not « does this professional only use Bitcoin ? » but « does a dedicated Bitcoin module have standalone value for this professional ? ». Standalone value validated for notaires (Bitcoin dominates inheritance cases), chartered accountants (Bitcoin-specific tax and accounting obligations), PSAN-Bitcoin-only (module within Art. 81 curricula of partners). Disqualified for banks (Phase 1 blockchain fundamentals still needed) and for CGP (commission-structure friction). DB positions itself as the **Bitcoin reference module** inside broader professional curricula, not as a generalist crypto catalog.
 
-### Hypotheses verdict — the five LOFs
+### Kill criteria verdict
 
-| # | Hypothesis | Field verdict |
+| # | Kill criterion | Field verdict |
 |:-:|---|---|
-| LOF 1 | Pros lack Bitcoin training and feel the gap | ✅ Factually confirmed · ⚠️ felt as urgency only by notaires |
-| LOF 2 | Employers fund B2B training | ❌ Invalid as structural demand · ⚠️ one-shot possible via network |
-| LOF 3 | MiCA creates 2025-2026 training urgency | ⚠️ Partial (~5 CGP) · ❌ invalid elsewhere |
-| LOF 4 | Bitcoin-only is credible in B2B | ⚠️ Partial · ✅ Notaires, EC, PSAN-BTC-only · ❌ Banks, CGP |
-| LOF 5 | B2B buyer pays without Qualiopi | ✅ One-shot · ❌ not scalable · ❌ blocked in large orgs |
+| KC-1 | Pros lack Bitcoin training and feel the gap | ✅ Factually confirmed · ⚠️ felt as urgency only by notaires |
+| KC-2 | Employers fund B2B training | ❌ Invalid as structural demand · ⚠️ one-shot possible via network |
+| KC-3 | MiCA creates 2025-2026 training urgency | ⚠️ Partial (~5 CGP) · ❌ invalid elsewhere |
+| KC-4 | Bitcoin-only is credible in B2B | ⚠️ Partial · ✅ Notaires, EC, PSAN-BTC-only · ❌ Banks, CGP |
+| KC-5 | B2B buyer pays without Qualiopi | ✅ One-shot · ❌ not scalable · ❌ blocked in large orgs |
 
 ### Final scoring and priority segments
 
 Post-revision Top 5 : (1) **Notaires 28/40** · (2) **Chartered accountants 27/40** · (3) Lawyers 26/40 (desk only, no Phase A interview) · (4) CGP 25/40 · (5) Family offices 25/40 (desk only, no Phase A interview). Banks and PSAN exit the Top 5.
 
-**Selected segments — Notaires and chartered accountants.** Only two segments in the post-terrain Top 5 show convergent favourable field signals. Criteria : convergent practitioner signal, autonomous decision cycle (1-3 months), documented regulatory trigger (DAC8 · ANC 2026-01), Bitcoin-only alignment confirmed, funding channels accessible (OPCO ATLAS via Qualiopi partner, FIFPL for libéraux, own budget short-term). Lawyers and family offices are named as **medium-term undocumented-field** limitations — they warrant investigation post-delivery. Full casting, reversal citations, hypothesis verdict and segment rationale in [What the Terrain Flipped](B_Terrain_Flip.md).
+<div class="segment-callout">
+
+**Selected priority segments : Notaires · Chartered accountants**
+
+Only two segments in the post-field Top 5 show convergent favourable field signals. Selection criteria : convergent practitioner signal · autonomous decision cycle (1–3 months) · documented regulatory trigger (DAC8 · ANC 2026-01) · Bitcoin-only alignment confirmed · funding channels accessible (OPCO ATLAS via Qualiopi partner · FIFPL for libéraux · own cabinet budget short-term).
+
+*Lawyers and family offices : medium-term priority — no Phase A interviews, warrant investigation post-delivery.*
+
+</div>
+
+Full casting, reversal citations, kill criteria verdict and segment rationale in [What Fieldwork Revealed](B_Terrain_Flip.md).
 
 ---
 
@@ -234,22 +261,28 @@ Five structural constraints of Découvre Bitcoin are named upfront because they 
 
 **Top risks — rank-ordered by probability × impact.** (1) Experts & Cryptos obtains Qualiopi and closes the gap · (2) Experts & Cryptos expands chambers outside Toulouse / Lyon · (3) 4NK Academy declines the module partnership · (4) DB product capacity stretched across four modules and partnerships · (5) Gwendal Texier disengages · (6) Force Patrimoine × Expert Crypto adds Bitcoin-only or DAC8 frontally · (7) the DB survey at T+12 reveals prospect wait-and-see above 50 %. Each risk is gated and has a rehearsed plan B, detailed in [Failure Modes](E_Failure_Modes.md).
 
-**Five kill-criteria.** The plan is invalidated if one of the five field-testable hypotheses inverts during execution : (a) conversion rate below 10 % at T+6 (need not felt) · (b) zero employer-funded one-shot closed at T+6 (LOF 2 disproved even as opportunity) · (c) explicit « Bitcoin-only » frontal pushback on pilot sessions with NPS below 7 (LOF 4 disproved on target segments) · (d) zero Qualiopi partnership signed and zero one-shot invoiced at T+6 (LOF 5 disproved both ways) · (e) MiCA urgency dissipates without substitute demand signal (LOF 3 — not load-bearing on selected segments).
+**Five kill criteria.** The plan is invalidated if one of the five kill criteria inverts during execution : (KC-1) conversion rate below 10 % at T+6 (need not felt) · (KC-2) zero employer-funded one-shot closed at T+6 (disproved even as opportunity) · (KC-4) explicit « Bitcoin-only » frontal pushback on pilot sessions with NPS below 7 (disproved on target segments) · (KC-5) zero Qualiopi partnership signed and zero one-shot invoiced at T+6 (disproved both ways) · (KC-3) MiCA urgency dissipates without substitute demand signal (not load-bearing on selected segments).
 
 **Cash and investment caveats.** The B2B training sales cycle in France is structurally 3 to 6 months, with further OPCO reimbursement delay. Pilot revenue at T+3 to T+6 will therefore precede OPCO-funded scale by one to two quarters. A Year-1 P&L and gross-margin estimate are out of scope for this report and belong to DB's internal planning once T+6 gates are observed.
 
 ---
 
-## Sources & Interview Index
+## Annexes
 
-The analysis draws on three source layers :
+The following companion files detail and extend each section of this report. Sources, methodology, glossary and scoring data are positioned here as formal appendices.
 
-- **Primary data** : eight in-person expert interviews conducted between 07/04/2026 and 14/04/2026 — Gwendal Texier (notary · INAN founder), Nicolas Cantu (4NK Academy founder · Le Coffre co-founder), Alexandre Stachtchenko (INBi founder · ex-KPMG), MD (BNP Digital Assets · anonymised), Elodie (AFS / Arkea · anonymised), Louis-Alexandre de Froissard (Bitcoin-practitioner wealth advisor · AUREP), Julien Oréal (sole-practitioner accountant), Aurore Galves (Gallion founder · ex-Bitcoin Lyon PSAN).
-- **Regulatory texts** : MiCA Regulation (EU) 2023/1114 · DAC8 Directive (EU) 2023/2225 · French Accounting Standard ANC 2026-01 · ESMA Art. 81 Guidelines (11/07/2025) · French Decree 2011-1230 (notarial continuing education) · LCB-FT framework.
-- **Official statistics** : CSN (notaries) · CSOEC (chartered accountants) · AMF (financial advisers) · ADAN × KPMG 2024 (crypto-asset holders in France) · AFFO (family offices) · OPCO ATLAS (training branch IDCC 787) · Mon Compte Formation / DGEFP (training providers) · France Compétences (RNCP / RS registers) · INSEE.
-
-The full interview index (dates, segments, topic coverage), the complete regulatory and statistical source list, and the three-level confidence hierarchy are available in [Sources & Index](Sources_Index.md). The detailed research protocol is documented in [Methodology](METHODOLOGY.md).
+| # | Annex | Content | Link |
+|:-:|---|---|---|
+| I | **Sources & Interview Index** | Primary data (8 interviews) · regulatory texts · official statistics · confidence hierarchy | [Sources_Index.md](Sources_Index.md) |
+| II | **Methodology** | Segment-first protocol · 8-criterion scoring grid · field confidence levels · interview guide structure | [METHODOLOGY.md](METHODOLOGY.md) |
+| III | **Glossary** | Technical terms · regulatory acronyms · named actors (practitioners, organisations, competitors) | [GLOSSARY.md](GLOSSARY.md) |
+| IV | **Market Sizing & Scoring** | TAM/SAM/SOM · full pre-field and post-field scoring matrix (6 segments × 8 criteria) · Bitcoin literacy by segment | [A_Market_Analysis/A4_Market_Sizing.md](A_Market_Analysis/A4_Market_Sizing.md) |
+| V | **Market State** | Regulatory context (MiCA · DAC8 · ANC 2026-01) · training financing · segment-first methodology detail | [A_Market_State.md](A_Market_State.md) |
+| VI | **What Fieldwork Revealed** | 8-interview casting · three reversals · kill criteria verdict · full post-field segment rationale | [B_Terrain_Flip.md](B_Terrain_Flip.md) |
+| VII | **Competitive White Space** | Full 13-criteria competitor matrix · gap analysis per segment · entry window detail | [C_White_Space.md](C_White_Space.md) |
+| VIII | **The 12-Month Path** | Positioning detail · partner fiches · weekly sequencing · pricing discussion · KPI cadence | [D_12m_Path.md](D_12m_Path.md) |
+| IX | **Failure Modes** | Risk register with plan B per risk · kill criteria activation conditions · cash caveats | [E_Failure_Modes.md](E_Failure_Modes.md) |
 
 ---
 
-*End of report. Companion files for each section are published in this repository.*
+*End of report — April 2026 · Manuel Proquin · Plan B Academy · Bitcoin Business Track*

@@ -6,7 +6,7 @@
 
 ## 1. Index des entretiens terrain
 
-Huit praticiens interviewés du 07/04/2026 au 14/04/2026, en présentiel ou visioconférence. Guides d'entretien structurés en cinq phases (profil et contexte · exposition Bitcoin · besoins formation · signaux LOF · objections et red lines). Transcriptions horodatées et synthèses structurées.
+Huit praticiens interviewés du 07/04/2026 au 14/04/2026, en présentiel ou visioconférence. Guides d'entretien structurés en cinq phases (profil et contexte · exposition Bitcoin · besoins formation · signaux kill criteria · objections et red lines). Transcriptions horodatées et synthèses structurées.
 
 | # | Intervenant | Rôle | Segment couvert | Date | Sujets principaux |
 |:-:|---|---|---|:-:|---|
