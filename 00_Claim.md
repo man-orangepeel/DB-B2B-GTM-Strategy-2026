@@ -44,7 +44,7 @@ Matrice 2×2. **Axe horizontal** : accessibilité du segment, mesurée par le te
 
 Le quadrant haut-droite (besoin élevé × accessibilité élevée) identifie les segments prioritaires retenus pour le plan 12 mois : **notaires** et **experts-comptables**.
 
-### 3.2 Cinq segments positionnés · défense par segment
+### 3.2 Cinq segments positionnés
 
 #### Notaires — terrain elevated
 

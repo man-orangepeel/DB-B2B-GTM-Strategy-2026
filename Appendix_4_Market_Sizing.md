@@ -1,7 +1,5 @@
 # Appendix 4 — Market Sizing & Segment Scoring
 
-**Phase A · Étude de marché B2B Go-to-Market Découvre Bitcoin**
-
 *Ce fichier présente la taille du marché adressable (TAM/SAM/SOM) par segment professionnel. Méthodologie complète : [Appendix_2_Methodology.md](Appendix_2_Methodology.md).*
 
 ---

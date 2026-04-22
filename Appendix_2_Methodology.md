@@ -1,7 +1,5 @@
 # Appendix 2 — Methodology
 
-**Synthèse publique · destinée aux évaluateurs Plan B Academy, à Rogzy et Murielle (Découvre Bitcoin), et aux auditeurs externes.**
-
 *Ce document décrit comment l'étude a été menée. Les résultats et recommandations stratégiques figurent dans le rapport final (15 pages) et dans les fichiers complémentaires par section.*
 
 ---

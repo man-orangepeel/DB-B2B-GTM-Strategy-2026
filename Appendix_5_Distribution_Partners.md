@@ -1,17 +1,6 @@
----
-phase: Rapport Final — Appendix A
-livrable: Appendix A — Distribution Partners
-date_production: 21/04/2026
-version: v2 (refonte typologie fonctionnelle + scoring canaux)
-auteur: MP (avec Claude)
-statut: v2 — post-scoring 6 critères + shortlist canaux validée MP 21/04/2026
-langue: FR (v1) · EN à produire en v2 si migration rapport final anglais
-pages_cible: 2-3 pages hors décompte 15 p rapport principal
----
-
 # Appendix 5 — Distribution Partners
 
-> **Usage** : cette annexe consolide l'intégralité des entités partenariales identifiées Phase A (interviews) et Phase B/C (desk research · stack partenariats + scoring canaux v2). Rattachée au rapport final en Appendix A (hors 15 pages). Le rapport principal (D.2 Partner selection) pointe vers cette annexe — aucune duplication de contenu.
+*Cette annexe consolide l'intégralité des entités partenariales identifiées Phase A (interviews) et Phase B/C (desk research · stack partenariats + scoring canaux v2). Rattachée au rapport final en Appendix A (hors 15 pages). Le rapport principal (D.2 Partner selection) pointe vers cette annexe — aucune duplication de contenu.*
 >
 > **Livrable R3 Rogzy** (suivi-compilation 12/04/2026) : *"Le rapport doit livrer une liste de partenaires potentiels, pas seulement un segment cible."*
 >
