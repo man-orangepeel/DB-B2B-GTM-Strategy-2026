@@ -160,4 +160,4 @@ Version 1 produite le 22/04/2026. Intègre les verdicts gap Notaires (neuf crit�
 
 ---
 
-*[Retour au README](./) · [Méthodologie](./METHODOLOGY.md) · [Claim](./00_Claim.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Sources_Index.md)*
+*[Retour au README](./) · [Méthodologie](./METHODOLOGY.md) · [Claim](./00_Claim.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*

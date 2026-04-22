@@ -1,4 +1,4 @@
-# Méthodologie — Étude de marché B2B Go-to-Market Découvre Bitcoin
+# Appendix 2 — Methodology
 
 **Synthèse publique · destinée aux évaluateurs Plan B Academy, à Rogzy et Murielle (Découvre Bitcoin), et aux auditeurs externes.**
 
@@ -301,7 +301,7 @@ Quand les données terrain contredisent le desk initial, l'observation terrain e
 | White space concurrentiel | Cartographie concurrents · matrice · gap Notaires + Experts-comptables · synthèse cross | [Competitive White Space](./C_White_Space.md) |
 | Plan 12 mois | Positionnement · stack partenaires · séquencement · pricing · Qualiopi · KPIs · quick wins | [The 12-Month Path](./D_12m_Path/) |
 | Modes d'échec et contraintes | Contraintes structurelles · top risques · kill-criteria · BMF qualitatifs | [Failure Modes](./E_Failure_Modes.md) |
-| Sources et index entretiens | 8 interviews · sources réglementaires · statistiques officielles · index livrables | [Sources & Index](./Sources_Index.md) |
+| Sources et index entretiens | 8 interviews · sources réglementaires · statistiques officielles · index livrables | [Sources & Index](./Appendix_1_Sources_Index.md) |
 | Market sizing détaillé | TAM / SAM / SOM 12 et 24 mois par segment | [Market Sizing](./A_Market_Analysis/A4_Market_Sizing.md) |
 | Glossaire | Acronymes et termes-clés | [Glossaire](./GLOSSARY.md) |
 

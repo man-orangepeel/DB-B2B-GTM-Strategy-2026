@@ -258,4 +258,4 @@ Version 1 produite le 22/04/2026. Consolide en un fichier unique : les huit port
 
 ---
 
-*[Retour au README](./) · [Méthodologie](./METHODOLOGY.md) · [Claim](./00_Claim.md) · [Market State](./A_Market_State.md) · [White Space](./C_White_Space.md) · [12-Month Path](./D_12m_Path.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Sources_Index.md)*
+*[Retour au README](./) · [Méthodologie](./METHODOLOGY.md) · [Claim](./00_Claim.md) · [Market State](./A_Market_State.md) · [White Space](./C_White_Space.md) · [12-Month Path](./D_12m_Path.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*

@@ -1,4 +1,4 @@
-# Sources & Index
+# Appendix 1 — Sources & Interview Index
 
 *Consolidation des sources primaires (entretiens), réglementaires, statistiques et sectorielles mobilisées dans l'étude · index des publications publiques et convention de versionning.*
 
