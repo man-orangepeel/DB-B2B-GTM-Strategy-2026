@@ -15,13 +15,18 @@ Does a viable B2B opportunity exist for Découvre Bitcoin in France, and how to 
 
 ### The answer — what field interviews changed
 
-| Desk rank | Segment | Field verdict | Anchor citation | Retained? |
-|:-:|---|---|---|:-:|
-| #1 | ~~CGP~~ (33/40) | Commission model blocks Bitcoin interest | *« the hardest target there is »* — LAF | ❌ |
-| #2 | **Notaires** (30/40) | Responsive, gap measurable, institutional channel open | *« 5 of 17,000 autonomous »* — GT | **✅ Priority 1** |
-| #3 | ~~PSAN / CASP~~ (29/40) | No external training market ; Art. 81 self-drafted | *« real barrier = 20–30 % cyber audit »* — AG | ❌ |
-| #4 | ~~Banks~~ (28/40) | Bitcoin in Phase 3 of digital-assets roadmap | *« Phase 3 »* — MD (BNP) | ⏸ |
-| #5 | **Chartered accountants** (27/40) | Strongest Bitcoin-only validation in corpus | *« the natural entry point »* — JO | **✅ Priority 2** |
+<table class="verdict-table">
+<thead>
+<tr><th>Desk rank</th><th>Segment</th><th>Field verdict</th><th>Anchor citation</th><th>Retained?</th></tr>
+</thead>
+<tbody>
+<tr><td>#1</td><td>CGP (33/40)</td><td>Commission model blocks Bitcoin interest</td><td><em>« the hardest target there is »</em> — LAF</td><td>❌</td></tr>
+<tr class="retained"><td>#2</td><td><strong>Notaires</strong> (30/40)</td><td>Responsive, gap measurable, institutional channel open</td><td><em>« 5 of 17,000 autonomous »</em> — GT</td><td><strong>✅ Priority 1</strong></td></tr>
+<tr><td>#3</td><td>PSAN / CASP (29/40)</td><td>No external training market ; Art. 81 self-drafted</td><td><em>« real barrier = 20–30 % cyber audit »</em> — AG</td><td>❌</td></tr>
+<tr><td>#4</td><td>Banks (28/40)</td><td>Bitcoin in Phase 3 of digital-assets roadmap</td><td><em>« Phase 3 »</em> — MD (BNP)</td><td>⏸</td></tr>
+<tr class="retained"><td>#5</td><td><strong>Chartered accountants</strong> (27/40)</td><td>Strongest Bitcoin-only validation in corpus</td><td><em>« the natural entry point »</em> — JO</td><td><strong>✅ Priority 2</strong></td></tr>
+</tbody>
+</table>
 
 Across France's **130,000+ training providers**, none teaches Bitcoin in notarial or accounting practice (Mon Compte Formation 2025). Découvre Bitcoin can own this whitespace by Q2 2027 via a Qualiopi-partner umbrella (4NK Academy), a notary-practitioner co-construction (Gwendal Texier / INAN) and a Bitcoin-native product coupling (Le Coffre). Nominal scenario : **150–350 professionals trained** (100–200 notaires + 50–150 chartered accountants).
 

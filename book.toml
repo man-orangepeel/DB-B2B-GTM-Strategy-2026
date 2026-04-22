@@ -11,3 +11,4 @@ build-dir = "book"
 default-theme = "light"
 preferred-dark-theme = "navy"
 git-repository-url = "https://github.com/man-orangepeel/DB-B2B-GTM-Strategy-2026"
+additional-css = ["custom.css"]
