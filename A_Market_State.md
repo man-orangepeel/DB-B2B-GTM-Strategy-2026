@@ -206,4 +206,4 @@ Version 1 produite le 22/04/2026. Consolide l'état pré-terrain : approche segm
 
 ---
 
-*[Retour au README](./) · [Méthodologie](./METHODOLOGY.md) · [Claim](./00_Claim.md) · [Terrain Flip](./B_Terrain_Flip/) · [White Space](./C_White_Space.md) · [12-Month Path](./D_12m_Path/) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*
+*[Retour au README](./) · [Méthodologie](./METHODOLOGY.md) · [Claim](./0_Claim.md) · [Terrain Flip](./B_Terrain_Flip/) · [White Space](./C_White_Space.md) · [12-Month Path](./D_12m_Path/) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*

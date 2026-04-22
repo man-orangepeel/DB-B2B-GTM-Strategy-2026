@@ -49,14 +49,14 @@ Detailed plan, gates, partners and pricing in [The 12-Month Path](D_12m_Path.md)
 <div class="schema-grid">
 <div class="schema-item" markdown="1">
 
-**Diagnosis — segment ranking reshaped by fieldwork**
+<p><strong>Diagnosis — segment ranking reshaped by fieldwork</strong></p>
 
 ![Desk vs field matrix](assets/schema_A_matrix.png)
 
 </div>
 <div class="schema-item" markdown="1">
 
-**Recommendation — 12-month GTM sequencing**
+<p><strong>Recommendation — 12-month GTM sequencing</strong></p>
 
 ![GTM 12-month flow](assets/schema_B_gtm_flow.png)
 
@@ -67,7 +67,11 @@ Detailed plan, gates, partners and pricing in [The 12-Month Path](D_12m_Path.md)
 
 ## A · Market state before the terrain
 
-**Segment-first methodology.** Découvre Bitcoin's client, Murielle Macadam, defined the B2B scope broadly : « institutions, schools, governments, and individuals with professional objectives ». These are buyer types and channels — not market segments. A market segment is defined by a shared professional problem. A notarial school is a channel to reach the **Notaires** segment, not a segment itself. We prioritize segment selection over channel optimization because value proposition, pricing and sales cycle vary by segment, not by organisation type. Practising professionals were prioritised over students : their problem exists today, they have established financing (OPCO ATLAS, PDC, FIFPL), and their decision cycle is shorter.
+**Segment-first methodology.** The client's scope (« institutions, schools, governments, individuals with professional objectives ») mixes buyer types and channels. A market segment is defined by a shared professional problem — a notarial school is a channel to reach the **Notaires** segment, not a segment itself. Three criteria back the segment-first choice :
+
+- **Value proposition, pricing and sales cycle vary by segment**, not by organisation type — a channel-first approach would blur pricing anchors across heterogeneous buyer categories.
+- **Practising professionals have a documented problem today** (DAC8, ANC 2026-01, client pressure) — students and apprentices do not yet.
+- **Financing mechanisms are structurally segment-linked** (OPCO ATLAS for the financial-services branch, FIFPL for libéraux, own-cabinet budget for TPEs) — a channel-first frame would misalign with the actual funding circuit.
 
 **Regulatory context.** Four regulatory pillars shape potential demand :
 
@@ -99,7 +103,32 @@ No mapped training provider addresses DAC8 frontally as of April 2026.
 
 Family offices (25/40) sat below the desk Top 5 ; lawyers were not formally scored. Both lack Phase-A field data.
 
-**Bitcoin literacy — universally low, heterogeneous by autonomy.** Triangulating eight field interviews with public statistical baselines (no corps professionnel publishes granular data on profession × Bitcoin competence), the study retains qualitative codes rather than fabricated scores. Population anchor : 12 % of French adults hold crypto-assets (ADAN × KPMG × IPSOS 2024), 49 % of holders are CSP+. Segment-level signal — notaires « very low » (GT estimate : 5 of 17,000 autonomous on a Bitcoin case), chartered accountants « low with emerging pockets », CGP « very low » (structural), bank retail « near zero » (Elodie, AS convergent), PSAN practitioners « high by occupation ». Lawyers and family offices : undocumented. Full table and limitations in [Bitcoin Literacy](Appendix_6_Bitcoin_Literacy.md) and [Market State](A_Market_State.md).
+**Market sizing — scope restricted to the two priority segments.** Applied to notaires (17,000), libéral chartered accountants (22,685) and IDCC 787 salaried accountants (138,400), with price references consolidated from INFN / INAFON / AUREP / Force Patrimoine × Expert Crypto. Full assumptions, filter logic and scenarios in [Appendix 4 — Market Sizing](Appendix_4_Market_Sizing.md).
+
+| Metric | Notaires | Chartered accountants (libéraux) | IDCC 787 salaried accountants | **Cross** |
+|---|:-:|:-:|:-:|:-:|
+| Population | 17,000 | 22,685 | 138,400 | 178,085 |
+| **TAM** (€/yr) | 17–25 M | 11–34 M | 28–69 M | **56–128 M** |
+| **SAM** (€/yr) | 2.5–3.8 M | 0.8–2.4 M | 1.4–3.5 M | **4.7–9.7 M** |
+| **SOM T+12** (€ cumul.) | 20–80 k | 6–36 k | 0–12 k | **26–128 k** |
+| **SOM T+24** (€ cumul.) | 50–200 k | 18–108 k | 0–120 k | **70–430 k** |
+
+The addressable market for a well-positioned Bitcoin-only training provider stands at **€4.7–9.7 M/yr cross-segment**. DB captures 1–2 % of that SAM in Year 1 (nominal scenario) and scales to 2–5 % in Year 2. Year 1 absolute revenue stays modest (€26–128 k cumulative net) — the success test is channel opening, not P&L.
+
+**Bitcoin literacy — universally low, heterogeneous by autonomy.** No corps professionnel publishes granular data on profession × Bitcoin competence ; the study retains qualitative codes triangulated from eight field interviews and public baselines. Population anchor : 12 % of French adults hold crypto-assets (ADAN × KPMG × IPSOS 2024), 49 % of holders are CSP+, 70 % male, dominant cohort 18-34. Each legal or accounting professional serving CSP+ clients statistically has one or two clients out of ten exposed to crypto-assets.
+
+| Segment | Code | Field anchor |
+|---|:-:|---|
+| Notaires (17,000) | 🔴 Very low | GT : 5 / 17,000 autonomous on a Bitcoin case |
+| Chartered accountants (22,685) | 🟡 Low, emerging pockets | JO : *« Bitcoin is the natural entry point into crypto »* |
+| CGP / CGPI (~6,500) | 🔴 Very low · structural | LAF : *« hardest target there is »* |
+| Bank — digital-assets elite | 🟡 Individually high / structurally nil | MD (BNP) : « self-taught, no internal pathway » |
+| Bank — retail advisors | 🔴 Near zero | Elodie : *« I don't know MiCA, OPCO, Bitcoin ETFs »* |
+| PSAN / CASP (~117) | 🟢 High by occupation | AG : internal competence by nature of activity |
+| Lawyers (~70,000) | ⚪ Undocumented | Zero Phase-A interview |
+| Family offices (~300) | ⚪ Undocumented (likely 🔴) | Indirect LAF signal only |
+
+**Strategic reading.** The gap between **client exposure** (strong — 12 % of any CSP+ clientele) and **professional competence** (quasi-nil) defines the DB market window. Segments differ not on average literacy (universally low) but on **decision autonomy** : notaires and libéraux accountants decide autonomously and can equip themselves ; bank retail depends on head-office directives ; CGPs are blocked by a structural conflict between expected portfolio performance and Bitcoin economics. **Literacy is not the obstacle — it is the target.** Full table, limitations and source hierarchy in [Bitcoin Literacy](Appendix_6_Bitcoin_Literacy.md).
 
 **Five kill criteria — posed before interviews, tested against field signal in Part B.** **(KC-1)** Professionals lack Bitcoin training and feel the gap as a problem. **(KC-2)** Employers are prepared to fund. **(KC-3)** MiCA creates 2025-2026 training urgency. **(KC-4)** The Bitcoin-only positioning is credible in B2B. **(KC-5)** A B2B buyer will pay without Qualiopi. Field verdict in Part B.
 
@@ -323,23 +352,31 @@ Each risk is gated and has a rehearsed plan B, detailed in [Failure Modes](E_Fai
 
 ---
 
-## Annexes
+## Companion files — section-by-section detail
 
-The following companion files detail and extend each section of this report. Sources, methodology, glossary and scoring data are positioned here as formal appendices.
+The six companion files below extend each section of the report (0 to E) with the underlying analysis, citations and full tables. They follow the section flow of the report.
 
-| # | Annex | Content | Link |
+| Section | Detail | Companion file |
+|:-:|---|---|
+| **0** · The Claim | Three anchor figures · diagnosis summary · recommendation summary | [0_Claim.md](0_Claim.md) |
+| **A** · Market state before fieldwork | Regulatory context (MiCA · DAC8 · ANC 2026-01) · training financing · segment-first methodology detail | [A_Market_State.md](A_Market_State.md) |
+| **B** · What fieldwork revealed | 8-interview casting · three reversals · kill criteria verdict · full post-field segment rationale | [B_Terrain_Flip.md](B_Terrain_Flip.md) |
+| **C** · Competitive white space | Full 13-criteria competitor matrix · gap analysis per segment · entry window detail | [C_White_Space.md](C_White_Space.md) |
+| **D** · The 12-month path | Positioning detail · partner fiches · weekly sequencing · pricing discussion · KPI cadence | [D_12m_Path.md](D_12m_Path.md) |
+| **E** · Failure modes & constraints | Risk register with plan B per risk · kill criteria activation conditions · cash caveats | [E_Failure_Modes.md](E_Failure_Modes.md) |
+
+## Appendices
+
+The six appendices below provide cross-section evidence and methodological supports — independent of the section flow.
+
+| # | Appendix | Content | Link |
 |:-:|---|---|---|
 | I | **Sources & Interview Index** | Primary data (8 interviews) · regulatory texts · official statistics · confidence hierarchy | [Appendix_1_Sources_Index.md](Appendix_1_Sources_Index.md) |
 | II | **Methodology** | Segment-first protocol · 8-criterion scoring grid · field confidence levels · interview guide structure | [Appendix_2_Methodology.md](Appendix_2_Methodology.md) |
 | III | **Glossary** | Technical terms · regulatory acronyms · named actors (practitioners, organisations, competitors) | [Appendix_3_Glossary.md](Appendix_3_Glossary.md) |
 | IV | **Market Sizing & Scoring** | TAM/SAM/SOM · full pre-field and post-field scoring matrix (6 segments × 8 criteria) | [Appendix_4_Market_Sizing.md](Appendix_4_Market_Sizing.md) |
-| V | **Market State** | Regulatory context (MiCA · DAC8 · ANC 2026-01) · training financing · segment-first methodology detail | [A_Market_State.md](A_Market_State.md) |
-| VI | **What Fieldwork Revealed** | 8-interview casting · three reversals · kill criteria verdict · full post-field segment rationale | [B_Terrain_Flip.md](B_Terrain_Flip.md) |
-| VII | **Competitive White Space** | Full 13-criteria competitor matrix · gap analysis per segment · entry window detail | [C_White_Space.md](C_White_Space.md) |
-| VIII | **The 12-Month Path** | Positioning detail · partner fiches · weekly sequencing · pricing discussion · KPI cadence | [D_12m_Path.md](D_12m_Path.md) |
-| IX | **Failure Modes** | Risk register with plan B per risk · kill criteria activation conditions · cash caveats | [E_Failure_Modes.md](E_Failure_Modes.md) |
-| X | **Distribution Partners** | Detailed partner fiches — P0 / P1 / Plans B · contact info · agreement status | [Appendix_5_Distribution_Partners.md](Appendix_5_Distribution_Partners.md) |
-| XI | **Bitcoin Literacy by Segment** | Field + desk literacy signal · 9 segments · qualitative codes · methodological limitations · sources retained and rejected | [Appendix_6_Bitcoin_Literacy.md](Appendix_6_Bitcoin_Literacy.md) |
+| V | **Distribution Partners** | Detailed partner fiches — P0 / P1 / Plans B · contact info · agreement status | [Appendix_5_Distribution_Partners.md](Appendix_5_Distribution_Partners.md) |
+| VI | **Bitcoin Literacy by Segment** | Field + desk literacy signal · 9 segments · qualitative codes · methodological limitations · sources retained and rejected | [Appendix_6_Bitcoin_Literacy.md](Appendix_6_Bitcoin_Literacy.md) |
 
 ---
 

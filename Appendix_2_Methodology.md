@@ -293,7 +293,7 @@ Quand les données terrain contredisent le desk initial, l'observation terrain e
 
 | Livrable | Rôle | Lien |
 |---|---|---|
-| Thèse principale et schémas de diagnostic | Claim et anchor figures | [The Claim](./00_Claim.md) |
+| Thèse principale et schémas de diagnostic | Claim et anchor figures | [The Claim](./0_Claim.md) |
 | État du marché pré-terrain | Cartographie 6 segments · réglementation · financement · LOFs | [Market State](./A_Market_State.md) |
 | Retournements terrain et verdict scoring | 8 portraits · 3 reversals · thesis recast · hypotheses verdict · final scoring | [What the Terrain Flipped](./B_Terrain_Flip/) |
 | White space concurrentiel | Cartographie concurrents · matrice · gap Notaires + Experts-comptables · synthèse cross | [Competitive White Space](./C_White_Space.md) |
