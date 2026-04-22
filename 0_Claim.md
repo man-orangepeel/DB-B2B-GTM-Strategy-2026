@@ -16,7 +16,7 @@ Trois éléments composent cette affirmation :
 | Segments cibles | Notaires · Experts-comptables |
 | Horizon | 12 mois · scénario nominal |
 
-Les trois éléments sont documentés dans les sections suivantes du rapport : l'état du marché pré-terrain dans [Market State](./A_Market_State.md), les retournements observés en entretiens dans [What Fieldwork Revealed](./B_Fieldwork_Reversals.md), la cartographie concurrentielle dans [Competitive White Space](./C_White_Space.md), le plan 12 mois dans [The 12-Month Path](./D_12m_Path/).
+Les trois éléments sont documentés dans les sections suivantes du rapport : l'état du marché pré-terrain dans [Market State](./A_Market_State.md), les retournements observés en entretiens dans [What Fieldwork Revealed](./B_Fieldwork_Reversals.md), la cartographie concurrentielle dans [Competitive White Space](./C_White_Space.md), le plan 12 mois dans [The 12-Month Path](./D_12m_Path.md).
 
 ---
 
@@ -25,12 +25,12 @@ Les trois éléments sont documentés dans les sections suivantes du rapport : l
 | # | Chiffre | Portée | Source publique |
 |:-:|---|---|---|
 | 1 | **130 000+ organismes de formation en France · 0 dédié Bitcoin pour notaires et experts-comptables** | État du marché | Base [Mon Compte Formation / DGEFP](https://www.moncompteformation.gouv.fr/) — 133 764 OF déclarés 2025 |
-| 2 | **2 segments prioritaires · 8 entretiens experts** | Méthodologie | Entretiens terrain avril 2026 (détail : [index entretiens](./Sources_Index.md)) |
+| 2 | **2 segments prioritaires · 8 entretiens experts** | Méthodologie | Entretiens terrain avril 2026 (détail : [index entretiens](./Appendix_1_Sources_Index.md)) |
 | 3 | **150 – 350 professionnels formés en 12 mois** | Objectif nominal | 100–200 notaires (segment Notaires) + 50–150 experts-comptables (segment EC) |
 
-**Notes de lecture.** Le chiffre 1 fixe la taille du paysage et l'absence concurrentielle. Le chiffre 2 établit la base empirique de l'étude. Le chiffre 3 exprime le plan opérationnel sous scénario nominal (probabilité d'atteinte 40-50 %, cf. [The 12-Month Path](./D_12m_Path/)).
+**Notes de lecture.** Le chiffre 1 fixe la taille du paysage et l'absence concurrentielle. Le chiffre 2 établit la base empirique de l'étude. Le chiffre 3 exprime le plan opérationnel sous scénario nominal (probabilité d'atteinte 40-50 %, cf. [The 12-Month Path](./D_12m_Path.md)).
 
-Pour le détail du marché adressable (TAM / SAM / SOM), voir [Market State](./A_Market_State.md) et l'annexe dédiée [Market Sizing](./A_Market_Analysis/A4_Market_Sizing.md).
+Pour le détail du marché adressable (TAM / SAM / SOM), voir [Market State](./A_Market_State.md) et l'annexe dédiée [Market Sizing](./Appendix_4_Market_Sizing.md).
 
 ---
 
@@ -120,7 +120,7 @@ La proposition de valeur (bloc 1) est volontairement restreinte : Découvre Bitc
 
 Les segments (bloc 2) résultent des retournements terrain documentés au schéma 1. Les partenaires bloquants (bloc 3) ont chacun été validés comme P0 — leur défection repositionne le plan entier. Les canaux (bloc 4) sont diversifiés pour mitiger la dépendance à un canal unique (l'assurance est de ne pas dépendre d'une seule porte d'entrée). La cible quantifiée (bloc 5) est une fourchette nominale de scénario médian, documentée par les gates trimestriels T+3 / T+6 / T+9 / T+12.
 
-Pour le détail du stack partenaires, des canaux par segment et du séquencement, voir [The 12-Month Path](./D_12m_Path/).
+Pour le détail du stack partenaires, des canaux par segment et du séquencement, voir [The 12-Month Path](./D_12m_Path.md).
 
 ### 4.3 Limite du schéma
 
@@ -132,14 +132,14 @@ Le schéma 2 présente le scénario nominal (probabilité 40-50 %). Il ne visual
 
 | Question | Fichier |
 |---|---|
-| Comment l'étude a-t-elle été menée ? | [Méthodologie](./METHODOLOGY.md) |
+| Comment l'étude a-t-elle été menée ? | [Méthodologie](./Appendix_2_Methodology.md) |
 | Quel était l'état du marché avant les entretiens ? | [Market State](./A_Market_State.md) |
 | Quels retournements les entretiens ont-ils produits ? | [What Fieldwork Revealed](./B_Fieldwork_Reversals.md) |
 | Quelle est la cartographie concurrentielle ? | [Competitive White Space](./C_White_Space.md) |
-| Quel plan sur 12 mois ? | [The 12-Month Path](./D_12m_Path/) |
+| Quel plan sur 12 mois ? | [The 12-Month Path](./D_12m_Path.md) |
 | Quels sont les modes d'échec possibles ? | [Failure Modes](./E_Failure_Modes.md) |
-| Quelles sources ont été consultées ? | [Sources & Index](./Sources_Index.md) |
-| Quelles sont les valeurs chiffrées du marché adressable ? | [Market Sizing — TAM / SAM / SOM](./A_Market_Analysis/A4_Market_Sizing.md) |
+| Quelles sources ont été consultées ? | [Sources & Index](./Appendix_1_Sources_Index.md) |
+| Quelles sont les valeurs chiffrées du marché adressable ? | [Market Sizing — TAM / SAM / SOM](./Appendix_4_Market_Sizing.md) |
 
 ---
 
@@ -157,4 +157,4 @@ Version 1 créée le 22/04/2026. Intègre la défense par segment initialement p
 
 ---
 
-*[Retour au README](./) · [Méthodologie](./METHODOLOGY.md) · [Sources & Index](./Sources_Index.md)*
+*[Retour au README](./README.md) · [Méthodologie](./Appendix_2_Methodology.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*

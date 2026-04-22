@@ -97,4 +97,4 @@ Ces deux claims pourraient être vraies en théorie mais n'ont pas été vérifi
 
 ---
 
-*[Retour au README](./) · [Sources & Interview Index](Appendix_1_Sources_Index.md) · [Methodology](Appendix_2_Methodology.md) · [Market Sizing](Appendix_4_Market_Sizing.md)*
+*[Retour au README](./README.md) · [Sources & Interview Index](Appendix_1_Sources_Index.md) · [Methodology](Appendix_2_Methodology.md) · [Market Sizing](Appendix_4_Market_Sizing.md)*

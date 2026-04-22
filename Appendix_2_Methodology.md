@@ -96,7 +96,7 @@ Cinq hypothèses sur le marché ont été posées avant les entretiens terrain. 
 
 ### 2.5 Livrables Phase A
 
-L'état du marché pré-terrain, la cartographie des 6 segments, le scoring multidimensionnel et les 5 Leaps of Faith posées avant entretiens sont consolidés dans **[Market State](./A_Market_State.md)**. Le détail du marché adressable (TAM / SAM / SOM post-révision terrain) figure dans **[Market Sizing](./A_Market_Analysis/A4_Market_Sizing.md)**. Les statuts terrain des 5 Leaps of Faith sont repris dans **[What Fieldwork Revealed — Hypotheses Verdict](./B_Fieldwork_Reversals.md)**. Le rationale complet de sélection des segments approfondis figure dans **[Final Scoring](./B_Fieldwork_Reversals.md)**.
+L'état du marché pré-terrain, la cartographie des 6 segments, le scoring multidimensionnel et les 5 Leaps of Faith posées avant entretiens sont consolidés dans **[Market State](./A_Market_State.md)**. Le détail du marché adressable (TAM / SAM / SOM post-révision terrain) figure dans **[Market Sizing](./Appendix_4_Market_Sizing.md)**. Les statuts terrain des 5 Leaps of Faith sont repris dans **[What Fieldwork Revealed — Hypotheses Verdict](./B_Fieldwork_Reversals.md)**. Le rationale complet de sélection des segments approfondis figure dans **[Final Scoring](./B_Fieldwork_Reversals.md)**.
 
 ---
 
@@ -205,7 +205,7 @@ Chaque arbitrage est documenté avec rationale, options envisagées et chemin re
 
 ### 4.4 Livrables Phase C
 
-Les cinq workstreams de la Phase C sont détaillés dans **[The 12-Month Path](./D_12m_Path/)** (positionnement, stack partenaires, séquencement, pricing, Qualiopi, KPIs, quick wins) et dans **[Failure Modes](./E_Failure_Modes.md)** (contraintes structurelles, Top risques et kill-criteria).
+Les cinq workstreams de la Phase C sont détaillés dans **[The 12-Month Path](./D_12m_Path.md)** (positionnement, stack partenaires, séquencement, pricing, Qualiopi, KPIs, quick wins) et dans **[Failure Modes](./E_Failure_Modes.md)** (contraintes structurelles, Top risques et kill-criteria).
 
 ---
 
@@ -297,11 +297,11 @@ Quand les données terrain contredisent le desk initial, l'observation terrain e
 | État du marché pré-terrain | Cartographie 6 segments · réglementation · financement · LOFs | [Market State](./A_Market_State.md) |
 | Retournements terrain et verdict scoring | 8 portraits · 3 reversals · thesis recast · hypotheses verdict · final scoring | [What Fieldwork Revealed](./B_Fieldwork_Reversals.md) |
 | White space concurrentiel | Cartographie concurrents · matrice · gap Notaires + Experts-comptables · synthèse cross | [Competitive White Space](./C_White_Space.md) |
-| Plan 12 mois | Positionnement · stack partenaires · séquencement · pricing · Qualiopi · KPIs · quick wins | [The 12-Month Path](./D_12m_Path/) |
+| Plan 12 mois | Positionnement · stack partenaires · séquencement · pricing · Qualiopi · KPIs · quick wins | [The 12-Month Path](./D_12m_Path.md) |
 | Modes d'échec et contraintes | Contraintes structurelles · top risques · kill-criteria · BMF qualitatifs | [Failure Modes](./E_Failure_Modes.md) |
 | Sources et index entretiens | 8 interviews · sources réglementaires · statistiques officielles · index livrables | [Sources & Index](./Appendix_1_Sources_Index.md) |
-| Market sizing détaillé | TAM / SAM / SOM 12 et 24 mois par segment | [Market Sizing](./A_Market_Analysis/A4_Market_Sizing.md) |
-| Glossaire | Acronymes et termes-clés | [Glossaire](./GLOSSARY.md) |
+| Market sizing détaillé | TAM / SAM / SOM 12 et 24 mois par segment | [Market Sizing](./Appendix_4_Market_Sizing.md) |
+| Glossaire | Acronymes et termes-clés | [Glossaire](./Appendix_3_Glossary.md) |
 
 ---
 

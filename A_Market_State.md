@@ -92,7 +92,7 @@ Le CPF représente 5 à 10 % des ventes de formation pour Découvre Bitcoin. Il 
 
 ### 4.1 Matrice de scoring — huit critères sur quarante points
 
-Chaque segment est évalué sur huit critères (quatre mission, quatre complémentaires), échelle 1 à 5, total 0 à 40 points. La méthodologie complète figure dans [Méthodologie](./METHODOLOGY.md).
+Chaque segment est évalué sur huit critères (quatre mission, quatre complémentaires), échelle 1 à 5, total 0 à 40 points. La méthodologie complète figure dans [Méthodologie](./Appendix_2_Methodology.md).
 
 | Critère | Échelle 1-5 |
 |---|---|
@@ -202,8 +202,8 @@ Ce fichier consolide : `briefing_rapport_final.md` §1.1, §3 (segment-first), �
 
 ## Historique & MAJ
 
-Version 1 produite le 22/04/2026. Consolide l'état pré-terrain : approche segment-first justifiée contre l'approche channel-first, paysage réglementaire (MiCA · DAC8 · ANC 2026-01 · Décret 2011-1230 · DPC OEC · LCB-FT), mécanismes de financement de la formation pro en France (Qualiopi · OPCO ATLAS · FIFPL · AGEFICE · CPF hors scope), scoring desk de six segments professionnels sur huit critères / 40 points (Top 5 initial : CGP · Notaires · PSAN · Banques · Experts-comptables), niveau de maîtrise Bitcoin par segment (triangulation desk × terrain), et formulation explicite des cinq Leaps of Faith posées avant les entretiens. Alignement cross-fichiers : les retournements post-terrain (CGP ↓ · PSAN ↓ · Banques différé) sont traités dans [What Fieldwork Revealed](./B_Fieldwork_Reversals.md), les gaps concurrentiels dans [Competitive White Space](./C_White_Space.md), le plan 12 mois dans [The 12-Month Path](./D_12m_Path/).
+Version 1 produite le 22/04/2026. Consolide l'état pré-terrain : approche segment-first justifiée contre l'approche channel-first, paysage réglementaire (MiCA · DAC8 · ANC 2026-01 · Décret 2011-1230 · DPC OEC · LCB-FT), mécanismes de financement de la formation pro en France (Qualiopi · OPCO ATLAS · FIFPL · AGEFICE · CPF hors scope), scoring desk de six segments professionnels sur huit critères / 40 points (Top 5 initial : CGP · Notaires · PSAN · Banques · Experts-comptables), niveau de maîtrise Bitcoin par segment (triangulation desk × terrain), et formulation explicite des cinq Leaps of Faith posées avant les entretiens. Alignement cross-fichiers : les retournements post-terrain (CGP ↓ · PSAN ↓ · Banques différé) sont traités dans [What Fieldwork Revealed](./B_Fieldwork_Reversals.md), les gaps concurrentiels dans [Competitive White Space](./C_White_Space.md), le plan 12 mois dans [The 12-Month Path](./D_12m_Path.md).
 
 ---
 
-*[Retour au README](./) · [Méthodologie](./METHODOLOGY.md) · [Claim](./0_Claim.md) · [Fieldwork Reversals](./B_Fieldwork_Reversals.md) · [White Space](./C_White_Space.md) · [12-Month Path](./D_12m_Path/) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*
+*[Retour au README](./README.md) · [Méthodologie](./Appendix_2_Methodology.md) · [Claim](./0_Claim.md) · [Fieldwork Reversals](./B_Fieldwork_Reversals.md) · [White Space](./C_White_Space.md) · [12-Month Path](./D_12m_Path.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*

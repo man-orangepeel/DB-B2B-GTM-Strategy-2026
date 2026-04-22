@@ -142,7 +142,7 @@ Force Patrimoine × Expert Crypto s'aligne frontalement sur ANC 2026-01 depuis l
 
 ### 6.3 Minimum d'exécution requis dans la fenêtre
 
-Deux partenariats P0 signés et une chambre locale activée d'ici T4 2026 constituent le minimum de démonstration de capacité d'entrée. Le détail du plan par trimestre figure dans [The 12-Month Path](./D_12m_Path/).
+Deux partenariats P0 signés et une chambre locale activée d'ici T4 2026 constituent le minimum de démonstration de capacité d'entrée. Le détail du plan par trimestre figure dans [The 12-Month Path](./D_12m_Path.md).
 
 ---
 
@@ -160,4 +160,4 @@ Version 1 produite le 22/04/2026. Intègre les verdicts gap Notaires (neuf crit�
 
 ---
 
-*[Retour au README](./) · [Méthodologie](./METHODOLOGY.md) · [Claim](./0_Claim.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*
+*[Retour au README](./README.md) · [Méthodologie](./Appendix_2_Methodology.md) · [Claim](./0_Claim.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*

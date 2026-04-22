@@ -38,7 +38,7 @@ Neuf risques dominants ont été consolidés à partir des gaps Notaires, Expert
 
 Le scénario adverse le plus lourd combinerait le risque 1 (fermeture gap Notaires par Experts & Cryptos) avec une saturation de bande passante côté Nicolas Cantu / Le Coffre pour les experts-comptables : dans ce cas, activation conditionnelle de plans B SaaS (ComptaCrypto / Crypto Accounting) et maintien du couplage Le Coffre côté Notaires uniquement. Le gate de réévaluation est T+6.
 
-Pour le détail de chaque risque, de ses conditions déclenchantes et de son atténuation, voir [The 12-Month Path](./D_12m_Path/).
+Pour le détail de chaque risque, de ses conditions déclenchantes et de son atténuation, voir [The 12-Month Path](./D_12m_Path.md).
 
 ---
 
@@ -88,7 +88,7 @@ Le plan est dimensionné pour un scénario nominal de probabilité 40 à 50 %. Q
 | **Dégradé cross** — G1 et G4 simultanément KO | 5 – 10 % | 60 – 130 notaires + 20 – 80 experts-comptables | G1 + G4 |
 | **Pivot complet** — rupture P0 majeurs | inférieur à 5 % | Focus sur un segment unique | G1 + G2 + G4 |
 
-Le détail des conditions de chaque gate, des plans B activables et de la matrice déclencheur × plan B figure dans [The 12-Month Path](./D_12m_Path/).
+Le détail des conditions de chaque gate, des plans B activables et de la matrice déclencheur × plan B figure dans [The 12-Month Path](./D_12m_Path.md).
 
 ---
 
@@ -102,8 +102,8 @@ Ce fichier consolide : `briefing_rapport_final.md §14.5` (cinq contraintes DB �
 
 ## Historique & MAJ
 
-Version 1 produite le 22/04/2026. Intègre les cinq contraintes structurelles DB annoncées par le client (Murielle Macadam, 08/04 + 12/04/2026), les neuf risques prioritaires consolidés cross-segment, les cinq critères d'invalidation dérivés des Leaps of Faith post-terrain, les trois contraintes financières qualitatives (BMF Plan B §5) et les cinq scénarios probabilisés à 12 mois. Alignement cross-fichiers avec [Competitive White Space](./C_White_Space.md) pour les risques segment-spécifiques et [The 12-Month Path](./D_12m_Path/) pour les gates et plans B.
+Version 1 produite le 22/04/2026. Intègre les cinq contraintes structurelles DB annoncées par le client (Murielle Macadam, 08/04 + 12/04/2026), les neuf risques prioritaires consolidés cross-segment, les cinq critères d'invalidation dérivés des Leaps of Faith post-terrain, les trois contraintes financières qualitatives (BMF Plan B §5) et les cinq scénarios probabilisés à 12 mois. Alignement cross-fichiers avec [Competitive White Space](./C_White_Space.md) pour les risques segment-spécifiques et [The 12-Month Path](./D_12m_Path.md) pour les gates et plans B.
 
 ---
 
-*[Retour au README](./) · [Méthodologie](./METHODOLOGY.md) · [Claim](./0_Claim.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*
+*[Retour au README](./README.md) · [Méthodologie](./Appendix_2_Methodology.md) · [Claim](./0_Claim.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*
