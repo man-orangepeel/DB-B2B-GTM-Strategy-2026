@@ -91,7 +91,7 @@ Ces deux claims pourraient être vraies en théorie mais n'ont pas été vérifi
 ## 6. Cohérence cross-fichiers
 
 - ✅ Ligne « Population générale » alignée avec [Appendix 4 — Market Sizing](Appendix_4_Market_Sizing.md) §6 et [Market State](A_Market_State.md) (ancrage 12 % ADAN/KPMG)
-- ✅ Ligne « Notaires » alignée avec [Competitive White Space](C_White_Space.md) (5 / 17 000 GT) et [What Fieldwork Revealed](B_Terrain_Flip.md)
+- ✅ Ligne « Notaires » alignée avec [Competitive White Space](C_White_Space.md) (5 / 17 000 GT) et [What Fieldwork Revealed](B_Fieldwork_Reversals.md)
 - ✅ Ligne « EC » alignée avec verdict Top 5 post-révision terrain (27/40)
 - ✅ Limitations §4 reprises dans [Failure Modes](E_Failure_Modes.md)
 

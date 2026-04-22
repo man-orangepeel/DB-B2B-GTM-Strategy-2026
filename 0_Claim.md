@@ -16,7 +16,7 @@ Trois éléments composent cette affirmation :
 | Segments cibles | Notaires · Experts-comptables |
 | Horizon | 12 mois · scénario nominal |
 
-Les trois éléments sont documentés dans les sections suivantes du rapport : l'état du marché pré-terrain dans [Market State](./A_Market_State.md), les retournements observés en entretiens dans [What the Terrain Flipped](./B_Terrain_Flip/), la cartographie concurrentielle dans [Competitive White Space](./C_White_Space.md), le plan 12 mois dans [The 12-Month Path](./D_12m_Path/).
+Les trois éléments sont documentés dans les sections suivantes du rapport : l'état du marché pré-terrain dans [Market State](./A_Market_State.md), les retournements observés en entretiens dans [What Fieldwork Revealed](./B_Fieldwork_Reversals.md), la cartographie concurrentielle dans [Competitive White Space](./C_White_Space.md), le plan 12 mois dans [The 12-Month Path](./D_12m_Path/).
 
 ---
 
@@ -36,7 +36,7 @@ Pour le détail du marché adressable (TAM / SAM / SOM), voir [Market State](./A
 
 ## 3. Schéma 1 — Retournements terrain (besoin × accessibilité)
 
-![Matrice desk vs terrain](../Rapport_Final/assets/schema_A_matrix.svg)
+![Matrice desk vs field](assets/schema_A_matrix.png)
 
 ### 3.1 Lecture
 
@@ -100,7 +100,7 @@ Mouvement matrice : ce n'est pas un rejet définitif du segment mais un problèm
 
 ## 4. Schéma 2 — Le chemin 12 mois (flow 5 blocs)
 
-![Plan GTM 12 mois](../Rapport_Final/assets/schema_B_gtm_flow.svg)
+![Plan GTM 12 mois](assets/schema_B_gtm_flow.png)
 
 ### 4.1 Lecture
 
@@ -134,7 +134,7 @@ Le schéma 2 présente le scénario nominal (probabilité 40-50 %). Il ne visual
 |---|---|
 | Comment l'étude a-t-elle été menée ? | [Méthodologie](./METHODOLOGY.md) |
 | Quel était l'état du marché avant les entretiens ? | [Market State](./A_Market_State.md) |
-| Quels retournements les entretiens ont-ils produits ? | [What the Terrain Flipped](./B_Terrain_Flip/) |
+| Quels retournements les entretiens ont-ils produits ? | [What Fieldwork Revealed](./B_Fieldwork_Reversals.md) |
 | Quelle est la cartographie concurrentielle ? | [Competitive White Space](./C_White_Space.md) |
 | Quel plan sur 12 mois ? | [The 12-Month Path](./D_12m_Path/) |
 | Quels sont les modes d'échec possibles ? | [Failure Modes](./E_Failure_Modes.md) |

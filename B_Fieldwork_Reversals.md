@@ -1,4 +1,4 @@
-# What the Terrain Flipped
+# What Fieldwork Revealed
 
 *Huit entretiens terrain conduits en avril 2026 ont rebattu la priorité des segments. Ce fichier présente le casting des interviewés, les trois retournements majeurs observés, le recadrage de la thèse Bitcoin-only, le statut post-terrain des cinq hypothèses testables, et le scoring final avec le rationale des segments retenus pour la suite de l'étude.*
 

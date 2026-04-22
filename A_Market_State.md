@@ -1,4 +1,4 @@
-# Market State Before the Terrain
+# Market State Before Fieldwork
 
 *État du marché B2B avant les entretiens terrain · scope et méthodologie segment-first · paysage réglementaire (MiCA · DAC8 · ANC 2026-01) · financement de la formation professionnelle en France · six segments professionnels scorés en desk · niveau de maîtrise Bitcoin par segment · cinq hypothèses testables posées avant les interviews.*
 
@@ -133,7 +133,7 @@ Chaque segment est évalué sur huit critères (quatre mission, quatre compléme
 
 ### 4.4 Lecture du scoring desk
 
-Le desk research classe les CGP en priorité 1 et les PSAN en priorité 3. Les signaux terrain collectés lors des entretiens (avril 2026) inversent substantiellement ce classement. Ces retournements sont analysés en détail dans [What the Terrain Flipped](./B_Terrain_Flip/).
+Le desk research classe les CGP en priorité 1 et les PSAN en priorité 3. Les signaux terrain collectés lors des entretiens (avril 2026) inversent substantiellement ce classement. Ces retournements sont analysés en détail dans [What Fieldwork Revealed](./B_Fieldwork_Reversals.md).
 
 ---
 
@@ -166,7 +166,7 @@ La maîtrise Bitcoin professionnelle en France est faible quasi-universellement.
 
 ## 6. Cinq Leaps of Faith — hypothèses testables posées avant les entretiens
 
-Cinq hypothèses structurantes ont été formulées avant les entretiens terrain. Chaque hypothèse est falsifiable et sert de grille d'évaluation des signaux collectés en Phase B. Leur statut post-terrain est documenté dans [What the Terrain Flipped](./B_Terrain_Flip/).
+Cinq hypothèses structurantes ont été formulées avant les entretiens terrain. Chaque hypothèse est falsifiable et sert de grille d'évaluation des signaux collectés en Phase B. Leur statut post-terrain est documenté dans [What Fieldwork Revealed](./B_Fieldwork_Reversals.md).
 
 | # | Hypothèse | Logique desk |
 |:-:|---|---|
@@ -176,7 +176,7 @@ Cinq hypothèses structurantes ont été formulées avant les entretiens terrain
 | 4 | **La marque Découvre Bitcoin est crédible en B2B Bitcoin-only.** | DB est le seul acteur Bitcoin-only formation en France (client). Hypothèse : ce positionnement est une force, pas une friction. |
 | 5 | **Un acheteur B2B paiera sans certification Qualiopi.** | Les budgets propres existent. Hypothèse : un OF non-Qualiopi peut vendre à la marge des circuits OPCO, au moins sur des engagements one-shot. |
 
-Ces cinq hypothèses ont été testées directement ou indirectement au cours des huit entretiens terrain conduits entre le 07/04 et le 14/04/2026. Leur validation, invalidation ou nuance post-terrain est présentée dans [What the Terrain Flipped](./B_Terrain_Flip/).
+Ces cinq hypothèses ont été testées directement ou indirectement au cours des huit entretiens terrain conduits entre le 07/04 et le 14/04/2026. Leur validation, invalidation ou nuance post-terrain est présentée dans [What Fieldwork Revealed](./B_Fieldwork_Reversals.md).
 
 ---
 
@@ -202,8 +202,8 @@ Ce fichier consolide : `briefing_rapport_final.md` §1.1, §3 (segment-first), �
 
 ## Historique & MAJ
 
-Version 1 produite le 22/04/2026. Consolide l'état pré-terrain : approche segment-first justifiée contre l'approche channel-first, paysage réglementaire (MiCA · DAC8 · ANC 2026-01 · Décret 2011-1230 · DPC OEC · LCB-FT), mécanismes de financement de la formation pro en France (Qualiopi · OPCO ATLAS · FIFPL · AGEFICE · CPF hors scope), scoring desk de six segments professionnels sur huit critères / 40 points (Top 5 initial : CGP · Notaires · PSAN · Banques · Experts-comptables), niveau de maîtrise Bitcoin par segment (triangulation desk × terrain), et formulation explicite des cinq Leaps of Faith posées avant les entretiens. Alignement cross-fichiers : les retournements post-terrain (CGP ↓ · PSAN ↓ · Banques différé) sont traités dans [What the Terrain Flipped](./B_Terrain_Flip/), les gaps concurrentiels dans [Competitive White Space](./C_White_Space.md), le plan 12 mois dans [The 12-Month Path](./D_12m_Path/).
+Version 1 produite le 22/04/2026. Consolide l'état pré-terrain : approche segment-first justifiée contre l'approche channel-first, paysage réglementaire (MiCA · DAC8 · ANC 2026-01 · Décret 2011-1230 · DPC OEC · LCB-FT), mécanismes de financement de la formation pro en France (Qualiopi · OPCO ATLAS · FIFPL · AGEFICE · CPF hors scope), scoring desk de six segments professionnels sur huit critères / 40 points (Top 5 initial : CGP · Notaires · PSAN · Banques · Experts-comptables), niveau de maîtrise Bitcoin par segment (triangulation desk × terrain), et formulation explicite des cinq Leaps of Faith posées avant les entretiens. Alignement cross-fichiers : les retournements post-terrain (CGP ↓ · PSAN ↓ · Banques différé) sont traités dans [What Fieldwork Revealed](./B_Fieldwork_Reversals.md), les gaps concurrentiels dans [Competitive White Space](./C_White_Space.md), le plan 12 mois dans [The 12-Month Path](./D_12m_Path/).
 
 ---
 
-*[Retour au README](./) · [Méthodologie](./METHODOLOGY.md) · [Claim](./0_Claim.md) · [Terrain Flip](./B_Terrain_Flip/) · [White Space](./C_White_Space.md) · [12-Month Path](./D_12m_Path/) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*
+*[Retour au README](./) · [Méthodologie](./METHODOLOGY.md) · [Claim](./0_Claim.md) · [Fieldwork Reversals](./B_Fieldwork_Reversals.md) · [White Space](./C_White_Space.md) · [12-Month Path](./D_12m_Path/) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*

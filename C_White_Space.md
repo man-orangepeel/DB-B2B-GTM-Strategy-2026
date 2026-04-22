@@ -156,7 +156,7 @@ Ce fichier consolide : `B_Benchmark/NO/B3-NO_Gap_Marche.md` §1, §2, §3 et §6
 
 ## Historique & MAJ
 
-Version 1 produite le 22/04/2026. Intègre les verdicts gap Notaires (neuf critères validés) et gap Experts-comptables (dix critères exclusifs + un partagé avec Force Patrimoine × Expert Crypto depuis MAJ site 23/03/2026). Matrice concurrentielle condensée à cinq acteurs clés sur treize critères. Positionnement unifié cross-segment avec cinq différenciants structurels et trois segment-spécifiques. Fenêtre d'entrée resserrée à 6-12 mois sur les deux segments. Alignement cross-fichiers : `D_12m_Path/` (stack partenariats et séquencement), `B_Terrain_Flip/` (portraits, reversals, hypotheses verdict), `Sources_Index` (entretiens et sources externes).
+Version 1 produite le 22/04/2026. Intègre les verdicts gap Notaires (neuf critères validés) et gap Experts-comptables (dix critères exclusifs + un partagé avec Force Patrimoine × Expert Crypto depuis MAJ site 23/03/2026). Matrice concurrentielle condensée à cinq acteurs clés sur treize critères. Positionnement unifié cross-segment avec cinq différenciants structurels et trois segment-spécifiques. Fenêtre d'entrée resserrée à 6-12 mois sur les deux segments. Alignement cross-fichiers : `D_12m_Path/` (stack partenariats et séquencement), `B_Fieldwork_Reversals.md` (portraits, reversals, hypotheses verdict), `Sources_Index` (entretiens et sources externes).
 
 ---
 

@@ -79,7 +79,7 @@ Le protocole détaillé de pondération terrain / desk et la règle d'arbitrage 
 |---|---|
 | [The Claim](./0_Claim.md) | Thèse, 3 chiffres d'ancrage, 2 schémas de diagnostic |
 | [Market State](./A_Market_State.md) | État du marché pré-terrain, 6 segments, réglementation, 5 Leaps of Faith |
-| [What the Terrain Flipped](./B_Terrain_Flip/) | 8 portraits, 3 reversals, thesis recast, hypotheses verdict, final scoring |
+| [What Fieldwork Revealed](./B_Fieldwork_Reversals.md) | 8 portraits, 3 reversals, thesis recast, hypotheses verdict, final scoring |
 | [Competitive White Space](./C_White_Space.md) | Cartographie concurrentielle, matrice, gap Notaires + Experts-comptables |
 | [The 12-Month Path](./D_12m_Path/) | Positionnement, stack partenaires, séquencement, pricing, Qualiopi, KPIs, quick wins |
 | [Failure Modes](./E_Failure_Modes.md) | Contraintes structurelles, top risques, kill-criteria |

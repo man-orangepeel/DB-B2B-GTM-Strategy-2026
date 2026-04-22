@@ -96,7 +96,7 @@ Cinq hypothèses sur le marché ont été posées avant les entretiens terrain. 
 
 ### 2.5 Livrables Phase A
 
-L'état du marché pré-terrain, la cartographie des 6 segments, le scoring multidimensionnel et les 5 Leaps of Faith posées avant entretiens sont consolidés dans **[Market State](./A_Market_State.md)**. Le détail du marché adressable (TAM / SAM / SOM post-révision terrain) figure dans **[Market Sizing](./A_Market_Analysis/A4_Market_Sizing.md)**. Les statuts terrain des 5 Leaps of Faith sont repris dans **[What the Terrain Flipped — Hypotheses Verdict](./B_Terrain_Flip/)**. Le rationale complet de sélection des segments approfondis figure dans **[Final Scoring](./B_Terrain_Flip/)**.
+L'état du marché pré-terrain, la cartographie des 6 segments, le scoring multidimensionnel et les 5 Leaps of Faith posées avant entretiens sont consolidés dans **[Market State](./A_Market_State.md)**. Le détail du marché adressable (TAM / SAM / SOM post-révision terrain) figure dans **[Market Sizing](./A_Market_Analysis/A4_Market_Sizing.md)**. Les statuts terrain des 5 Leaps of Faith sont repris dans **[What Fieldwork Revealed — Hypotheses Verdict](./B_Fieldwork_Reversals.md)**. Le rationale complet de sélection des segments approfondis figure dans **[Final Scoring](./B_Fieldwork_Reversals.md)**.
 
 ---
 
@@ -117,7 +117,7 @@ Ce que les praticiens ont besoin dans les segments prioritaires, quels concurren
 
 Deux segments ont été retenus pour approfondissement Phase B à l'issue de la révision Phase A : **Notaires** et **Experts-comptables**.
 
-Le rationale détaillé (scores terrain, signaux convergents, couverture des interviews, contrastes inter-segments) est consigné dans **[What the Terrain Flipped — Final Scoring](./B_Terrain_Flip/)**. Les quatre autres segments étudiés en Phase A (CGP/CGPI, salariés banques, PSAN/CASP, family offices) sont traités comme limitations de l'étude ou segments moyen terme dans le rapport final et ne font pas l'objet d'un benchmark dédié en Phase B.
+Le rationale détaillé (scores terrain, signaux convergents, couverture des interviews, contrastes inter-segments) est consigné dans **[What Fieldwork Revealed — Final Scoring](./B_Fieldwork_Reversals.md)**. Les quatre autres segments étudiés en Phase A (CGP/CGPI, salariés banques, PSAN/CASP, family offices) sont traités comme limitations de l'étude ou segments moyen terme dans le rapport final et ne font pas l'objet d'un benchmark dédié en Phase B.
 
 ### 3.3 Protocole entretiens terrain
 
@@ -167,7 +167,7 @@ Pour chaque segment, le gap s'évalue sur six axes :
 
 ### 3.6 Livrables Phase B
 
-La cartographie concurrentielle par segment, les analyses SWOT détaillées et la matrice gap sont consolidés dans **[Competitive White Space](./C_White_Space.md)**. La synthèse cross-segment (positionnement unifié Notaires + Experts-comptables) et les 8 portraits d'interviewés sont intégrés dans **[What the Terrain Flipped](./B_Terrain_Flip/)**.
+La cartographie concurrentielle par segment, les analyses SWOT détaillées et la matrice gap sont consolidés dans **[Competitive White Space](./C_White_Space.md)**. La synthèse cross-segment (positionnement unifié Notaires + Experts-comptables) et les 8 portraits d'interviewés sont intégrés dans **[What Fieldwork Revealed](./B_Fieldwork_Reversals.md)**.
 
 ---
 
@@ -295,7 +295,7 @@ Quand les données terrain contredisent le desk initial, l'observation terrain e
 |---|---|---|
 | Thèse principale et schémas de diagnostic | Claim et anchor figures | [The Claim](./0_Claim.md) |
 | État du marché pré-terrain | Cartographie 6 segments · réglementation · financement · LOFs | [Market State](./A_Market_State.md) |
-| Retournements terrain et verdict scoring | 8 portraits · 3 reversals · thesis recast · hypotheses verdict · final scoring | [What the Terrain Flipped](./B_Terrain_Flip/) |
+| Retournements terrain et verdict scoring | 8 portraits · 3 reversals · thesis recast · hypotheses verdict · final scoring | [What Fieldwork Revealed](./B_Fieldwork_Reversals.md) |
 | White space concurrentiel | Cartographie concurrents · matrice · gap Notaires + Experts-comptables · synthèse cross | [Competitive White Space](./C_White_Space.md) |
 | Plan 12 mois | Positionnement · stack partenaires · séquencement · pricing · Qualiopi · KPIs · quick wins | [The 12-Month Path](./D_12m_Path/) |
 | Modes d'échec et contraintes | Contraintes structurelles · top risques · kill-criteria · BMF qualitatifs | [Failure Modes](./E_Failure_Modes.md) |
