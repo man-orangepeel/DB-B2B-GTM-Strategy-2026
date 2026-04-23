@@ -6,13 +6,13 @@
 
 - [Présentation vidéo (3 min)](Video.md)
 - [Decision Memo](Decision_Memo.md)
-- [Sondage d'auto-évaluation](Survey.md)
 - [The Claim](The_Claim.md)
 - [A — Market State Before Fieldwork](A_Market_State.md)
 - [B — Hypothesis Reversals](B_Fieldwork_Reversals.md)
 - [C — Competitive White Space](C_White_Space.md)
 - [D — The 12-Month Path](D_12m_Path.md)
 - [E — Failure Modes & Constraints](E_Failure_Modes.md)
+- [F — Survey](Survey.md)
 
 # Appendices
 

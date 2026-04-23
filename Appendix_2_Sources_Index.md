@@ -29,7 +29,7 @@ Huit praticiens interviewés du 07/04/2026 au 14/04/2026, en présentiel ou visi
 
 Les huit entretiens de la Phase A ont été enregistrés en vidéo avec l'accord préalable des intervenants. Ils sont hébergés sur YouTube en mode **non répertorié** (accessibles uniquement sur lien direct, non indexés par les moteurs de recherche).
 
-**Accès** : sur demande nominative à [mproquin.perso@gmail.com](mailto:mproquin.perso@gmail.com). Les liens sont transmis après vérification d'identité du demandeur (Plan B Academy · Découvre Bitcoin · auditeur officiel). Cette restriction volontaire protège la déontologie des intervenants (secret professionnel partiel, propos non publics tenus en confiance).
+**Accès** : sur demande nominative à [LinkedIn](https://www.linkedin.com/in/manuelproquin/). Les liens sont transmis après vérification d'identité du demandeur (Plan B Academy · Découvre Bitcoin · auditeur officiel). Cette restriction volontaire protège la déontologie des intervenants (secret professionnel partiel, propos non publics tenus en confiance).
 
 | # | Intervenant | Date | Format d'entretien | Enregistrement vidéo |
 |:-:|---|:-:|:-:|:-:|
