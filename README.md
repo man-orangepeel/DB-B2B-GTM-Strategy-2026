@@ -14,6 +14,7 @@ Market research report (15 pages, English) proposing a B2B entry strategy for [D
 | **Main report** (15 p EN) | [Report.md](Report.md) |
 | **Decision memo** (1 p FR, standalone brief) | [Decision_Memo.md](Decision_Memo.md) |
 | **Video presentation** (3 min FR, author intro + key takeaways) | [youtu.be/abGJ6gY8BhU](https://youtu.be/abGJ6gY8BhU) · [Video.md](Video.md) |
+| **Self-assessment survey** (live Next.js site, methodology and results) | [marketresearch.orangepeel.fr](https://marketresearch.orangepeel.fr/) · [Survey.md](Survey.md) |
 
 ---
 
@@ -22,6 +23,7 @@ Market research report (15 pages, English) proposing a B2B entry strategy for [D
 ### Companion files — detailed section-by-section analysis
 
 - [Video presentation](Video.md) — 3-min spoken overview of the study
+- [Self-assessment survey](Survey.md) — methodology, live site and technical architecture
 - [The Claim](The_Claim.md) — thesis · anchor figures · diagnosis schemas
 - [A — Market State Before Fieldwork](A_Market_State.md)
 - [B — Hypothesis Reversals](B_Fieldwork_Reversals.md)

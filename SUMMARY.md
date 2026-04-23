@@ -6,6 +6,7 @@
 
 - [Présentation vidéo (3 min)](Video.md)
 - [Decision Memo](Decision_Memo.md)
+- [Sondage d'auto-évaluation](Survey.md)
 - [The Claim](The_Claim.md)
 - [A — Market State Before Fieldwork](A_Market_State.md)
 - [B — Hypothesis Reversals](B_Fieldwork_Reversals.md)

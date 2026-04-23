@@ -25,6 +25,23 @@ Huit praticiens interviewés du 07/04/2026 au 14/04/2026, en présentiel ou visi
 - Synthèses : Profil → Insights numérotés → Tableau des cinq Leaps of Faith (cinq statuts : confirmé, partiel, invalidé, non conclu, non évoqué) → Opportunités → Contacts
 - Règle critique d'attribution : aucune citation n'est attribuée à l'interviewé si elle provient de l'intervieweur. Vérification systématique dans la transcription source.
 
+### Enregistrements vidéo des entretiens
+
+Les huit entretiens de la Phase A ont été enregistrés en vidéo avec l'accord préalable des intervenants. Ils sont hébergés sur YouTube en mode **non répertorié** (accessibles uniquement sur lien direct, non indexés par les moteurs de recherche).
+
+**Accès** : sur demande nominative à [mproquin.perso@gmail.com](mailto:mproquin.perso@gmail.com). Les liens sont transmis après vérification d'identité du demandeur (Plan B Academy · Découvre Bitcoin · auditeur officiel). Cette restriction volontaire protège la déontologie des intervenants (secret professionnel partiel, propos non publics tenus en confiance).
+
+| # | Intervenant | Date | Format d'entretien | Enregistrement vidéo |
+|:-:|---|:-:|:-:|:-:|
+| 1 | Gwendal Texier (GT) | 07/04/2026 | Visioconférence | Disponible — accès nominatif |
+| 2 | Nicolas Cantu (NC) | 08/04/2026 | Visioconférence | Disponible — accès nominatif |
+| 3 | Alexandre Stachtchenko (AS) | 09/04/2026 | Visioconférence | Disponible — accès nominatif |
+| 4 | MD (anonymisé) | 10/04/2026 | Visioconférence | Disponible — accès restreint (anonymisation demandée par l'intervenant) |
+| 5 | Elodie (anonymisée) | 11/04/2026 | Visioconférence | Disponible — accès restreint (anonymisation demandée par l'intervenant) |
+| 6 | Louis-Alexandre de Froissard (LAF) | 12/04/2026 | Visioconférence | Disponible — accès nominatif |
+| 7 | Julien Oréal (JO) | 13/04/2026 | Visioconférence | Disponible — accès nominatif |
+| 8 | Aurore Galves (AG) | 14/04/2026 | Visioconférence | Disponible — accès nominatif |
+
 ---
 
 ## 2. Sources réglementaires externes
