@@ -164,7 +164,7 @@ La maîtrise Bitcoin professionnelle en France est faible quasi-universellement.
 
 ---
 
-## 6. Cinq Leaps of Faith — hypothèses testables posées avant les entretiens
+## 6. Cinq kill criteria — hypothèses testables posées avant les entretiens
 
 Cinq hypothèses structurantes ont été formulées avant les entretiens terrain. Chaque hypothèse est falsifiable et sert de grille d'évaluation des signaux collectés en Phase B. Leur statut post-terrain est documenté dans [What Fieldwork Revealed](./B_Fieldwork_Reversals.md).
 
@@ -202,7 +202,7 @@ Ce fichier consolide : `briefing_rapport_final.md` §1.1, §3 (segment-first), �
 
 ## Historique & MAJ
 
-Version 1 produite le 22/04/2026. Consolide l'état pré-terrain : approche segment-first justifiée contre l'approche channel-first, paysage réglementaire (MiCA · DAC8 · ANC 2026-01 · Décret 2011-1230 · DPC OEC · LCB-FT), mécanismes de financement de la formation pro en France (Qualiopi · OPCO ATLAS · FIFPL · AGEFICE · CPF hors scope), scoring desk de six segments professionnels sur huit critères / 40 points (Top 5 initial : CGP · Notaires · PSAN · Banques · Experts-comptables), niveau de maîtrise Bitcoin par segment (triangulation desk × terrain), et formulation explicite des cinq Leaps of Faith posées avant les entretiens. Alignement cross-fichiers : les retournements post-terrain (CGP ↓ · PSAN ↓ · Banques différé) sont traités dans [What Fieldwork Revealed](./B_Fieldwork_Reversals.md), les gaps concurrentiels dans [Competitive White Space](./C_White_Space.md), le plan 12 mois dans [The 12-Month Path](./D_12m_Path.md).
+Version 1 produite le 22/04/2026. Consolide l'état pré-terrain : approche segment-first justifiée contre l'approche channel-first, paysage réglementaire (MiCA · DAC8 · ANC 2026-01 · Décret 2011-1230 · DPC OEC · LCB-FT), mécanismes de financement de la formation pro en France (Qualiopi · OPCO ATLAS · FIFPL · AGEFICE · CPF hors scope), scoring desk de six segments professionnels sur huit critères / 40 points (Top 5 initial : CGP · Notaires · PSAN · Banques · Experts-comptables), niveau de maîtrise Bitcoin par segment (triangulation desk × terrain), et formulation explicite des cinq kill criteria posées avant les entretiens. Alignement cross-fichiers : les retournements post-terrain (CGP ↓ · PSAN ↓ · Banques différé) sont traités dans [What Fieldwork Revealed](./B_Fieldwork_Reversals.md), les gaps concurrentiels dans [Competitive White Space](./C_White_Space.md), le plan 12 mois dans [The 12-Month Path](./D_12m_Path.md).
 
 ---
 

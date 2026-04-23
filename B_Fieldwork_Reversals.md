@@ -180,7 +180,7 @@ Découvre Bitcoin se positionne comme **le module Bitcoin de référence** inté
 
 ---
 
-## 4. Statut post-terrain des cinq Leaps of Faith
+## 4. Statut post-terrain des cinq kill criteria
 
 Cinq hypothèses avaient été posées avant les entretiens. Leur statut post-terrain structure les kill-criteria du plan (détail dans [Failure Modes](./E_Failure_Modes.md)).
 
@@ -248,13 +248,13 @@ Ce sont les deux segments du Top 5 post-terrain à signaux terrain convergents e
 
 *Section destinée à l'auteur de l'étude pour traçabilité interne.*
 
-Ce fichier consolide : huit synthèses d'entretiens `01_Interviews/synthese_*.md` (07/04 à 14/04/2026) · `01_Interviews/tracker_interviews.md` · `CLAUDE.md §Intervenants identifiés` · `briefing_rapport_final.md §1.2` (tableau intervenants), §4.0 à §4.6 (dynamique sélection et scoring post-terrain), §5 (LOFs statuts), §6 (insights transversaux), §7 (recadrage Bitcoin-only · position Rogzy), §14.2 (passage anglais pré-rédigé Bitcoin-only recast) · `A_Market_Mapping/Briefing_Superviseur_Bastien_14042026.md` (synthèse interne Top 5 post-terrain) · `A_Market_Mapping/Scoring_Segments_v3.xlsx` (matrice chiffrée).
+Ce fichier consolide : huit synthèses d'entretiens `01_Interviews/synthese_*.md` (07/04 à 14/04/2026) · `01_Interviews/tracker_interviews.md` · `CLAUDE.md §Intervenants identifiés` · `briefing_rapport_final.md §1.2` (tableau intervenants), §4.0 à §4.6 (dynamique sélection et scoring post-terrain), §5 (kill criteria statuts), §6 (insights transversaux), §7 (recadrage Bitcoin-only · position Rogzy), §14.2 (passage anglais pré-rédigé Bitcoin-only recast) · `A_Market_Mapping/Briefing_Superviseur_Bastien_14042026.md` (synthèse interne Top 5 post-terrain) · `A_Market_Mapping/Scoring_Segments_v3.xlsx` (matrice chiffrée).
 
 ---
 
 ## Historique & MAJ
 
-Version 1 produite le 22/04/2026. Consolide en un fichier unique : les huit portraits d'intervenants avec citations signatures et contributions, les trois retournements majeurs (CGP ↓ / Notaires ↑ · PSAN sortie · Banques différées) avec citations nominales convergentes et scores comparés, le recadrage de la thèse Bitcoin-only apporté par Rogzy, le statut post-terrain des cinq Leaps of Faith, et le scoring final avec le rationale explicite des segments retenus (Notaires + Experts-comptables). Alignement cross-fichiers : les verdicts kill-criteria sont repris dans [Failure Modes](./E_Failure_Modes.md), les gaps concurrentiels dans [Competitive White Space](./C_White_Space.md), le plan 12 mois dans [The 12-Month Path](./D_12m_Path.md).
+Version 1 produite le 22/04/2026. Consolide en un fichier unique : les huit portraits d'intervenants avec citations signatures et contributions, les trois retournements majeurs (CGP ↓ / Notaires ↑ · PSAN sortie · Banques différées) avec citations nominales convergentes et scores comparés, le recadrage de la thèse Bitcoin-only apporté par Rogzy, le statut post-terrain des cinq kill criteria, et le scoring final avec le rationale explicite des segments retenus (Notaires + Experts-comptables). Alignement cross-fichiers : les verdicts kill-criteria sont repris dans [Failure Modes](./E_Failure_Modes.md), les gaps concurrentiels dans [Competitive White Space](./C_White_Space.md), le plan 12 mois dans [The 12-Month Path](./D_12m_Path.md).
 
 ---
 

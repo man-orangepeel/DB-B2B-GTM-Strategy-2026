@@ -96,13 +96,13 @@ Le détail des conditions de chaque gate, des plans B activables et de la matric
 
 *Section destinée à l'auteur de l'étude pour traçabilité interne. Les auditeurs n'ont pas besoin d'y accéder.*
 
-Ce fichier consolide : `briefing_rapport_final.md §14.5` (cinq contraintes DB — passage anglais pré-rédigé) · `C_GTM_Strategy/C4_Risques_Gates_KPIs_Executive.md` §3 (Top 9 risques prioritaires) et §4 (gates G1-G8) et §4.3 (scénarios probabilisés) · `briefing §5` (statuts post-terrain des cinq Leaps of Faith, servant de kill-criteria) · `briefing §14.6.a §14.6.b §14.6.c` (BMF qualitatifs — marge brute, cycle trésorerie, modèle investissement) · synthèses d'entretiens `01_Interviews/synthese_*.md` (confirmations terrain des contraintes).
+Ce fichier consolide : `briefing_rapport_final.md §14.5` (cinq contraintes DB — passage anglais pré-rédigé) · `C_GTM_Strategy/C4_Risques_Gates_KPIs_Executive.md` §3 (Top 9 risques prioritaires) et §4 (gates G1-G8) et §4.3 (scénarios probabilisés) · `briefing §5` (statuts post-terrain des cinq kill criteria, servant de kill-criteria) · `briefing §14.6.a §14.6.b §14.6.c` (BMF qualitatifs — marge brute, cycle trésorerie, modèle investissement) · synthèses d'entretiens `01_Interviews/synthese_*.md` (confirmations terrain des contraintes).
 
 ---
 
 ## Historique & MAJ
 
-Version 1 produite le 22/04/2026. Intègre les cinq contraintes structurelles DB annoncées par le client (Murielle Macadam, 08/04 + 12/04/2026), les neuf risques prioritaires consolidés cross-segment, les cinq critères d'invalidation dérivés des Leaps of Faith post-terrain, les trois contraintes financières qualitatives (BMF Plan B §5) et les cinq scénarios probabilisés à 12 mois. Alignement cross-fichiers avec [Competitive White Space](./C_White_Space.md) pour les risques segment-spécifiques et [The 12-Month Path](./D_12m_Path.md) pour les gates et plans B.
+Version 1 produite le 22/04/2026. Intègre les cinq contraintes structurelles DB annoncées par le client (Murielle Macadam, 08/04 + 12/04/2026), les neuf risques prioritaires consolidés cross-segment, les cinq critères d'invalidation dérivés des kill criteria post-terrain, les trois contraintes financières qualitatives (BMF Plan B §5) et les cinq scénarios probabilisés à 12 mois. Alignement cross-fichiers avec [Competitive White Space](./C_White_Space.md) pour les risques segment-spécifiques et [The 12-Month Path](./D_12m_Path.md) pour les gates et plans B.
 
 ---
 

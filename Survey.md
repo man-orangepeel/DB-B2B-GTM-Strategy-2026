@@ -28,7 +28,6 @@ Triangulation **terrain × self-declaration** : mesurer le niveau de maturité B
 
 - Cinq segments couverts : **Notaire · CGP / CGPI · Expert-comptable · Banque / Établissement de crédit · PSAN / CASP**. Sélection en une étape avant démarrage automatique. 
 - 8 à 10 questions spécifiques par segment + 2 questions communes
-- Score normalisé sur 10 points.
 
 ![Sélection du segment](assets/survey_segment_selection.png)
 
@@ -40,7 +39,7 @@ Triangulation **terrain × self-declaration** : mesurer le niveau de maturité B
 - **Backend données** : Airtable (base `Survey-DB`, table `responses`)
 - **Email** : Brevo (envoi conditionnel à publication du rapport)
 - **Scoring** : logique `src/lib/scoring.ts` — fonction `calculateScore(answers, segment)` → score /10
-- **Signaux LOF** : dérivés via `src/lib/airtable.ts::computeLofSignals()` (LOF1 · LOF2 · LOF5)
+- **Signaux kill criteria** : dérivés via `src/lib/airtable.ts::computeLofSignals()` (KC-1 · KC-2 · KC-5) — *nom historique de la fonction conservé dans le code ; le référentiel documentaire de l'étude = kill criteria*
 
 Le code source (Next.js · logique de scoring · schéma Airtable · configuration Brevo) est **privé**, disponible en revue sur demande.
 
@@ -57,22 +56,22 @@ Le code source (Next.js · logique de scoring · schéma Airtable · configurati
 Le score mesure la **maturité du répondant** (0 à 10), pas un signal GTM direct. Deux axes coexistent et sont stockés séparément :
 
 - **Score maturité** : somme des points attribués par question, normalisé sur 10 à l'affichage (`SCORE_MAX = 26`).
-- **Signaux GTM** (LOF 1 à 5) : chaque question est taggée avec un Leap of Faith. Les réponses sont post-traitées par `computeLofSignals()` pour produire un profil GTM du répondant (besoin formation · financement · urgence MiCA · Bitcoin-only · Qualiopi) indépendant du score maturité.
+- **Signaux GTM** (KC-1 à KC-5) : chaque question est taggée avec un kill criterion. Les réponses sont post-traitées par `computeLofSignals()` pour produire un profil GTM du répondant (besoin formation · financement · urgence MiCA · Bitcoin-only · Qualiopi) indépendant du score maturité.
 
 ### Exemple concret — segment Notaire
 
 Trois questions du questionnaire Notaire (8 au total), choisies pour illustrer les deux axes :
 
-| ID | Question | Réponses possibles | Pts maturité | Tag LOF |
+| ID | Question | Réponses possibles | Pts maturité | Kill criterion |
 |:-:|---|---|:-:|:-:|
-| `not_q1` | Combien de clients ont mentionné du Bitcoin dans un dossier cette année ? | Aucun · 1 à 5 · Plus de 5 | 0 · 1 · 3 | LOF1 |
-| `not_q5` | Quand un client mentionne du Bitcoin dans un dossier, vous… | Gérez seul · Avec un confrère · Déclinez | 3 · 1,5 · 0 | LOF1 |
-| `not_q6` | MiCA a-t-il changé votre façon d'aborder les actifs numériques ? | Oui · Non · Je ne connais pas MiCA | 5 · 0 · 0 | LOF3 |
+| `not_q1` | Combien de clients ont mentionné du Bitcoin dans un dossier cette année ? | Aucun · 1 à 5 · Plus de 5 | 0 · 1 · 3 | KC-1 |
+| `not_q5` | Quand un client mentionne du Bitcoin dans un dossier, vous… | Gérez seul · Avec un confrère · Déclinez | 3 · 1,5 · 0 | KC-1 |
+| `not_q6` | MiCA a-t-il changé votre façon d'aborder les actifs numériques ? | Oui · Non · Je ne connais pas MiCA | 5 · 0 · 0 | KC-3 |
 
 **Ce que ces trois questions illustrent :**
 
 - **`not_q1`** — scoring par paliers classique : l'exposition client mesure la maturité structurelle du répondant.
-- **`not_q5`** — *« Déclinez »* rapporte 0 point de maturité mais déclenche un signal LOF1 fort (ce notaire a un besoin de formation explicite — prospect haute priorité pour Découvre Bitcoin). **Le 0 point ne neutralise pas le signal GTM.**
+- **`not_q5`** — *« Déclinez »* rapporte 0 point de maturité mais déclenche un signal KC-1 fort (ce notaire a un besoin de formation explicite — prospect haute priorité pour Découvre Bitcoin). **Le 0 point ne neutralise pas le signal GTM.**
 - **`not_q6`** — deux réponses à 0 point (*« Non »* et *« Je ne connais pas MiCA »*) ne disent pas la même chose côté GTM : l'une signale une non-adaptation volontaire, l'autre une ignorance réglementaire. Ces nuances sont exploitables en segmentation post-sondage.
 
 Cette séparation maturité / signal GTM évite le biais d'un score agrégé unique qui écraserait les signaux d'opportunité commerciale.

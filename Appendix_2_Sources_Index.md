@@ -22,7 +22,7 @@ Huit praticiens interviewés du 07/04/2026 au 14/04/2026, en présentiel ou visi
 **Conventions de traitement :**
 
 - Transcriptions : format dialogué horodaté · registre oral préservé · annotations distinguant l'interviewé et l'intervieweur
-- Synthèses : Profil → Insights numérotés → Tableau des cinq Leaps of Faith (cinq statuts : confirmé, partiel, invalidé, non conclu, non évoqué) → Opportunités → Contacts
+- Synthèses : Profil → Insights numérotés → Tableau des cinq kill criteria (cinq statuts : confirmé, partiel, invalidé, non conclu, non évoqué) → Opportunités → Contacts
 - Règle critique d'attribution : aucune citation n'est attribuée à l'interviewé si elle provient de l'intervieweur. Vérification systématique dans la transcription source.
 
 ### Enregistrements vidéo des entretiens
@@ -95,7 +95,7 @@ Le protocole détaillé de pondération terrain / desk et la règle d'arbitrage 
 | Fichier | Rôle |
 |---|---|
 | [The Claim](./The_Claim.md) | Thèse, 3 chiffres d'ancrage, 2 schémas de diagnostic |
-| [Market State](./A_Market_State.md) | État du marché pré-terrain, 6 segments, réglementation, 5 Leaps of Faith |
+| [Market State](./A_Market_State.md) | État du marché pré-terrain, 6 segments, réglementation, 5 kill criteria |
 | [What Fieldwork Revealed](./B_Fieldwork_Reversals.md) | 8 portraits, 3 reversals, thesis recast, hypotheses verdict, final scoring |
 | [Competitive White Space](./C_White_Space.md) | Cartographie concurrentielle, matrice, gap Notaires + Experts-comptables |
 | [The 12-Month Path](./D_12m_Path.md) | Positionnement, stack partenaires, séquencement, pricing, Qualiopi, KPIs, quick wins |

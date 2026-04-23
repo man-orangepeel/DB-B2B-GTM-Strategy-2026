@@ -48,7 +48,7 @@ L'étude repose sur cinq principes structurants :
 
 Caractériser le marché B2B adressable. Quel est le taille de chaque segment ? Quels sont les besoins de formation, l'accessibilité, les mécanismes de financement ? Quels segments méritent une validation terrain ?
 
-**Livrable :** Matrice de scoring desk (6 segments × 8 critères), 5 hypothèses testables (Leaps of Faith), sélection de 2–3 segments prioritaires pour entretiens terrain.
+**Livrable :** Matrice de scoring desk (6 segments × 8 critères), 5 kill criteria (hypothèses testables), sélection de 2–3 segments prioritaires pour entretiens terrain.
 
 ### 2.2 Justification approche segment-first
 
@@ -80,11 +80,11 @@ Avantage DB : expertise profonde Bitcoin. Les canaux sont interchangeables ; le 
 
 **Règles notation :** les scores de base s'appuient sur des données officielles (INSEE, CSN, AMF, ORIAS, textes réglementaires). Les scores desk initiaux ont été révisés post-terrain lorsque les signaux terrain convergents l'ont justifié. Les révisions chiffrées figurent dans `A_Market_Mapping/Scoring_Segments_v3.xlsx` et leur synthèse dans `briefing_rapport_final.md §4.0`.
 
-### 2.4 Cinq Leaps of Faith — Hypothèses testables
+### 2.4 Cinq kill criteria — hypothèses testables
 
 Cinq hypothèses sur le marché ont été posées avant les entretiens terrain. Elles ont exigé validation ou invalidation par retour praticien :
 
-| LOF | Hypothèse |
+| KC | Hypothèse |
 |---|---|
 | **KC-1** | Les professionnels manquent de formation Bitcoin et le ressentent comme un problème |
 | **KC-2** | Les employeurs sont disposés à financer la formation |
@@ -92,11 +92,11 @@ Cinq hypothèses sur le marché ont été posées avant les entretiens terrain. 
 | **KC-4** | Le positionnement Bitcoin-only de DB est crédible en B2B |
 | **KC-5** | Un acheteur B2B paiera sans certification Qualiopi |
 
-**Interprétation :** Le statut terrain de chaque LOF modèle la confiance dans l'attractivité du segment correspondant. Un segment avec 2–3 LOF confirmés note plus haut qu'un avec signaux contradictoires. Les statuts consolidés post-terrain sont documentés dans le fichier de synthèse stratégique et le glossaire.
+**Interprétation :** Le statut terrain de chaque kill criterion modèle la confiance dans l'attractivité du segment correspondant. Un segment avec 2–3 KC confirmés note plus haut qu'un avec signaux contradictoires. Les statuts consolidés post-terrain sont documentés dans le fichier de synthèse stratégique et le glossaire.
 
 ### 2.5 Livrables Phase A
 
-L'état du marché pré-terrain, la cartographie des 6 segments, le scoring multidimensionnel et les 5 Leaps of Faith posées avant entretiens sont consolidés dans **[Market State](./A_Market_State.md)**. Le détail du marché adressable (TAM / SAM / SOM post-révision terrain) figure dans **[Market Sizing](./Appendix_5_Market_Sizing.md)**. Les statuts terrain des 5 Leaps of Faith sont repris dans **[What Fieldwork Revealed — Hypotheses Verdict](./B_Fieldwork_Reversals.md)**. Le rationale complet de sélection des segments approfondis figure dans **[Final Scoring](./B_Fieldwork_Reversals.md)**.
+L'état du marché pré-terrain, la cartographie des 6 segments, le scoring multidimensionnel et les 5 kill criteria posés avant entretiens sont consolidés dans **[Market State](./A_Market_State.md)**. Le détail du marché adressable (TAM / SAM / SOM post-révision terrain) figure dans **[Market Sizing](./Appendix_5_Market_Sizing.md)**. Les statuts terrain des 5 kill criteria sont repris dans **[What Fieldwork Revealed — Hypotheses Verdict](./B_Fieldwork_Reversals.md)**. Le rationale complet de sélection des segments approfondis figure dans **[Final Scoring](./B_Fieldwork_Reversals.md)**.
 
 ---
 
@@ -134,12 +134,12 @@ Le rationale détaillé (scores terrain, signaux convergents, couverture des int
 | Aurore Galves (AG) | Fondatrice Gallion, ex-PSAN Bitcoin Lyon, ex-OF Leonod | PSAN / Marché formation | 14/04/2026 |
 | Elodie (anonymisée) | AFS/Arkea | Assurance / Hors segment | 11/04/2026 |
 
-**Structure guide :** 5 phases — (i) profil praticien et contexte ; (ii) exposition Bitcoin à ce jour ; (iii) besoin formation et préférences format ; (iv) signaux sur hypothèses LOF ; (v) objections et prochaines étapes.
+**Structure guide :** 5 phases — (i) profil praticien et contexte ; (ii) exposition Bitcoin à ce jour ; (iii) besoin formation et préférences format ; (iv) signaux sur les kill criteria ; (v) objections et prochaines étapes.
 
 **Conventions transcription et synthèse :**
 - Format dialogué (noms **GT**, **MP**, etc.) préservant le registre oral
 - Horodatage par sujet
-- Template synthèse : Profil → Insights numérotés → Tableau verdict LOF → Opportunités → Contacts
+- Template synthèse : Profil → Insights numérotés → Tableau verdict kill criteria → Opportunités → Contacts
 - **Règle critique :** jamais attribuer une citation à un intervenant si elle provient de l'intervieweur (MP). Toujours vérifier dans la transcription source.
 
 ### 3.4 Cartographie concurrentielle (B1) et analyse SWOT (B2)
@@ -294,7 +294,7 @@ Quand les données terrain contredisent le desk initial, l'observation terrain e
 | Livrable | Rôle | Lien |
 |---|---|---|
 | Thèse principale et schémas de diagnostic | Claim et anchor figures | [The Claim](./The_Claim.md) |
-| État du marché pré-terrain | Cartographie 6 segments · réglementation · financement · LOFs | [Market State](./A_Market_State.md) |
+| État du marché pré-terrain | Cartographie 6 segments · réglementation · financement · kill criteria | [Market State](./A_Market_State.md) |
 | Retournements terrain et verdict scoring | 8 portraits · 3 reversals · thesis recast · hypotheses verdict · final scoring | [What Fieldwork Revealed](./B_Fieldwork_Reversals.md) |
 | White space concurrentiel | Cartographie concurrents · matrice · gap Notaires + Experts-comptables · synthèse cross | [Competitive White Space](./C_White_Space.md) |
 | Plan 12 mois | Positionnement · stack partenaires · séquencement · pricing · Qualiopi · KPIs · quick wins | [The 12-Month Path](./D_12m_Path.md) |
