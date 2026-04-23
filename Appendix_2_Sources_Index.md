@@ -77,7 +77,7 @@ Le protocole détaillé de pondération terrain / desk et la règle d'arbitrage 
 
 | Fichier | Rôle |
 |---|---|
-| [The Claim](./0_Claim.md) | Thèse, 3 chiffres d'ancrage, 2 schémas de diagnostic |
+| [The Claim](./The_Claim.md) | Thèse, 3 chiffres d'ancrage, 2 schémas de diagnostic |
 | [Market State](./A_Market_State.md) | État du marché pré-terrain, 6 segments, réglementation, 5 Leaps of Faith |
 | [What Fieldwork Revealed](./B_Fieldwork_Reversals.md) | 8 portraits, 3 reversals, thesis recast, hypotheses verdict, final scoring |
 | [Competitive White Space](./C_White_Space.md) | Cartographie concurrentielle, matrice, gap Notaires + Experts-comptables |
@@ -113,4 +113,4 @@ Version 1 produite le 22/04/2026. Regroupe l'index des 8 entretiens (dates, rôl
 
 ---
 
-*[Retour au README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./0_Claim.md)*
+*[Retour au README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./The_Claim.md)*

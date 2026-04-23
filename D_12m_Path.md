@@ -440,4 +440,4 @@ Version 1 produite le 22/04/2026. Consolide en un fichier unique le plan d'exéc
 
 ---
 
-*[Retour au README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./0_Claim.md) · [Market State](./A_Market_State.md) · [Fieldwork Reversals](./B_Fieldwork_Reversals.md) · [White Space](./C_White_Space.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_2_Sources_Index.md)*
+*[Retour au README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./The_Claim.md) · [Market State](./A_Market_State.md) · [Fieldwork Reversals](./B_Fieldwork_Reversals.md) · [White Space](./C_White_Space.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_2_Sources_Index.md)*

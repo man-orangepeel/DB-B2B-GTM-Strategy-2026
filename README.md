@@ -1,6 +1,7 @@
 # B2B Go-to-Market Strategy for Découvre Bitcoin
 
-**Plan B Academy · Bitcoin Business Track · Manuel Proquin · April 2026**
+**Plan B Academy · Bitcoin Business Track · Manuel Proquin · April 2026**  
+**Access** — [full web version](https://man-orangepeel.github.io/DB-B2B-GTM-Strategy-2026/) (report · companion files · appendices) · [GitHub source](https://github.com/man-orangepeel/DB-B2B-GTM-Strategy-2026)
 
 ---
 
@@ -433,11 +434,12 @@ The B2B training sales cycle in France is structurally 3 to 6 months, with furth
 
 ## Companion files
 
-The six companion files below extend each section of the report (0 to E) with the underlying analysis, citations and full tables. They follow the section flow of the report.
+The companion files below extend each section of the report with the underlying analysis, citations and full tables.
 
 | Section | Detail | Companion file |
 |:-:|---|---|
-| **0** · The Claim | Three anchor figures · diagnosis summary · recommendation summary | [0_Claim.md](0_Claim.md) |
+| **Decision memo** | Executive brief for time-constrained readers · 1-2 p standalone · field-anchored · decision-ready | [Decision_Memo.md](Decision_Memo.md) |
+| **The Claim** | Three anchor figures · diagnosis summary · recommendation summary | [The_Claim.md](The_Claim.md) |
 | **A** · Market state before fieldwork | Regulatory context (MiCA · DAC8 · ANC 2026-01) · training financing · segment-first methodology detail | [A_Market_State.md](A_Market_State.md) |
 | **B** · What fieldwork revealed | 8-interview casting · three reversals · kill criteria verdict · full post-field segment rationale | [B_Fieldwork_Reversals.md](B_Fieldwork_Reversals.md) |
 | **C** · Competitive white space | Full 13-criteria competitor matrix · gap analysis per segment · entry window detail | [C_White_Space.md](C_White_Space.md) |
@@ -456,6 +458,16 @@ The six appendices below provide cross-section evidence and methodological suppo
 | IV | **Bitcoin Literacy by Segment** | Field + desk literacy signal · 9 segments · qualitative codes · methodological limitations · sources retained and rejected | [Appendix_4_Bitcoin_Literacy.md](Appendix_4_Bitcoin_Literacy.md) |
 | V | **Market Sizing & Scoring** | TAM/SAM/SOM · full pre-field and post-field scoring matrix (6 segments × 8 criteria) | [Appendix_5_Market_Sizing.md](Appendix_5_Market_Sizing.md) |
 | VI | **Distribution Partners** | Detailed partner fiches — P0 / P1 / Plans B · contact info · agreement status | [Appendix_6_Distribution_Partners.md](Appendix_6_Distribution_Partners.md) |
+
+---
+
+## References
+
+| Resource | Link |
+|---|---|
+| **Online version** (web navigation, recommended) | [man-orangepeel.github.io/DB-B2B-GTM-Strategy-2026](https://man-orangepeel.github.io/DB-B2B-GTM-Strategy-2026/) |
+| **Source repository** (all files, full traceability) | [github.com/man-orangepeel/DB-B2B-GTM-Strategy-2026](https://github.com/man-orangepeel/DB-B2B-GTM-Strategy-2026) |
+| **Decision memo** (standalone brief, 1-2 p) | [Decision_Memo.md](Decision_Memo.md) |
 
 ---
 

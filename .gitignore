@@ -1,5 +1,9 @@
 report.html
 build_pdf.py
+.DS_Store
+book.toml
+custom.css
+.github/
 
 # mdBook build output
 book/

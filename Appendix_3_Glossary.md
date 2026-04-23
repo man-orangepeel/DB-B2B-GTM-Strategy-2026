@@ -6,4 +6,4 @@
 
 ---
 
-*Retour au [README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./0_Claim.md) · [Sources & Index](./Appendix_2_Sources_Index.md)*
+*Retour au [README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./The_Claim.md) · [Sources & Index](./Appendix_2_Sources_Index.md)*
