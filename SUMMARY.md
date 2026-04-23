@@ -2,12 +2,9 @@
 
 [Report](README.md)
 
-# Standalone
-
-- [Decision Memo](Decision_Memo.md)
-
 # Companion files
 
+- [Decision Memo](Decision_Memo.md)
 - [The Claim](The_Claim.md)
 - [A — Market State Before Fieldwork](A_Market_State.md)
 - [B — Hypothesis Reversals](B_Fieldwork_Reversals.md)
