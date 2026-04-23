@@ -1,4 +1,4 @@
-# Appendix 1 — Sources & Interview Index
+# Appendix 2 — Sources & Interview Index
 
 *Consolidation des sources primaires (entretiens), réglementaires, statistiques et sectorielles mobilisées dans l'étude · index des publications publiques et convention de versionning.*
 
@@ -69,7 +69,7 @@ Les sources mobilisées par l'étude sont classées en trois niveaux :
 | **Terrain** | Entretiens praticiens (8 interviews) + veille publique structurée datée | GT · NC · AS · MD · Elodie · LAF · JO · AG + LinkedIn, presse professionnelle, sites corporate |
 | **Desk** | Études sectorielles et publications tierces | ADAN / KPMG · AFFO · Mon Compte Formation · bulletins OPCO |
 
-Le protocole détaillé de pondération terrain / desk et la règle d'arbitrage entre sources sont décrits dans la [méthodologie](./Appendix_2_Methodology.md) et appliqués dans [Competitive White Space](./C_White_Space.md).
+Le protocole détaillé de pondération terrain / desk et la règle d'arbitrage entre sources sont décrits dans la [méthodologie](./Appendix_1_Methodology.md) et appliqués dans [Competitive White Space](./C_White_Space.md).
 
 ---
 
@@ -83,8 +83,8 @@ Le protocole détaillé de pondération terrain / desk et la règle d'arbitrage 
 | [Competitive White Space](./C_White_Space.md) | Cartographie concurrentielle, matrice, gap Notaires + Experts-comptables |
 | [The 12-Month Path](./D_12m_Path.md) | Positionnement, stack partenaires, séquencement, pricing, Qualiopi, KPIs, quick wins |
 | [Failure Modes](./E_Failure_Modes.md) | Contraintes structurelles, top risques, kill-criteria |
-| [Market Sizing](./Appendix_4_Market_Sizing.md) | TAM / SAM / SOM 12 et 24 mois par segment |
-| [Méthodologie](./Appendix_2_Methodology.md) | Protocole de recherche, 8 critères scoring, guides d'entretien |
+| [Market Sizing](./Appendix_5_Market_Sizing.md) | TAM / SAM / SOM 12 et 24 mois par segment |
+| [Méthodologie](./Appendix_1_Methodology.md) | Protocole de recherche, 8 critères scoring, guides d'entretien |
 | [Glossaire](./Appendix_3_Glossary.md) | Acronymes, termes-clés, personnes citées |
 
 ---
@@ -113,4 +113,4 @@ Version 1 produite le 22/04/2026. Regroupe l'index des 8 entretiens (dates, rôl
 
 ---
 
-*[Retour au README](./README.md) · [Méthodologie](./Appendix_2_Methodology.md) · [Claim](./0_Claim.md)*
+*[Retour au README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./0_Claim.md)*

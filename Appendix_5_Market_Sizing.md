@@ -1,6 +1,6 @@
-# Appendix 4 — Market Sizing & Segment Scoring
+# Appendix 5 — Market Sizing & Segment Scoring
 
-*Ce fichier présente la taille du marché adressable (TAM/SAM/SOM) par segment professionnel. Méthodologie complète : [Appendix_2_Methodology.md](Appendix_2_Methodology.md).*
+*Ce fichier présente la taille du marché adressable (TAM/SAM/SOM) par segment professionnel. Méthodologie complète : [Appendix_1_Methodology.md](Appendix_1_Methodology.md).*
 
 ---
 
@@ -273,8 +273,8 @@ Implication GTM : DB doit **justifier sa valeur sur 1 an de budget formation cry
 
 ## Historique & MAJ
 
-Version finalisée au 22/04/2026. Le fichier intègre les filtres SAM recalibrés post-challenge terrain (15%/7%/5% vs initial 40%/35%/25%), confirmés cohérents avec flow E&C observé (700 notaires formés en 4 mois = ~12 % TAM/an S1 2026). Méthodologie détaillée : [METHODOLOGY.md](Appendix_2_Methodology.md).
+Version finalisée au 22/04/2026. Le fichier intègre les filtres SAM recalibrés post-challenge terrain (15%/7%/5% vs initial 40%/35%/25%), confirmés cohérents avec flow E&C observé (700 notaires formés en 4 mois = ~12 % TAM/an S1 2026). Méthodologie détaillée : [METHODOLOGY.md](Appendix_1_Methodology.md).
 
 ---
 
-*Retour au [glossaire](./Appendix_3_Glossary.md) · [méthodologie](./Appendix_2_Methodology.md) · [index rapport](./README.md)*
+*Retour au [glossaire](./Appendix_3_Glossary.md) · [méthodologie](./Appendix_1_Methodology.md) · [index rapport](./README.md)*

@@ -1,4 +1,4 @@
-# Appendix 2 — Methodology
+# Appendix 1 — Methodology
 
 *Ce document décrit comment l'étude a été menée. Les résultats et recommandations stratégiques figurent dans le rapport final (15 pages) et dans les fichiers complémentaires par section.*
 
@@ -96,7 +96,7 @@ Cinq hypothèses sur le marché ont été posées avant les entretiens terrain. 
 
 ### 2.5 Livrables Phase A
 
-L'état du marché pré-terrain, la cartographie des 6 segments, le scoring multidimensionnel et les 5 Leaps of Faith posées avant entretiens sont consolidés dans **[Market State](./A_Market_State.md)**. Le détail du marché adressable (TAM / SAM / SOM post-révision terrain) figure dans **[Market Sizing](./Appendix_4_Market_Sizing.md)**. Les statuts terrain des 5 Leaps of Faith sont repris dans **[What Fieldwork Revealed — Hypotheses Verdict](./B_Fieldwork_Reversals.md)**. Le rationale complet de sélection des segments approfondis figure dans **[Final Scoring](./B_Fieldwork_Reversals.md)**.
+L'état du marché pré-terrain, la cartographie des 6 segments, le scoring multidimensionnel et les 5 Leaps of Faith posées avant entretiens sont consolidés dans **[Market State](./A_Market_State.md)**. Le détail du marché adressable (TAM / SAM / SOM post-révision terrain) figure dans **[Market Sizing](./Appendix_5_Market_Sizing.md)**. Les statuts terrain des 5 Leaps of Faith sont repris dans **[What Fieldwork Revealed — Hypotheses Verdict](./B_Fieldwork_Reversals.md)**. Le rationale complet de sélection des segments approfondis figure dans **[Final Scoring](./B_Fieldwork_Reversals.md)**.
 
 ---
 
@@ -299,8 +299,8 @@ Quand les données terrain contredisent le desk initial, l'observation terrain e
 | White space concurrentiel | Cartographie concurrents · matrice · gap Notaires + Experts-comptables · synthèse cross | [Competitive White Space](./C_White_Space.md) |
 | Plan 12 mois | Positionnement · stack partenaires · séquencement · pricing · Qualiopi · KPIs · quick wins | [The 12-Month Path](./D_12m_Path.md) |
 | Modes d'échec et contraintes | Contraintes structurelles · top risques · kill-criteria · BMF qualitatifs | [Failure Modes](./E_Failure_Modes.md) |
-| Sources et index entretiens | 8 interviews · sources réglementaires · statistiques officielles · index livrables | [Sources & Index](./Appendix_1_Sources_Index.md) |
-| Market sizing détaillé | TAM / SAM / SOM 12 et 24 mois par segment | [Market Sizing](./Appendix_4_Market_Sizing.md) |
+| Sources et index entretiens | 8 interviews · sources réglementaires · statistiques officielles · index livrables | [Sources & Index](./Appendix_2_Sources_Index.md) |
+| Market sizing détaillé | TAM / SAM / SOM 12 et 24 mois par segment | [Market Sizing](./Appendix_5_Market_Sizing.md) |
 | Glossaire | Acronymes et termes-clés | [Glossaire](./Appendix_3_Glossary.md) |
 
 ---

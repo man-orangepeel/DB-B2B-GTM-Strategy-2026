@@ -124,9 +124,9 @@ Le stack est organisé en quatre couches de priorité : P0 cross bloquant · P0 
 
 ### 2.4 P0 #3 — OPCO ATLAS · campusAtlas (Experts-comptables scale)
 
-**Identité** : Opérateur de Compétences pour les services financiers. campusAtlas = catalogue collectif de formations financées intégralement pour les salariés de la branche IDCC 787 (138 400 adressables).
+**Identité** : Opérateur de Compétences pour les services financiers. campusAtlas = catalogue collectif de formations financées intégralement pour les salariés de la branche IDCC 787 (~138 000 adressables).
 
-**Rôle** : canal institutionnel de scale experts-comptables salariés. Une fois intégré au catalogue 2027, Découvre Bitcoin obtient un accès quasi-gratuit à une base de 138 400 salariés.
+**Rôle** : canal institutionnel de scale experts-comptables salariés. Une fois intégré au catalogue 2027, Découvre Bitcoin obtient un accès quasi-gratuit à une base de ~138 000 salariés.
 
 **Proposition de valeur pour OPCO ATLAS** : Découvre Bitcoin apporte un contenu différencié (Bitcoin-only, DAC8 frontal, ANC 2026-01 Bitcoin-only + profondeur cabinet) cohérent avec les besoins de montée en compétences crypto-comptabilité de la branche.
 
@@ -440,4 +440,4 @@ Version 1 produite le 22/04/2026. Consolide en un fichier unique le plan d'exéc
 
 ---
 
-*[Retour au README](./README.md) · [Méthodologie](./Appendix_2_Methodology.md) · [Claim](./0_Claim.md) · [Market State](./A_Market_State.md) · [Fieldwork Reversals](./B_Fieldwork_Reversals.md) · [White Space](./C_White_Space.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*
+*[Retour au README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./0_Claim.md) · [Market State](./A_Market_State.md) · [Fieldwork Reversals](./B_Fieldwork_Reversals.md) · [White Space](./C_White_Space.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_2_Sources_Index.md)*

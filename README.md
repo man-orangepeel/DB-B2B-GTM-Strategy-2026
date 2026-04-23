@@ -6,25 +6,20 @@
 
 ## Executive Summary
 
-> *« 5 out of 17,000 notaires are fully autonomous on a Bitcoin case. »*
-> — Gwendal Texier, notary at Liffré · INAN founder · field interview, 07/04/2026
+*Is there a viable B2B training market for Bitcoin in France — and how to enter it?*
 
-### The question
-
-Does a viable B2B opportunity exist for Découvre Bitcoin in France, and how to enter it?
-
-### The answer — what field interviews changed
+### What field interviews changed
 
 <table class="verdict-table">
 <thead>
-<tr><th>Desk rank</th><th>Segment</th><th>Field verdict</th><th>Anchor citation</th><th>Retained?</th></tr>
+<tr><th>Desk</th><th>Segment</th><th>Field verdict</th><th>Anchor citation</th><th>Retained?</th></tr>
 </thead>
 <tbody>
-<tr><td>#1</td><td>CGP (33/40)</td><td>Commission model blocks Bitcoin interest</td><td><em>« the hardest target there is »</em> — LAF</td><td>❌</td></tr>
-<tr class="retained"><td>#2</td><td><strong>Notaires</strong> (30/40)</td><td>Responsive, gap measurable, institutional channel open</td><td><em>« 5 of 17,000 autonomous »</em> — GT</td><td><strong>✅ Priority 1</strong></td></tr>
-<tr><td>#3</td><td>PSAN / CASP (29/40)</td><td>No external training market ; Art. 81 self-drafted</td><td><em>« real barrier = 20–30 % cyber audit »</em> — AG</td><td>❌</td></tr>
-<tr><td>#4</td><td>Banks (28/40)</td><td>Bitcoin in Phase 3 of digital-assets roadmap</td><td><em>« Phase 3 »</em> — MD (BNP)</td><td>⏸</td></tr>
-<tr class="retained"><td>#5</td><td><strong>Chartered accountants</strong> (27/40)</td><td>Strongest Bitcoin-only validation in corpus</td><td><em>« the natural entry point »</em> — JO</td><td><strong>✅ Priority 2</strong></td></tr>
+<tr><td>#1</td><td>CGP<br>(33/40)</td><td>Commission model blocks Bitcoin interest</td><td><em>« the hardest target there is »</em><br>— LAF</td><td>❌</td></tr>
+<tr class="retained"><td>#2</td><td><strong>Notaires</strong><br>(30/40)</td><td>Responsive, gap measurable, institutional channel open</td><td><em>« 5 of 17,000 autonomous »</em><br>— GT</td><td><strong>✅ Priority 1</strong></td></tr>
+<tr><td>#3</td><td>PSAN / CASP<br>(29/40)</td><td>No external training market ; Art. 81 self-drafted</td><td><em>« real barrier = 20–30 % cyber audit »</em><br>— AG</td><td>❌</td></tr>
+<tr><td>#4</td><td>Banks<br>(28/40)</td><td>Bitcoin in Phase 3 of digital-assets roadmap</td><td><em>« Phase 3 »</em><br>— MD (BNP)</td><td>⏸</td></tr>
+<tr class="retained"><td>#5</td><td><strong>Chartered acc.</strong><br>(27/40)</td><td>Strongest Bitcoin-only validation in corpus</td><td><em>« the natural entry point »</em><br>— JO</td><td><strong>✅ Priority 2</strong></td></tr>
 </tbody>
 </table>
 
@@ -34,7 +29,7 @@ Across France's **130,000+ training providers**, none teaches Bitcoin in notaria
 
 - **Seal 3 P0 partnerships by Q3 2026** — 4NK Academy (Qualiopi) · Le Coffre (product) · Gwendal Texier (notary practitioner).
 - **Pilot 1 notary chamber by Q4 2026** outside Toulouse / Lyon (Bretagne, Nouvelle-Aquitaine, Pays de la Loire, Grand Est, Hauts-de-France).
-- **File campusAtlas 2027 catalog application by Q3 2026** — only institutional door to 138,400 IDCC 787 salaried accountants before 2028.
+- **File campusAtlas 2027 catalog application by Q3 2026** — only institutional door to ~138,000 IDCC 787 salaried accountants before 2028.
 - **Secure Rogzy B2B bandwidth ≥ 40 % for 12 months** — internal execution constraint, no partner substitute.
 
 ### What would kill the plan
@@ -48,7 +43,7 @@ Five kill criteria tracked quarterly (detail in § E). Top three : **conversion 
 
 ![Desk vs field matrix](assets/schema_A_matrix.png)
 
-<p><em>2×2 matrix — horizontal axis: segment accessibility (field-measured) · vertical axis: training-need intensity (desk research). Arrows show each segment's movement from the desk-research position to the post-interview position. Notaires and chartered accountants consolidate in the top-right (priority quadrant). CGP, PSAN and Banks move away from priority.</em></p>
+<p class="schema-caption">2×2 matrix — horizontal axis: segment accessibility (field-measured), vertical axis: training-need intensity (desk research). Arrows show each segment's movement from desk-research position to post-interview position. Notaires and chartered accountants consolidate in the top-right priority quadrant.</p>
 
 </div>
 <div class="schema-item" markdown="1">
@@ -57,7 +52,14 @@ Five kill criteria tracked quarterly (detail in § E). Top three : **conversion 
 
 ![GTM 12-month flow](assets/schema_B_gtm_flow.png)
 
-<p><em>Five-block horizontal flow — (1) Bitcoin-only depth as the reference module, not a generalist crypto catalog · (2) two priority segments: notaires and chartered accountants · (3) three P0 partners: 4NK Academy (Qualiopi + RNCP), Le Coffre (Bitcoin-native document anchoring), Gwendal Texier / INAN (notarial practitioner network) · (4) four acquisition channels: national institutional, regional chambers, professional press, direct firm outreach · (5) 150–350 professionals trained in 12 months under the nominal scenario, with OPCO ATLAS financing via the Qualiopi partner.</em></p>
+<p class="schema-caption">Five-block horizontal flow, left to right :</p>
+<ol class="schema-caption-list">
+<li>Bitcoin-only depth — the reference module, not a generalist crypto catalog.</li>
+<li>Two priority segments — notaires and chartered accountants.</li>
+<li>Three P0 partners — 4NK Academy (Qualiopi + RNCP), Le Coffre (Bitcoin-native document anchoring), Gwendal Texier / INAN (notarial practitioner network).</li>
+<li>Four acquisition channels — national institutional, regional chambers, professional press, direct firm outreach.</li>
+<li>150–350 professionals trained in 12 months (nominal scenario, OPCO ATLAS financing via Qualiopi partner).</li>
+</ol>
 
 </div>
 </div>
@@ -87,7 +89,7 @@ No mapped training provider addresses DAC8 frontally as of April 2026.
 
 ### A.3 Training financing
 
-France registered **133,764 training providers** in 2025 (Mon Compte Formation / DGEFP) — none dedicated to Bitcoin for notaires and chartered accountants. Qualiopi certification is the access key : without it, no OPCO, FIFPL, AGEFICE or CPF funding is accessible. Relevant finance channels for the target segments :
+France registered **130,000+ training providers** in 2025 (Mon Compte Formation / DGEFP) — none dedicated to Bitcoin for notaires and chartered accountants. Qualiopi certification is the access key : without it, no OPCO, FIFPL, AGEFICE or CPF funding is accessible. Relevant finance channels for the target segments :
 
 - **OPCO ATLAS PDC TPE** — up to €20,000 per trainee, requires a Qualiopi partner.
 - **Own cabinet budget** — direct sale, no condition.
@@ -105,7 +107,7 @@ Eight-criteria grid on 40 points. Four mission criteria : M1 size, M2 training-n
 | 1 | CGP / CGPI | 33/40 | 7 h/yr AMF obligation + MiCA urgency sub-segment + growing Bitcoin-client portfolio |
 | 2 | Notaires | 30/40 | Inheritance obligation · 12 % of French adults hold crypto · documented professional risk |
 | 3 | PSAN / CASP | 29/40 | Art. 81 MiCA deadline 01/07/2026 · only segment with direct regulatory obligation |
-| 4 | Bank employees | 28/40 | 373,600 salaries · OPCO ATLAS · MiCA pressure via NCA notification |
+| 4 | Bank employees | 28/40 | ~370,000 salaries · OPCO ATLAS · MiCA pressure via NCA notification |
 | 5 | Chartered accountants | 27/40 | Mandatory crypto reporting by clients · 2025 third-party-certifier accreditation · ~22,685 addressable via OEC |
 
 Family offices (25/40) sat below the desk Top 5 ; lawyers were not formally scored. Both lack Phase-A field data. Segment sizing (TAM / SAM / SOM) is deferred to § B, where it is scoped to the two priority segments retained post-field.
@@ -117,7 +119,7 @@ Universally low, heterogeneous by autonomy. No corps professionnel publishes gra
 | Segment | Code | Field anchor |
 |---|:-:|---|
 | Notaires (17,000) | 🔴 Very low | GT : 5 / 17,000 autonomous on a Bitcoin case |
-| Chartered accountants (22,685) | 🟡 Low, emerging pockets | JO : *« Bitcoin is the natural entry point into crypto »* |
+| Chartered accountants (~23,000) | 🟡 Low, emerging pockets | JO : *« Bitcoin is the natural entry point into crypto »* |
 | CGP / CGPI (~6,500) | 🔴 Very low · structural | LAF : *« hardest target there is »* |
 | Bank — digital-assets elite | 🟡 Individually high / structurally nil | MD (BNP) : « self-taught, no internal pathway » |
 | Bank — retail advisors | 🔴 Near zero | Elodie : *« I don't know MiCA, OPCO, Bitcoin ETFs »* |
@@ -125,7 +127,7 @@ Universally low, heterogeneous by autonomy. No corps professionnel publishes gra
 | Lawyers (~70,000) | ⚪ Undocumented | Zero Phase-A interview |
 | Family offices (~300) | ⚪ Undocumented (likely 🔴) | Indirect LAF signal only |
 
-**Strategic reading.** The gap between **client exposure** (strong — 12 % of any CSP+ clientele) and **professional competence** (quasi-nil) defines the DB market window. Segments differ not on average literacy (universally low) but on **decision autonomy** : notaires and libéraux accountants decide autonomously and can equip themselves ; bank retail depends on head-office directives ; CGPs are blocked by a structural conflict between expected portfolio performance and Bitcoin economics. **Literacy is not the obstacle — it is the target.** Full table, limitations and source hierarchy in [Bitcoin Literacy](Appendix_6_Bitcoin_Literacy.md).
+**Strategic reading.** The gap between **client exposure** (strong — 12 % of any CSP+ clientele) and **professional competence** (quasi-nil) defines the DB market window. Segments differ not on average literacy (universally low) but on **decision autonomy** : notaires and libéraux accountants decide autonomously and can equip themselves ; bank retail depends on head-office directives ; CGPs are blocked by a structural conflict between expected portfolio performance and Bitcoin economics. **Literacy is not the obstacle — it is the target.** Full table, limitations and source hierarchy in [Bitcoin Literacy](Appendix_4_Bitcoin_Literacy.md).
 
 ### A.6 Five kill criteria (pre-field)
 
@@ -196,11 +198,11 @@ Only two segments in the post-field Top 5 show convergent favourable field signa
 
 ### B.6 Market sizing — two priority segments
 
-Sizing applied to notaires (17,000), libéral chartered accountants (22,685) and IDCC 787 salaried accountants (138,400 — addressable via OPCO ATLAS campusAtlas). Price references consolidated from INFN / INAFON / AUREP / Force Patrimoine × Expert Crypto. Full assumptions (H1–H8), filter logic and scenarios in [Appendix 4 — Market Sizing](Appendix_4_Market_Sizing.md).
+Sizing applied to notaires (17,000), libéral chartered accountants (~23,000) and IDCC 787 salaried accountants (~138,000 — addressable via OPCO ATLAS campusAtlas). Price references consolidated from INFN / INAFON / AUREP / Force Patrimoine × Expert Crypto. Full assumptions (H1–H8), filter logic and scenarios in [Appendix 4 — Market Sizing](Appendix_5_Market_Sizing.md).
 
 | Metric | Notaires | Chartered accountants (libéraux) | IDCC 787 salaried accountants | **Cross** |
 |---|:-:|:-:|:-:|:-:|
-| Population | 17,000 | 22,685 | 138,400 | 178,085 |
+| Population | 17,000 | ~23,000 | ~138,000 | ~178,000 |
 | **TAM** (€/yr) | 17–25 M | 11–34 M | 28–69 M | **56–128 M** |
 | **SAM** (€/yr) | 2.5–3.8 M | 0.8–2.4 M | 1.4–3.5 M | **4.7–9.7 M** |
 | **SOM T+12** (€ cumul.) | 20–80 k | 6–36 k | 0–12 k | **26–128 k** |
@@ -230,7 +232,7 @@ Four categories occupy the French landscape :
 
 - **Force Patrimoine × Expert Crypto** — moved to the front of ANC 2026-01 alignment since their site update on 23/03/2026 · 3-day distance course at €1,475 ex. VAT + 72 €/month SaaS + delegated accounting service.
 - **Revue Fiduciaire** and **Lefebvre Dalloz** — one-day multi-crypto tracks.
-- **OPCO ATLAS / campusAtlas** — institutional pathway for branch IDCC 787's 138,400 salaried accountants · 2027 catalog call open (T2-T3 2026 deadline).
+- **OPCO ATLAS / campusAtlas** — institutional pathway for branch IDCC 787's ~138,000 salaried accountants · 2027 catalog call open (T2-T3 2026 deadline).
 
 ### C.3 Condensed competitor matrix (8 axes of 13 × 5)
 
@@ -408,7 +410,7 @@ The B2B training sales cycle in France is structurally 3 to 6 months, with furth
 
 ---
 
-## Conclusion — Implications for Découvre Bitcoin
+## Conclusion
 
 **The opportunity is real but time-bound.** Découvre Bitcoin has a 12-month window to become the reference Bitcoin module for notaires and chartered accountants in France — a window the field is actively closing.
 
@@ -416,7 +418,7 @@ The B2B training sales cycle in France is structurally 3 to 6 months, with furth
 
 1. **4NK Academy Qualiopi partnership signed by Q3 2026** — without it the OPCO circuit stays closed and scale depends entirely on one-shots.
 2. **First notary chamber pilot activated outside Toulouse / Lyon before Q4 2026** — the signal that the model replicates beyond the founding practitioner network.
-3. **campusAtlas 2027 catalog application filed before the Q3 2026 deadline** — the only institutional door to IDCC 787's 138,400 salaried accountants before 2028.
+3. **campusAtlas 2027 catalog application filed before the Q3 2026 deadline** — the only institutional door to IDCC 787's ~138,000 salaried accountants before 2028.
 4. **Rogzy's product bandwidth held at ≥ 40 % on B2B across 12 months** — the internal execution constraint no partner can substitute.
 
 **Three external signals to watch.**
@@ -429,7 +431,7 @@ The B2B training sales cycle in France is structurally 3 to 6 months, with furth
 
 ---
 
-## Companion files — section-by-section detail
+## Companion files
 
 The six companion files below extend each section of the report (0 to E) with the underlying analysis, citations and full tables. They follow the section flow of the report.
 
@@ -448,12 +450,12 @@ The six appendices below provide cross-section evidence and methodological suppo
 
 | # | Appendix | Content | Link |
 |:-:|---|---|---|
-| I | **Sources & Interview Index** | Primary data (8 interviews) · regulatory texts · official statistics · confidence hierarchy | [Appendix_1_Sources_Index.md](Appendix_1_Sources_Index.md) |
-| II | **Methodology** | Segment-first protocol · 8-criterion scoring grid · field confidence levels · interview guide structure | [Appendix_2_Methodology.md](Appendix_2_Methodology.md) |
+| I | **Methodology** | Segment-first protocol · 8-criterion scoring grid · field confidence levels · interview guide structure | [Appendix_1_Methodology.md](Appendix_1_Methodology.md) |
+| II | **Sources & Interview Index** | Primary data (8 interviews) · regulatory texts · official statistics · confidence hierarchy | [Appendix_2_Sources_Index.md](Appendix_2_Sources_Index.md) |
 | III | **Glossary** | Technical terms · regulatory acronyms · named actors (practitioners, organisations, competitors) | [Appendix_3_Glossary.md](Appendix_3_Glossary.md) |
-| IV | **Market Sizing & Scoring** | TAM/SAM/SOM · full pre-field and post-field scoring matrix (6 segments × 8 criteria) | [Appendix_4_Market_Sizing.md](Appendix_4_Market_Sizing.md) |
-| V | **Distribution Partners** | Detailed partner fiches — P0 / P1 / Plans B · contact info · agreement status | [Appendix_5_Distribution_Partners.md](Appendix_5_Distribution_Partners.md) |
-| VI | **Bitcoin Literacy by Segment** | Field + desk literacy signal · 9 segments · qualitative codes · methodological limitations · sources retained and rejected | [Appendix_6_Bitcoin_Literacy.md](Appendix_6_Bitcoin_Literacy.md) |
+| IV | **Bitcoin Literacy by Segment** | Field + desk literacy signal · 9 segments · qualitative codes · methodological limitations · sources retained and rejected | [Appendix_4_Bitcoin_Literacy.md](Appendix_4_Bitcoin_Literacy.md) |
+| V | **Market Sizing & Scoring** | TAM/SAM/SOM · full pre-field and post-field scoring matrix (6 segments × 8 criteria) | [Appendix_5_Market_Sizing.md](Appendix_5_Market_Sizing.md) |
+| VI | **Distribution Partners** | Detailed partner fiches — P0 / P1 / Plans B · contact info · agreement status | [Appendix_6_Distribution_Partners.md](Appendix_6_Distribution_Partners.md) |
 
 ---
 

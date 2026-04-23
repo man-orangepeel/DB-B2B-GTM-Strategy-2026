@@ -1,4 +1,4 @@
-# Appendix 6 — Bitcoin Literacy by Professional Segment
+# Appendix 4 — Bitcoin Literacy by Professional Segment
 
 *Tableau consolidé de la littératie Bitcoin par segment professionnel français · triangulation terrain (8 entretiens Phase A) × baselines publiques sourcées · codes qualitatifs en lieu et place de scores numériques fabriqués · limitations méthodologiques explicites.*
 
@@ -24,8 +24,8 @@ Cette annexe documente le niveau de littératie Bitcoin observé par segment pro
 
 | Segment | Signal terrain (entretien) | Chiffre sourcé disponible | Code qualitatif | Source primaire |
 |---|---|:---:|:---:|---|
-| **Notaires** (17 000 FR) | GT : « 5 notaires en France sur 17 000 sont en totale autonomie pour gérer un dossier Bitcoin » · NC confirme | **0,03 %** autonomes (estimation GT terrain) | 🔴 **Très bas** | Phase A interviews — voir [Appendix 1](Appendix_1_Sources_Index.md) |
-| **Experts-comptables** (22 685 FR) | JO : « Bitcoin c'est vraiment le point d'entrée pour moi dans les crypto-actifs » · JO = EC libéral autonome sur formation · signal n=1 | Aucun chiffre population-level disponible | 🟡 **Bas avec poches émergentes** | Phase A · [OEC formation continue 120h/3 ans](https://www.oec-paris.fr/l-ordre-vous-accompagne/formations/) |
+| **Notaires** (17 000 FR) | GT : « 5 notaires en France sur 17 000 sont en totale autonomie pour gérer un dossier Bitcoin » · NC confirme | **0,03 %** autonomes (estimation GT terrain) | 🔴 **Très bas** | Phase A interviews — voir [Appendix 1](Appendix_2_Sources_Index.md) |
+| **Experts-comptables** (~23 000 FR) | JO : « Bitcoin c'est vraiment le point d'entrée pour moi dans les crypto-actifs » · JO = EC libéral autonome sur formation · signal n=1 | Aucun chiffre population-level disponible | 🟡 **Bas avec poches émergentes** | Phase A · [OEC formation continue 120h/3 ans](https://www.oec-paris.fr/l-ordre-vous-accompagne/formations/) |
 | **CGP / CGPI** (~6 500 CIF) | LAF : « Les CGP sont la cible la plus dure qui existe » · « niveau Bitcoin zéro » CGP family office | Aucun chiffre publié par Anacofi | 🔴 **Très bas** (validé terrain) | Phase A · [Crypto Patrimoine × commission TECH Anacofi](https://www.crypto-patrimoine.fr/academie/crypto-et-cgp-comment-et-pourquoi/) |
 | **Banques — Digital Assets (élite)** | MD (BNP) : compétences Bitcoin « acquises personnellement, de façon autodidacte » · « pas connaissance d'un parcours comme ça chez BNP » | n=1 témoignage direct | 🟡 **Élevé individuel · nul structuré** | Phase A |
 | **Banques — conseillers agence (retail)** | Elodie (AFS/Arkea) : « ne connaît pas MiCA, OPCO, les ETF Bitcoin · jamais eu de demande client » · AS : « les gens recrutés sont déjà compétents · pas de marché de formation » | Non documenté publiquement | 🔴 **Quasi nul** | Phase A |
@@ -57,7 +57,7 @@ Les segments se différencient moins par niveau moyen (universellement bas) que 
 |---|---|
 | **Aucune baseline publique granulaire par profession × connaissance Bitcoin** | Le rapport ne peut pas produire de score quantitatif par segment. Les codes qualitatifs sont dérivés de signaux terrain + desk convergents. |
 | **Avocats + Family offices : 0 entretien Phase A** | Ces deux segments du Top 5 post-révision sont reconnus comme **non documentés terrain** — segments « moyen terme non validés » dans le rapport. |
-| **EC : n=1 entretien (JO) comme seul ancrage terrain** | Le signal « Bitcoin = point d'entrée » est fort mais non généralisable mécaniquement à 22 685 EC. Pondéré par convergence desk (OEC formation continue 120 h / 3 ans + ANC 2026-01 + Force Patrimoine 700+ inscrits S1 2026). |
+| **EC : n=1 entretien (JO) comme seul ancrage terrain** | Le signal « Bitcoin = point d'entrée » est fort mais non généralisable mécaniquement à ~23 000 EC. Pondéré par convergence desk (OEC formation continue 120 h / 3 ans + ANC 2026-01 + Force Patrimoine 700+ inscrits S1 2026). |
 | **Chiffre GT 5/17 000 = estimation praticien, pas statistique CSN** | Le CSN ne publie pas de baseline compétences Bitcoin notaires. Le chiffre est une estimation autorisée par un notaire en exercice + co-fondateur INAN — à présenter comme tel (source nominative), pas comme statistique officielle. |
 | **Dimensions technique / fiscal / comptable / succession non stratifiées** | La granularité disponible s'arrête au signal qualitatif global par segment ; aucune ventilation par dimension n'est défendable sur les données existantes. |
 | **12 % ADAN/KPMG = population générale, pas clientèle spécifique à chaque profession** | Un CGP family office (patrimoines >5 M€) et un notaire rural ne voient pas la même distribution crypto dans leur clientèle. Le 12 % est un ancrage macro, pas une projection par portefeuille. |
@@ -75,7 +75,7 @@ Ces six limitations sont reprises dans la lecture des modes de défaillance ([Fa
 | 12 % Français détiennent crypto · 49 % CSP+ · 70 % hommes · tranches âge | [Étude ADAN × KPMG × IPSOS 2024 (PDF)](https://www.adan.eu/wp-content/uploads/2024/03/ETUDE-ADAN-x-KPMG-2024-FR.pdf) · [Page KPMG](https://kpmg.com/fr/fr/insights/crypto/crypto-france-etude-kpmg-adan.html) · [Page ADAN](https://www.adan.eu/publication/etude-adan-kpmg-crypto-web3-france-europe/) | Ancrage population générale — ligne « Population générale » du tableau §2 |
 | OEC formation continue obligatoire 120 h / 3 ans dont 20 h / an minimum | [OEC Paris — formations professionnelles](https://www.oec-paris.fr/l-ordre-vous-accompagne/formations/) | Contexte structurel EC, pas littératie directe |
 | Crypto Patrimoine × commission TECH Anacofi · formation CGP gratuite 31 modules | [Crypto Patrimoine](https://www.crypto-patrimoine.fr/academie/crypto-et-cgp-comment-et-pourquoi/) · [Mon Livret C — formation gratuite CGP](https://www.monlivretc.com/formation-crypto-actifs-conseiller-gestion-de-patrimoine/) | Contexte offre existante CGP — confirme le benchmark |
-| Phase A interviews (8 praticiens, 07-14/04/2026) | Voir [Appendix 1 — Sources & Interview Index](Appendix_1_Sources_Index.md) | Source terrain de chaque ligne du tableau §2 |
+| Phase A interviews (8 praticiens, 07-14/04/2026) | Voir [Appendix 1 — Sources & Interview Index](Appendix_2_Sources_Index.md) | Source terrain de chaque ligne du tableau §2 |
 
 ### 5.2 Sources écartées (revue web — résumés non vérifiables)
 
@@ -90,11 +90,11 @@ Ces deux claims pourraient être vraies en théorie mais n'ont pas été vérifi
 
 ## 6. Cohérence cross-fichiers
 
-- ✅ Ligne « Population générale » alignée avec [Appendix 4 — Market Sizing](Appendix_4_Market_Sizing.md) §6 et [Market State](A_Market_State.md) (ancrage 12 % ADAN/KPMG)
+- ✅ Ligne « Population générale » alignée avec [Appendix 4 — Market Sizing](Appendix_5_Market_Sizing.md) §6 et [Market State](A_Market_State.md) (ancrage 12 % ADAN/KPMG)
 - ✅ Ligne « Notaires » alignée avec [Competitive White Space](C_White_Space.md) (5 / 17 000 GT) et [What Fieldwork Revealed](B_Fieldwork_Reversals.md)
 - ✅ Ligne « EC » alignée avec verdict Top 5 post-révision terrain (27/40)
 - ✅ Limitations §4 reprises dans [Failure Modes](E_Failure_Modes.md)
 
 ---
 
-*[Retour au README](./README.md) · [Sources & Interview Index](Appendix_1_Sources_Index.md) · [Methodology](Appendix_2_Methodology.md) · [Market Sizing](Appendix_4_Market_Sizing.md)*
+*[Retour au README](./README.md) · [Sources & Interview Index](Appendix_2_Sources_Index.md) · [Methodology](Appendix_1_Methodology.md) · [Market Sizing](Appendix_5_Market_Sizing.md)*

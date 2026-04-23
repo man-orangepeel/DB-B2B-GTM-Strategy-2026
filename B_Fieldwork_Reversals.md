@@ -132,7 +132,7 @@ Aurore Galves documente par ailleurs un marché en **contraction** : les PSAN no
 
 ### 2.3 Retournement 3 — Banques différées à horizon 2-3 ans
 
-**Ce que disait le desk.** Les salariés des banques étaient scorés en **priorité 4 desk** (28/40) : volume (373 600 salariés · plus de 300 banques), OPCO ATLAS, pression MiCA indirecte.
+**Ce que disait le desk.** Les salariés des banques étaient scorés en **priorité 4 desk** (28/40) : volume (~370 000 salariés · plus de 300 banques), OPCO ATLAS, pression MiCA indirecte.
 
 **Ce que dit le terrain.** MD, responsable Digital Assets chez BNP Paribas :
 
@@ -258,4 +258,4 @@ Version 1 produite le 22/04/2026. Consolide en un fichier unique : les huit port
 
 ---
 
-*[Retour au README](./README.md) · [Méthodologie](./Appendix_2_Methodology.md) · [Claim](./0_Claim.md) · [Market State](./A_Market_State.md) · [White Space](./C_White_Space.md) · [12-Month Path](./D_12m_Path.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*
+*[Retour au README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./0_Claim.md) · [Market State](./A_Market_State.md) · [White Space](./C_White_Space.md) · [12-Month Path](./D_12m_Path.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_2_Sources_Index.md)*

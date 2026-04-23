@@ -1,4 +1,4 @@
-# Appendix 5 — Distribution Partners
+# Appendix 6 — Distribution Partners
 
 *Cette annexe consolide l'intégralité des entités partenariales identifiées Phase A (interviews) et Phase B/C (desk research · stack partenariats + scoring canaux v2). Rattachée au rapport final en Appendix A (hors 15 pages). Le rapport principal (D.2 Partner selection) pointe vers cette annexe — aucune duplication de contenu.*
 >
@@ -73,7 +73,7 @@ Grille appliquée aux OF candidats susceptibles de distribuer la formation DB à
 
 ### 3.1 4NK Academy (Nicolas Cantu — fondateur) · **Score 76/100 · P0**
 
-**4NK Academy** (Rouen · site 4nk.academy), fondée et dirigée par **Nicolas Cantu (NC)**, serial entrepreneur Bitcoin FR (co-fondateur Chain Accelerator, Bitcoin Technical Advisor Bitcoin Villages, partenaire mining BTC + 4nk.organic méthanisation avec MP). 4NK Academy est **Qualiopi** et **seul titulaire en Europe du RNCP niveau 6 Bachelor Développeur Blockchain** — avantage structurel unique pour DB qui accède ainsi à un OF hôte certifié sans délai ni coût Qualiopi propre (économie 6-18 mois + 2-3 k€). Rôle 4NK dans le stack DB : **OF hôte Qualiopi pour modules NO + EC** avec accès OPCO ATLAS (138 400 salariés branche EC IDCC 787), OPCO EP (notaires libéraux), FIFPL. La relation MP ↔ NC étant préétablie (Bitcoin Villages), la démarche est d'exploration commerciale, pas de construction relationnelle.
+**4NK Academy** (Rouen · site 4nk.academy), fondée et dirigée par **Nicolas Cantu (NC)**, serial entrepreneur Bitcoin FR (co-fondateur Chain Accelerator, Bitcoin Technical Advisor Bitcoin Villages, partenaire mining BTC + 4nk.organic méthanisation avec MP). 4NK Academy est **Qualiopi** et **seul titulaire en Europe du RNCP niveau 6 Bachelor Développeur Blockchain** — avantage structurel unique pour DB qui accède ainsi à un OF hôte certifié sans délai ni coût Qualiopi propre (économie 6-18 mois + 2-3 k€). Rôle 4NK dans le stack DB : **OF hôte Qualiopi pour modules NO + EC** avec accès OPCO ATLAS (~138 000 salariés branche EC IDCC 787), OPCO EP (notaires libéraux), FIFPL. La relation MP ↔ NC étant préétablie (Bitcoin Villages), la démarche est d'exploration commerciale, pas de construction relationnelle.
 
 | Synthèse décisionnelle | Détail |
 |---|:---|
@@ -193,7 +193,7 @@ Grille appliquée aux OF candidats susceptibles de distribuer la formation DB à
 
 ### 6.1 OPCO ATLAS campusAtlas · **P0 EC scale**
 
-**OPCO ATLAS** · Opérateur de compétences services financiers (branche EC IDCC 787) · plateforme **campusAtlas** = catalogue actions collectives finançables **jusqu'à 100 % salariés branche** — **138 400 salariés EC** potentiellement accessibles (H-EC12 vérifiée). Seul canal scalable pour cible 50-150 EC formés T+12. Prérequis Qualiopi obligatoire → DB accède via 4NK Academy. Catalogue 2027 ouvert T2-T3 2026 (V-EC8 à confirmer).
+**OPCO ATLAS** · Opérateur de compétences services financiers (branche EC IDCC 787) · plateforme **campusAtlas** = catalogue actions collectives finançables **jusqu'à 100 % salariés branche** — **~138 000 salariés EC** potentiellement accessibles (H-EC12 vérifiée). Seul canal scalable pour cible 50-150 EC formés T+12. Prérequis Qualiopi obligatoire → DB accède via 4NK Academy. Catalogue 2027 ouvert T2-T3 2026 (V-EC8 à confirmer).
 
 | Action immédiate T+0 | V-EC8 S1 : calendrier + prérequis candidature 2027 confirmés |
 |---|:---|

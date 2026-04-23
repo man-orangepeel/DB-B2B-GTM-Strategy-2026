@@ -24,13 +24,13 @@ Les trois éléments sont documentés dans les sections suivantes du rapport : l
 
 | # | Chiffre | Portée | Source publique |
 |:-:|---|---|---|
-| 1 | **130 000+ organismes de formation en France · 0 dédié Bitcoin pour notaires et experts-comptables** | État du marché | Base [Mon Compte Formation / DGEFP](https://www.moncompteformation.gouv.fr/) — 133 764 OF déclarés 2025 |
-| 2 | **2 segments prioritaires · 8 entretiens experts** | Méthodologie | Entretiens terrain avril 2026 (détail : [index entretiens](./Appendix_1_Sources_Index.md)) |
+| 1 | **130 000+ organismes de formation en France · 0 dédié Bitcoin pour notaires et experts-comptables** | État du marché | Base [Mon Compte Formation / DGEFP](https://www.moncompteformation.gouv.fr/) — 130 000+ OF déclarés 2025 |
+| 2 | **2 segments prioritaires · 8 entretiens experts** | Méthodologie | Entretiens terrain avril 2026 (détail : [index entretiens](./Appendix_2_Sources_Index.md)) |
 | 3 | **150 – 350 professionnels formés en 12 mois** | Objectif nominal | 100–200 notaires (segment Notaires) + 50–150 experts-comptables (segment EC) |
 
 **Notes de lecture.** Le chiffre 1 fixe la taille du paysage et l'absence concurrentielle. Le chiffre 2 établit la base empirique de l'étude. Le chiffre 3 exprime le plan opérationnel sous scénario nominal (probabilité d'atteinte 40-50 %, cf. [The 12-Month Path](./D_12m_Path.md)).
 
-Pour le détail du marché adressable (TAM / SAM / SOM), voir [Market State](./A_Market_State.md) et l'annexe dédiée [Market Sizing](./Appendix_4_Market_Sizing.md).
+Pour le détail du marché adressable (TAM / SAM / SOM), voir [Market State](./A_Market_State.md) et l'annexe dédiée [Market Sizing](./Appendix_5_Market_Sizing.md).
 
 ---
 
@@ -56,7 +56,7 @@ Mouvement matrice : besoin confirmé · accessibilité terrain supérieure à l'
 
 #### Experts-comptables — terrain confirmed
 
-Desk : position haut-milieu · besoin moyen-haut (habilitation tiers-certificateur crypto depuis 2025, reporting crypto, ~22 685 experts-comptables libéraux) · accessibilité élevée présumée (petits cabinets = décision autonome de l'associé).
+Desk : position haut-milieu · besoin moyen-haut (habilitation tiers-certificateur crypto depuis 2025, reporting crypto, ~~23 000 experts-comptables libéraux) · accessibilité élevée présumée (petits cabinets = décision autonome de l'associé).
 
 Terrain : position haut-droit · besoin confirmé comme latent mais non urgent. Julien Oréal (JO), expert-comptable libéral : « Bitcoin c'est vraiment le point d'entrée pour moi dans les crypto-actifs. Ce qui s'applique au Bitcoin peut s'appliquer à un autre type de crypto-actif. » Accessibilité confirmée forte : « Nous on a toute liberté, c'est moi qui valide, pas de frein » (JO). Déclencheur documenté : obligation déontologique OEC de formation une fois un dossier crypto accepté par le cabinet.
 
@@ -80,7 +80,7 @@ Mouvement matrice : retournement le plus marqué. Deux sources indépendantes cr
 
 #### Banques — not short-term ready
 
-Desk : position haut-milieu · besoin élevé (373 600 salariés, OPCO ATLAS, pression MiCA) · accessibilité moyenne (grandes banques identifiables BNP, Société Générale, Crédit Agricole).
+Desk : position haut-milieu · besoin élevé (~370 000 salariés, OPCO ATLAS, pression MiCA) · accessibilité moyenne (grandes banques identifiables BNP, Société Générale, Crédit Agricole).
 
 Terrain : position bas-milieu · besoin Bitcoin invalidé court terme. MD, responsable Digital Assets chez BNP Paribas (anonymisé) : « Les banques se focusent sur tout ce qui est digital assets. Ça veut pas dire Bitcoin. Bitcoin est en Phase 3 de roadmap. » Alexandre Stachtchenko : « Tu présupposes qu'il y avait une demande… mais il n'y en avait pas sur Bitcoin. Dès que le mot Bitcoin était mentionné, c'était compliqué. » Accessibilité bloquée structurellement : catalogue DRH centralisé, référencement obligatoire, directive interne de compliance — « Chez BNP, on conseille pas d'exposition directe crypto aujourd'hui » (MD).
 
@@ -132,14 +132,14 @@ Le schéma 2 présente le scénario nominal (probabilité 40-50 %). Il ne visual
 
 | Question | Fichier |
 |---|---|
-| Comment l'étude a-t-elle été menée ? | [Méthodologie](./Appendix_2_Methodology.md) |
+| Comment l'étude a-t-elle été menée ? | [Méthodologie](./Appendix_1_Methodology.md) |
 | Quel était l'état du marché avant les entretiens ? | [Market State](./A_Market_State.md) |
 | Quels retournements les entretiens ont-ils produits ? | [What Fieldwork Revealed](./B_Fieldwork_Reversals.md) |
 | Quelle est la cartographie concurrentielle ? | [Competitive White Space](./C_White_Space.md) |
 | Quel plan sur 12 mois ? | [The 12-Month Path](./D_12m_Path.md) |
 | Quels sont les modes d'échec possibles ? | [Failure Modes](./E_Failure_Modes.md) |
-| Quelles sources ont été consultées ? | [Sources & Index](./Appendix_1_Sources_Index.md) |
-| Quelles sont les valeurs chiffrées du marché adressable ? | [Market Sizing — TAM / SAM / SOM](./Appendix_4_Market_Sizing.md) |
+| Quelles sources ont été consultées ? | [Sources & Index](./Appendix_2_Sources_Index.md) |
+| Quelles sont les valeurs chiffrées du marché adressable ? | [Market Sizing — TAM / SAM / SOM](./Appendix_5_Market_Sizing.md) |
 
 ---
 
@@ -157,4 +157,4 @@ Version 1 créée le 22/04/2026. Intègre la défense par segment initialement p
 
 ---
 
-*[Retour au README](./README.md) · [Méthodologie](./Appendix_2_Methodology.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*
+*[Retour au README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Sources & Index](./Appendix_2_Sources_Index.md)*

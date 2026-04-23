@@ -65,7 +65,7 @@ Avis du Comité de la Réglementation Comptable. Publié le 09/01/2026, applicat
 
 ### 3.1 Le paysage
 
-La France recense 133 764 organismes de formation déclarés en 2025 (base Mon Compte Formation / DGEFP). Aucun n'est dédié à Bitcoin pour les notaires et experts-comptables au moment de l'étude. Deux conditions structurent l'accès à cet écosystème : la certification Qualiopi et l'éligibilité aux dispositifs de financement.
+La France recense 130 000+ organismes de formation déclarés en 2025 (base Mon Compte Formation / DGEFP). Aucun n'est dédié à Bitcoin pour les notaires et experts-comptables au moment de l'étude. Deux conditions structurent l'accès à cet écosystème : la certification Qualiopi et l'éligibilité aux dispositifs de financement.
 
 ### 3.2 Qualiopi — certification qualité pivot
 
@@ -92,7 +92,7 @@ Le CPF représente 5 à 10 % des ventes de formation pour Découvre Bitcoin. Il 
 
 ### 4.1 Matrice de scoring — huit critères sur quarante points
 
-Chaque segment est évalué sur huit critères (quatre mission, quatre complémentaires), échelle 1 à 5, total 0 à 40 points. La méthodologie complète figure dans [Méthodologie](./Appendix_2_Methodology.md).
+Chaque segment est évalué sur huit critères (quatre mission, quatre complémentaires), échelle 1 à 5, total 0 à 40 points. La méthodologie complète figure dans [Méthodologie](./Appendix_1_Methodology.md).
 
 | Critère | Échelle 1-5 |
 |---|---|
@@ -112,8 +112,8 @@ Chaque segment est évalué sur huit critères (quatre mission, quatre compléme
 | 1 | **CGP / CGPI** | 33 | Obligation formation 7 h/an AMF + urgence MiCA sous-segment conseil crypto + portefeuille clients Bitcoin croissant |
 | 2 | **Notaires** | 30 | Obligation inventaire patrimonial (successions) · 12 % des Français détiennent crypto · risque professionnel documenté |
 | 3 | **PSAN / CASP** | 29 | Art. 81 MiCA — obligation fit and proper deadline 01/07/2026 · seul segment avec obligation réglementaire directe |
-| 4 | **Salariés des banques** | 28 | Volume 373 600 salariés · OPCO ATLAS · pression réglementaire MiCA via notification NCA |
-| 5 | **Experts-comptables** | 27 | Reporting crypto obligatoire clients · habilitation tiers-certificateur 2025 · 22 685 EC adressables via OEC |
+| 4 | **Salariés des banques** | 28 | Volume ~370 000 salariés · OPCO ATLAS · pression réglementaire MiCA via notification NCA |
+| 5 | **Experts-comptables** | 27 | Reporting crypto obligatoire clients · habilitation tiers-certificateur 2025 · ~23 000 EC adressables via OEC |
 
 ### 4.3 Fiches segment — scoring desk détaillé
 
@@ -123,9 +123,9 @@ Chaque segment est évalué sur huit critères (quatre mission, quatre compléme
 
 **PSAN / CASP — 29/40 (rang 3 desk).** Environ 117 entités enregistrées AMF fin 2025 ; sous-segment Bitcoin-only adressable estimé inférieur à 50 structures. Obligation formation Art. 81 MiCA : 80 h initiale + 10-15 h CPD annuelle. Financement : budget propre ; OPCO ATLAS uniquement si plus de 10 salariés.
 
-**Salariés des banques — 28/40 (rang 4 desk).** 373 600 salariés, plus de 300 banques. Pas d'obligation légale crypto directe ; DORA (janvier 2025) pour la résilience numérique. Financement OPCO ATLAS ; cycle DRH 6 à 18 mois ; référencement catalogue obligatoire. MiCA : obligation indirecte — notification NCA si services crypto.
+**Salariés des banques — 28/40 (rang 4 desk).** ~370 000 salariés, plus de 300 banques. Pas d'obligation légale crypto directe ; DORA (janvier 2025) pour la résilience numérique. Financement OPCO ATLAS ; cycle DRH 6 à 18 mois ; référencement catalogue obligatoire. MiCA : obligation indirecte — notification NCA si services crypto.
 
-**Experts-comptables — 27/40 (rang 5 desk).** 22 685 experts-comptables et environ 190 000 collaborateurs. 21 000 cabinets, majorité TPE. Obligation DPC (OEC) annuelle récurrente. Financement double : AGEFICE (dirigeants TNS) et OPCO ATLAS (collaborateurs). MiCA indirecte — obligations liées aux clients. Experts-comptables habilités tiers-certificateurs pour les déclarations crypto depuis 2025.
+**Experts-comptables — 27/40 (rang 5 desk).** ~23 000 experts-comptables et environ 190 000 collaborateurs. 21 000 cabinets, majorité TPE. Obligation DPC (OEC) annuelle récurrente. Financement double : AGEFICE (dirigeants TNS) et OPCO ATLAS (collaborateurs). MiCA indirecte — obligations liées aux clients. Experts-comptables habilités tiers-certificateurs pour les déclarations crypto depuis 2025.
 
 **Family offices — 25/40 (rang 6 desk, hors Top 5 initial).** Environ 2 500 à 3 500 structures de gestion patrimoine HNW actives en France (estimation AFFO). Gestionnaire ou directeur de gestion = décideur autonome. Cycle décisionnel court (1 à 4 semaines). Ticket élevé acceptable (ROI sur AUM). Segment initialement placé en sixième position desk — desk research seul, aucun entretien Phase A.
 
@@ -206,4 +206,4 @@ Version 1 produite le 22/04/2026. Consolide l'état pré-terrain : approche segm
 
 ---
 
-*[Retour au README](./README.md) · [Méthodologie](./Appendix_2_Methodology.md) · [Claim](./0_Claim.md) · [Fieldwork Reversals](./B_Fieldwork_Reversals.md) · [White Space](./C_White_Space.md) · [12-Month Path](./D_12m_Path.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*
+*[Retour au README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./0_Claim.md) · [Fieldwork Reversals](./B_Fieldwork_Reversals.md) · [White Space](./C_White_Space.md) · [12-Month Path](./D_12m_Path.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_2_Sources_Index.md)*

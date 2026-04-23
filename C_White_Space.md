@@ -29,7 +29,7 @@ Cinq catégories d'acteurs occupent aujourd'hui le paysage formation crypto pour
 | Éditeur professionnel | **Revue Fiduciaire Formations** (parcours Entreprise) | Journée 1 j · experts-comptables + commissaires aux comptes | Multi-crypto · sensibilité Entreprise (fiscalité + comptabilisation) |
 | Éditeur juridique | **Lefebvre Dalloz** (module niveau 1) | Journée catalogue généraliste | Multi-crypto · fiscalité orientée |
 | Acteurs Qualiopi généralistes | Acadee (Qualiopi multi-segment, classé P2 opportuniste Plan B) | Catalogue généraliste · blockchain transversal | Multi-crypto · pas de spécialisation EC |
-| Institutionnel branche | **OPCO ATLAS · campusAtlas** (catalogue collectif IDCC 787 · 138 400 salariés adressables) | Catalogue OPCO pluriannuel · candidature 2027 | Multi-crypto · blockchain généraliste |
+| Institutionnel branche | **OPCO ATLAS · campusAtlas** (catalogue collectif IDCC 787 · ~138 000 salariés adressables) | Catalogue OPCO pluriannuel · candidature 2027 | Multi-crypto · blockchain généraliste |
 
 ---
 
@@ -160,4 +160,4 @@ Version 1 produite le 22/04/2026. Intègre les verdicts gap Notaires (neuf crit�
 
 ---
 
-*[Retour au README](./README.md) · [Méthodologie](./Appendix_2_Methodology.md) · [Claim](./0_Claim.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_1_Sources_Index.md)*
+*[Retour au README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./0_Claim.md) · [Failure Modes](./E_Failure_Modes.md) · [Sources & Index](./Appendix_2_Sources_Index.md)*

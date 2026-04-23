@@ -13,9 +13,9 @@
 
 # Appendices
 
-- [1 — Sources & Interview Index](Appendix_1_Sources_Index.md)
-- [2 — Methodology](Appendix_2_Methodology.md)
+- [1 — Methodology](Appendix_1_Methodology.md)
+- [2 — Sources & Interview Index](Appendix_2_Sources_Index.md)
 - [3 — Glossary](Appendix_3_Glossary.md)
-- [4 — Market Sizing & Segment Scoring](Appendix_4_Market_Sizing.md)
-- [5 — Distribution Partners](Appendix_5_Distribution_Partners.md)
-- [6 — Bitcoin Literacy by Segment](Appendix_6_Bitcoin_Literacy.md)
+- [4 — Bitcoin Literacy by Segment](Appendix_4_Bitcoin_Literacy.md)
+- [5 — Market Sizing & Segment Scoring](Appendix_5_Market_Sizing.md)
+- [6 — Distribution Partners](Appendix_6_Distribution_Partners.md)
