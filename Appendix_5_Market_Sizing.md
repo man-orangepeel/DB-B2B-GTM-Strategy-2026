@@ -277,4 +277,4 @@ Version finalisée au 22/04/2026. Le fichier intègre les filtres SAM recalibré
 
 ---
 
-*Retour au [glossaire](./Appendix_3_Glossary.md) · [méthodologie](./Appendix_1_Methodology.md) · [index rapport](./README.md)*
+*Retour au [glossaire](./Appendix_3_Glossary.md) · [méthodologie](./Appendix_1_Methodology.md) · [index rapport](./Report.md)*

@@ -113,4 +113,4 @@ Version 1 produite le 22/04/2026. Regroupe l'index des 8 entretiens (dates, rôl
 
 ---
 
-*[Retour au README](./README.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./The_Claim.md)*
+*[Retour au Rapport](./Report.md) · [Méthodologie](./Appendix_1_Methodology.md) · [Claim](./The_Claim.md)*
