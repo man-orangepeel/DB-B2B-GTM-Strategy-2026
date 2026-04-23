@@ -1,67 +1,45 @@
-# Decision Memo — B2B Go-to-Market for Découvre Bitcoin
+# Note d'aide à la décision — B2B GTM Découvre Bitcoin
 
-*Executive brief for time-constrained readers · 1-2 p standalone · field-anchored · decision-ready · companion to the full 15-page report.*
-
----
-
-## The situation in one sentence
-
-> *« 5 out of 17,000 notaires are fully autonomous on a Bitcoin case. »* — Gwendal Texier, notary at Liffré · INAN founder · field interview 07/04/2026
-
-Across France's 130,000+ registered training providers, **none teaches Bitcoin to notaires and chartered accountants in their professional practice**. Découvre Bitcoin can own this whitespace — but the window is 12 months.
+**À** Rogzy Macadam (fondateur) · Murielle Macadam (pédagogie)  
+**De** Manuel Proquin · Plan B Academy · Avril 2026  
+**Objet** Stratégie d'entrée B2B — marché français de la formation Bitcoin
 
 ---
 
-## What fieldwork changed
+## Recommandation
 
-Eight in-person interviews with French practitioners (07/04 – 14/04/2026) reshuffled the desk-level segment ranking. Three reversals matter :
+Entrer sur les segments **Notaires** et **Experts-comptables** en 12 mois, via un ombrello Qualiopi partenaire (**4NK Academy**), une co-construction praticien (**Gwendal Texier / INAN**) et un couplage produit Bitcoin-natif (**Le Coffre**). Fenêtre opérationnelle estimée à 6–12 mois avant fermeture concurrentielle.
 
-- **CGP / wealth advisors** moved from desk #1 (33/40) to niche. The commission-based revenue model blocks Bitcoin interest structurally. *« The hardest target there is »* (LAF).
-- **PSAN / CASP** moved from desk #3 (29/40) to out of Top 5. No external training market — firms self-draft Art. 81 procedures with lawyers. The real barrier is the 20–30 % cybersecurity audit, not training (AG).
-- **Notaires and chartered accountants** consolidated as the two priority segments. Practitioner signal convergent, autonomous decision-cycle, regulatory trigger (DAC8 · ANC 2026-01), Bitcoin-only validated as standalone value.
+## Contexte
 
----
+Découvre Bitcoin envisage un pivot B2B vers la formation professionnelle en France. La mission consiste à valider si une opportunité existe, à identifier le segment prioritaire, et à proposer un plan d'acquisition. Huit entretiens terrain conduits auprès de praticiens français entre le 07/04 et le 14/04/2026 ont reconfiguré le classement desk des segments. Cette note synthétise les constats décisionnels. L'analyse complète figure dans le rapport 15 pages et ses compagnons.
 
-## Three operational stories
+## Quatre constats-clés
 
-**S1 · Notary inheritance.** A notary receives an estate including 2 BTC on a hardware wallet. Without training, the notary cannot inventory the assets, cannot secure heir access to the keys, and carries professional-liability exposure. With the DB module : identify Bitcoin traces, secure keys, accompany liquidation or custody, anchor the full inventory via Le Coffre.
+- **Marché massivement sous-équipé** — 130 000+ organismes de formation enregistrés en France, **aucun** dédié à Bitcoin pour les notaires et experts-comptables en pratique métier (Mon Compte Formation / DGEFP 2025).
+- **Le terrain a inversé le classement desk** — CGP (desk #1, 33/40) invalidés par LAF, pair-expert CGP et formateur AUREP ; PSAN / CASP (desk #3, 29/40) sortis du Top 5 (AG, ex-fondatrice PSAN Bitcoin Lyon : *« il n'y a pas de marché de formation »*) ; Notaires et Experts-comptables consolidés en priorités 1 et 2 post-terrain (GT, JO convergents).
+- **Fenêtre temporellement bornée** — Experts & Cryptos (notaires) étend ses chambres à raison d'une zone par trimestre (700+ notaires formés au S1 2026) ; Force Patrimoine × Expert Crypto s'est aligné frontalement sur ANC 2026-01 depuis le 23/03/2026. Sans entrée avant Q4 2026, l'espace libre se referme.
+- **Opportunité structurellement actionnable** — trois partenaires P0 identifiés, mobilisables via le réseau Plan B Program ; financement OPCO ATLAS + FIFPL + budget propre cabinet accessible via partenaire Qualiopi ; cible nominale 150–350 professionnels formés (26–128 k€ CA net cumulé · test de succès = ouverture des canaux, pas P&L Year 1).
 
-**S2 · Chartered accountant, first crypto client.** A liberal cabinet accepts its first crypto client. ANC 2026-01 applies to accounting years opening 01/01/2027. Without training, disciplinary risk (OEC obligation of competence) + loss-making billing. With the DB module : book Bitcoin under ANC 2026-01, prepare DAC8 filing, structure a profitable crypto engagement, anchor traceability via Le Coffre.
+## Plan d'action — quatre mouvements datés
 
-**S3 · Le Coffre cross-sell.** A trained professional offers a Le Coffre documentary anchoring file to their own first crypto client. Service already commercialised (notaries + lawyers), cross-segment extension confirmed to chartered accountants (Nicolas Cantu, 20/04/2026). DB gains stickiness and affiliate revenue ; the professional gains perceived value and productivity.
+1. **Sceller trois partenariats P0 avant T3 2026** — 4NK Academy (Qualiopi + RNCP blockchain niveau 6) · Le Coffre (couplage produit) · Gwendal Texier (praticien notaire, INAN).
+2. **Activer une chambre notariale avant T4 2026** hors zones saturées Toulouse / Lyon (cibles prioritaires : Bretagne · Nouvelle-Aquitaine · Pays de la Loire · Grand Est · Hauts-de-France).
+3. **Déposer la candidature campusAtlas 2027 avant T3 2026** — seule porte institutionnelle vers les 138 400 salariés de la branche IDCC 787 avant 2028.
+4. **Sécuriser la bande passante B2B de Rogzy à ≥ 40 % sur 12 mois** — contrainte d'exécution interne, non substituable par un partenaire.
 
----
+## Ce qui invaliderait le plan
 
-## What we recommend
+Trois critères d'invalidation principaux suivis trimestriellement (liste complète dans le rapport § E) :
 
-Enter notaires and chartered accountants together, in a 12-month sequence. Four operational moves :
+- **Taux de conversion prospect → inscrit < 10 % à T+6** — le manque est factuel mais pas ressenti comme urgent par les segments cibles.
+- **Aucun partenariat Qualiopi signé à T+6** — aucune voie de scale institutionnelle possible.
+- **Pilotes avec NPS < 7 et pushback explicite « Bitcoin-only »** — le positionnement lui-même est rejeté.
 
-1. **Seal three P0 partnerships by Q3 2026** — 4NK Academy (Qualiopi + RNCP), Le Coffre (product coupling), Gwendal Texier / INAN (notary practitioner network).
-2. **Pilot one notary chamber by Q4 2026** outside Toulouse / Lyon (Bretagne · Nouvelle-Aquitaine · Pays de la Loire · Grand Est · Hauts-de-France).
-3. **File campusAtlas 2027 catalog application by Q3 2026** — only institutional door to 138,400 IDCC 787 salaried accountants before 2028.
-4. **Secure Rogzy's B2B bandwidth at ≥ 40 % for 12 months** — the internal execution constraint that no partner can substitute.
+## Décision demandée
 
-Nominal target : **150 – 350 professionals trained by Q2 2027** (100-200 notaires + 50-150 chartered accountants). Year-1 revenue stays modest (€26-128 k cumulative net) — the success test is channel opening, not P&L.
-
----
-
-## What could kill it
-
-Five kill criteria tracked quarterly (detail in report § E). Top three :
-
-- **Conversion < 10 % at T+6** — the training gap is factual but not felt as urgency by target segments.
-- **Zero Qualiopi partnership signed at T+6** — no institutional scale path.
-- **Pilot NPS < 7 with explicit Bitcoin-only pushback** — the positioning itself rejected by target segments.
+Validation du lancement de la Phase 1 (semaines S1–S6) : démarrage immédiat du scellage P0 avec Nicolas Cantu et Gwendal Texier, rédaction des publications signature DAC8 Notaires (PUB-1) et ANC 2026-01 Experts-comptables (PUB-2), et préparation de la candidature campusAtlas 2027 via 4NK Academy.
 
 ---
 
-## Next step for Découvre Bitcoin
-
-The full 15-page report develops the market analysis, competitive benchmark and 12-month GTM plan with trimester gates. Online navigation and source files :
-
-- Full report (web) — [man-orangepeel.github.io/DB-B2B-GTM-Strategy-2026](https://man-orangepeel.github.io/DB-B2B-GTM-Strategy-2026/)
-- Source repository — [github.com/man-orangepeel/DB-B2B-GTM-Strategy-2026](https://github.com/man-orangepeel/DB-B2B-GTM-Strategy-2026)
-
----
-
-*Manuel Proquin · Plan B Academy · Bitcoin Business Track · April 2026*
+*Rapport complet, fichiers compagnons et annexes : [mdbook](https://man-orangepeel.github.io/DB-B2B-GTM-Strategy-2026/) · [dépôt GitHub](https://github.com/man-orangepeel/DB-B2B-GTM-Strategy-2026)*
