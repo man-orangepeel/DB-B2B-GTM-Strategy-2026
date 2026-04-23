@@ -1,6 +1,6 @@
 # Note d'aide à la décision — B2B GTM Découvre Bitcoin
 
-**À** Rogzy Macadam (fondateur) · Murielle Macadam (pédagogie)  
+**À** Rogzy (fondateur) · Murielle (product manager)  
 **De** Manuel Proquin · Plan B Academy · Avril 2026  
 **Objet** Stratégie d'entrée B2B — marché français de la formation Bitcoin
 
