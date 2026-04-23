@@ -42,4 +42,5 @@ Validation du lancement de la Phase 1 (semaines S1–S6) : démarrage immédiat 
 
 ---
 
-*Rapport complet, fichiers compagnons et annexes : [mdbook](https://man-orangepeel.github.io/DB-B2B-GTM-Strategy-2026/) · [dépôt GitHub](https://github.com/man-orangepeel/DB-B2B-GTM-Strategy-2026)*
+*Rapport complet, fichiers compagnons et annexes : [mdbook](https://man-orangepeel.github.io/DB-B2B-GTM-Strategy-2026/) · [dépôt GitHub](https://github.com/man-orangepeel/DB-B2B-GTM-Strategy-2026)*  
+*Présentation vidéo (3 min) : [youtu.be/abGJ6gY8BhU](https://youtu.be/abGJ6gY8BhU)*

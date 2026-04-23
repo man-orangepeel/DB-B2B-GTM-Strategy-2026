@@ -4,6 +4,7 @@
 
 # Companion files
 
+- [Présentation vidéo (3 min)](Video.md)
 - [Decision Memo](Decision_Memo.md)
 - [The Claim](The_Claim.md)
 - [A — Market State Before Fieldwork](A_Market_State.md)

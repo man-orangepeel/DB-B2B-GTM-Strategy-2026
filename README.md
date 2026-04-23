@@ -13,6 +13,7 @@ Market research report (15 pages, English) proposing a B2B entry strategy for [D
 | **Full web version** (recommended — report, companion files and appendices) | [man-orangepeel.github.io/DB-B2B-GTM-Strategy-2026](https://man-orangepeel.github.io/DB-B2B-GTM-Strategy-2026/) |
 | **Main report** (15 p EN) | [Report.md](Report.md) |
 | **Decision memo** (1 p FR, standalone brief) | [Decision_Memo.md](Decision_Memo.md) |
+| **Video presentation** (3 min FR, author intro + key takeaways) | [youtu.be/abGJ6gY8BhU](https://youtu.be/abGJ6gY8BhU) · [Video.md](Video.md) |
 
 ---
 
@@ -20,6 +21,7 @@ Market research report (15 pages, English) proposing a B2B entry strategy for [D
 
 ### Companion files — detailed section-by-section analysis
 
+- [Video presentation](Video.md) — 3-min spoken overview of the study
 - [The Claim](The_Claim.md) — thesis · anchor figures · diagnosis schemas
 - [A — Market State Before Fieldwork](A_Market_State.md)
 - [B — Hypothesis Reversals](B_Fieldwork_Reversals.md)
